@@ -26,7 +26,7 @@ Goal: publish 10 photo slideshows per day to TikTok @thingsyouwouldntgoogle via 
    - For each slideshow k=01..10 write posts/YYYY-MM-DD/k/spec.json and run `python3 pipeline/render.py posts/YYYY-MM-DD/k/spec.json posts/YYYY-MM-DD/k`. It must exit 0 (no overlaps/overflow). If not, shorten the offending text and re-render.
    - Visually spot-check at least slides 1, 2 and 7 of two slideshows (Read the JPGs).
 4. Publish assets
-   - Append the 50 questions to posts/questions_log.csv. Commit everything (backgrounds.csv, posts/) and push to main. Before pushing: `git fetch origin main && git rebase origin/main`.
+   - Append the 50 questions to posts/questions_log.csv. Commit everything (backgrounds.csv, posts/) and push to main. Before pushing: `git fetch origin main && git rebase FETCH_HEAD`, then `git push origin HEAD:main`.
    - Verify each slide's raw URL returns HTTP 200 with curl before scheduling (raw.githubusercontent can take a minute to update; retry).
 5. Schedule in Metricool (createScheduledPost, one call per slideshow)
    - blogId 7553660, date/publicationDate at that slot in America/New_York, providers [{"network":"tiktok"}], autoPublish true, media = the 7 raw URLs in slide order.

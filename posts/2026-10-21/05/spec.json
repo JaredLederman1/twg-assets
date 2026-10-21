@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_028.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions you're too shy to ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_013.jpg",
+   "n": 1,
+   "q": "Is it normal to have no savings in my 20s?",
+   "a": "More common than you'd think. Lots of young adults have little or nothing saved, especially with rent, student loans, and entry-level pay. It's not a moral failure. Starting small still counts: even $20 a paycheck into a separate account builds the habit. Build a small emergency fund first, then bigger goals."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_030.jpg",
+   "n": 2,
+   "q": "What actually happens if I miss a credit card payment?",
+   "a": "You'll usually get a late fee and maybe a higher interest rate. In the US, a missed payment typically isn't reported to the credit bureaus until it's 30 days past due, so paying fast limits the damage. Call your card company, too. They'll sometimes waive a first late fee if you ask nicely."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_012.jpg",
+   "n": 3,
+   "q": "Is it rude to ask friends to split the bill exactly?",
+   "a": "Not rude at all, especially if you ordered less or skipped drinks. Most people would rather you speak up than quietly resent it. Saying it early, like \"mind if we do separate checks?\", feels easier than bringing it up at the end. Good friends care more about honesty than a few dollars."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_079.jpg",
+   "n": 4,
+   "q": "Why do I feel guilty every time I spend money?",
+   "a": "It often comes from how money was talked about growing up, or from times when it felt scarce. A simple budget can actually help, because it gives you permission: if something is in the plan, you're allowed to enjoy it. If money anxiety feels constant and draining, talking to a therapist can help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_096.jpg",
+   "n": 5,
+   "q": "How do I ask for a raise without sounding greedy?",
+   "a": "Asking for a raise is normal business, not greed. Bring specifics: what you've delivered, new responsibilities, and what similar roles pay based on salary data. Ask for a meeting instead of springing it on your manager. Name a number, then pause. Worst case, you learn what it would take to get there."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_078.jpg",
+   "title": "Which one is your bank account?",
+   "emoji": "😅",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

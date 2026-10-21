@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_066.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_044.jpg",
+   "n": 1,
+   "q": "Why do my farts smell worse some days?",
+   "a": "Mostly it's diet. Sulfur-rich foods like eggs, meat, broccoli, cabbage, and garlic make smellier gas, and slower digestion gives gut bacteria more time to work. Most people pass gas 10 to 20 times a day, so you're normal. Worth seeing a doctor if it comes with ongoing pain, bloating, diarrhea, or weight loss."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_015.jpg",
+   "n": 2,
+   "q": "Is it weird to sleep with a stuffed animal as an adult?",
+   "a": "Not weird at all. Lots of adults still sleep with a stuffed animal or a blanket from childhood. Comfort objects can lower stress and make it easier to wind down, especially during big changes or lonely stretches. It doesn't mean you're immature, just that your brain likes feeling safe. Keep it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_063.jpg",
+   "n": 3,
+   "q": "Why do I get so tired after lunch?",
+   "a": "That afternoon slump is real. Your body clock naturally dips in the early afternoon, and a big, carb-heavy meal can make it hit harder. Try a lighter lunch with protein and fiber, plus a short walk afterward. Worth seeing a doctor if you're exhausted all day, every day, or always thirsty too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_041.jpg",
+   "n": 4,
+   "q": "How often should I actually wash my sheets?",
+   "a": "About once a week is the usual advice, or every two weeks at most. Sheets collect sweat, skin cells, body oils, and dust mites fast. Wash them more often if you sweat a lot at night, sleep with pets, or have been sick. Swap pillowcases even more often if you're acne-prone."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_093.jpg",
+   "n": 5,
+   "q": "Why do I cry when I'm angry?",
+   "a": "Super common, and it doesn't mean you're weak. Anger and sadness share a lot of the same stress response, and when emotions spike, tears are one way your body releases the overload. Slowing your breathing helps in the moment. It's also fine to say, \"I'm frustrated, not hurt,\" and keep going."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_004.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

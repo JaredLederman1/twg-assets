@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_080.jpg",
+   "kicker": "no judgement",
+   "title": "Dating questions you'd never ask out loud",
+   "emoji": "💌"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_011.jpg",
+   "n": 1,
+   "q": "Is it bad that I've never been in a relationship?",
+   "a": "Not at all. Plenty of people haven't by their twenties or later, for all kinds of reasons: focus, shyness, timing, or just not meeting the right person. It doesn't mean something is wrong with you. Relationships aren't a race, and lots of people start later and end up really happy."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_009.jpg",
+   "n": 2,
+   "q": "How soon is too soon to say I love you?",
+   "a": "There's no official timeline, and couples say it at very different points. What matters more is whether you mean it and can handle not hearing it back right away. Saying it to pressure someone or keep them around is too soon. If you're unsure, there's nothing wrong with waiting until it feels obvious."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_084.jpg",
+   "n": 3,
+   "q": "Is it normal to get the ick over something tiny?",
+   "a": "Very normal. The ick is a sudden turn-off from something small, like how someone chews or runs for a bus. Sometimes it's harmless and fades as you get to know them. But if everything starts giving you the ick, it might mean you're not that into them, or you're nervous about getting close."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_023.jpg",
+   "n": 4,
+   "q": "Why do I lose interest when someone likes me back?",
+   "a": "This happens more than people admit. Sometimes the chase feels exciting and real closeness feels scary, especially if intimacy makes you anxious. It can also just mean the attraction wasn't that strong. If it's a pattern, it's worth exploring, maybe with a therapist, because it's often more about fear than the other person."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_043.jpg",
+   "n": 5,
+   "q": "Is it okay to date someone shorter than me?",
+   "a": "Absolutely. Height is something people stress about far more than it affects real relationships. What actually makes couples happy is respect, humor, and how you treat each other. If you're worried about what others think, that worry usually fades fast once you're happy. The right person is the right height."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_078.jpg",
+   "title": "Which one is your love life?",
+   "emoji": "😮‍💨",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

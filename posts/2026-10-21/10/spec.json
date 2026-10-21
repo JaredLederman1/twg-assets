@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_046.jpg",
+   "kicker": "no judgement",
+   "title": "Family questions you'd never ask out loud",
+   "emoji": "🫶"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_090.jpg",
+   "n": 1,
+   "q": "Is it normal to not feel close to my parents?",
+   "a": "More common than people say. Personality differences, distance, or old hurts can keep you from feeling close, even if your parents are decent people. Not feeling close doesn't make you ungrateful. You get to decide what relationship feels right for you, whether that means working on it or keeping things polite."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_031.jpg",
+   "n": 2,
+   "q": "Why do I act like a teenager around my family?",
+   "a": "Being around family can pull you right back into old roles and habits, almost automatically. Your brain links those people and places with who you used to be, so old reactions come back fast. It's super common at holidays. Noticing it helps, and so do short breaks, like a walk, to reset."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_086.jpg",
+   "n": 3,
+   "q": "Is it bad that I have a favorite sibling?",
+   "a": "Not bad at all, and you're definitely not alone. It's natural to click more with someone whose personality or sense of humor matches yours. Having a favorite doesn't mean you love the others less. Just try not to make it obvious in ways that could hurt anyone's feelings."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_014.jpg",
+   "n": 4,
+   "q": "Why do I feel guilty setting boundaries with family?",
+   "a": "Many of us were raised to see family obligations as non-negotiable, so saying no can feel like betrayal. But boundaries aren't punishments, they're how relationships stay healthy. Guilt is often just discomfort with doing something new. Keep it simple and kind, and stay consistent, even when it feels awkward."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_045.jpg",
+   "n": 5,
+   "q": "Is it normal to dread going home for the holidays?",
+   "a": "Very normal. Holidays bring travel stress, money pressure, old family dynamics, and lots of expectations. Dreading it doesn't mean you don't love your family. Planning an exit time, your own place to stay, or a friend to text can help. You're also allowed to skip a year and do something different."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_042.jpg",
+   "title": "Which one is your family?",
+   "emoji": "🫣",
+   "sub": "comment the number. we won't tell them"
+  }
+ ]
+}

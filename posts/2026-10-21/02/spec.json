@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_052.jpg",
+   "kicker": "no judgement",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_052.jpg",
+   "n": 1,
+   "q": "Is it normal to feel relieved after a breakup?",
+   "a": "Totally normal. Relief often means part of you knew the relationship wasn't working, even if you loved the person. You can feel relief and grief on the same day, sometimes in the same hour. It doesn't make you cold or mean you never cared. It usually means you're ready for something healthier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_007.jpg",
+   "n": 2,
+   "q": "How long does it actually take to get over someone?",
+   "a": "There's no fixed timeline, and rules like \"half the length of the relationship\" aren't science. For most people, the sharpest pain eases over weeks to months. What helps: less contact, leaning on friends, sleep, and routine. Healing isn't a straight line, and a bad day doesn't mean you're back at zero."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_057.jpg",
+   "n": 3,
+   "q": "Should I unfollow my ex?",
+   "a": "If seeing their posts keeps reopening the wound, yes. Research on social media after breakups found that keeping tabs on an ex was linked to more distress and slower recovery. Unfollowing or muting isn't petty, it's protecting your peace. You can always reconnect later as friends if that ever feels right."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_018.jpg",
+   "n": 4,
+   "q": "Why do I miss them even though they treated me badly?",
+   "a": "Because attachment doesn't switch off just because someone was bad for you. Your brain remembers the good moments and the routine, and on-and-off affection can make a bond feel even stronger. Missing them doesn't mean you should go back. Writing down what actually hurt helps when nostalgia gets loud."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_019.jpg",
+   "n": 5,
+   "q": "Is it weird to grieve a relationship that was never official?",
+   "a": "Not at all. Loss is about attachment, not labels. A situationship can involve real hopes, routines, and closeness, so ending it can hurt just as much. The tricky part is that other people might not take it seriously, which can make you feel silly. Your feelings are valid, so give yourself the same care."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_029.jpg",
+   "title": "Which one hit a little too close?",
+   "emoji": "🥲",
+   "sub": "drop the number. we've all been there"
+  }
+ ]
+}

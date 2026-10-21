@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_078.jpg",
+   "kicker": "be honest…",
+   "title": "Things you'd never Google at work",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_067.jpg",
+   "n": 1,
+   "q": "Is it normal to cry at work?",
+   "a": "Way more common than people admit. Stress, frustration, or bad news can bring on tears, and it doesn't make you unprofessional. Stepping away for a few minutes and taking slow breaths helps. If it's happening often, it may be a sign you're burned out and need more support, from your manager or someone outside work."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_013.jpg",
+   "n": 2,
+   "q": "Why do I feel sick on Sunday nights?",
+   "a": "That's often called the Sunday scaries: anxiety about the week ahead. Stress hormones can cause nausea, a tight stomach, or restlessness. Prepping a bit on Friday and planning one small thing to look forward to on Monday can help. If the dread is constant and heavy, it might be your job, not you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_059.jpg",
+   "n": 3,
+   "q": "Is it weird to eat lunch alone at work?",
+   "a": "Not weird at all. Lots of people use lunch to recharge, especially in busy or very social jobs. Quiet time can actually help you focus better in the afternoon. If you'd like to connect more, join people once or twice a week. Either way, eating alone says nothing bad about you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_005.jpg",
+   "n": 4,
+   "q": "Why do I freeze when my boss asks me a question?",
+   "a": "Being put on the spot can trigger a mini stress response that makes it harder to think clearly. It's normal and doesn't mean you're not smart. Buying time helps: \"Good question, let me check and get back to you this afternoon.\" Then follow up, and you'll come across as thoughtful, not flustered."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_066.jpg",
+   "n": 5,
+   "q": "Is it bad to quit a job after a few months?",
+   "a": "One short stint is common and easy to explain. It only starts to look bad if it becomes a pattern. If the job is hurting your health or isn't what you were promised, leaving can be the right call. Ideally line up something new first, and keep your explanation simple and honest."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_005.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "🫠",
+   "sub": "comment the number. your boss isn't here"
+  }
+ ]
+}

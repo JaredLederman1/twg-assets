@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_006.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_024.jpg",
+   "n": 1,
+   "q": "Why does my heart race when I lie down at night?",
+   "a": "Often you're just finally noticing it. Lying still in a quiet room makes your heartbeat easier to feel, and caffeine, alcohol, stress, or a late workout can bump it up. Worth seeing a doctor if it's very fast or irregular, or comes with chest pain, dizziness, or shortness of breath."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_036.jpg",
+   "n": 2,
+   "q": "Is it bad that I talk to myself out loud?",
+   "a": "Not at all. Talking to yourself is really common and can help you focus, work through problems, and calm down. Some research suggests saying instructions out loud can even improve how well you do a task. Talking to yourself kindly, like a friend would, can help with stress too. You're not weird, you're thinking."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_015.jpg",
+   "n": 3,
+   "q": "Why do I jerk awake right as I'm falling asleep?",
+   "a": "That's a hypnic jerk, and most people get them. It's an involuntary muscle twitch as your body drifts into sleep, sometimes with a falling feeling. Caffeine, stress, and being overtired can make them more frequent. They're harmless on their own. Worth seeing a doctor if movements keep you up most nights."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_034.jpg",
+   "n": 4,
+   "q": "Why do I replay embarrassing moments from years ago?",
+   "a": "Extremely normal. Your brain clings to social mistakes because fitting in with the group once mattered a lot for survival. Those cringe flashbacks often show up when you're tired or stressed. What helps: notice it, remind yourself that almost nobody else remembers it, and gently shift your attention to something else."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_002.jpg",
+   "n": 5,
+   "q": "Why can't I sleep the night before something big?",
+   "a": "Anticipation raises stress hormones like cortisol and adrenaline, which keep your brain alert. It's your body trying to prepare you, just with bad timing. One rough night usually won't wreck your performance. Getting up, dimming the lights, and doing something calm until you're sleepy works better than lying there fighting it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_022.jpg",
+   "title": "Which one keeps you up at night?",
+   "emoji": "🌚",
+   "sub": "comment the number. we're all awake"
+  }
+ ]
+}

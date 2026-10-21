@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_067.jpg",
+   "kicker": "asking for a friend",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_055.jpg",
+   "n": 1,
+   "q": "Why do I sweat so much even when I'm not hot?",
+   "a": "Some people just have more active sweat glands, and stress, spicy food, caffeine, and hormones can all trigger sweating. Clinical-strength antiperspirant applied at night often helps. Worth seeing a doctor if sweating gets in the way of daily life, starts suddenly, or comes with night sweats, fever, or weight loss."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_085.jpg",
+   "n": 2,
+   "q": "Is it normal to not want kids?",
+   "a": "Completely normal. Plenty of people know they don't want children, and that's a valid life choice, not something broken in you. It's okay if your answer changes over time, and okay if it never does. If it's causing friction in a relationship, talk about it openly and early, since it's a big compatibility question."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_001.jpg",
+   "n": 3,
+   "q": "Why do I get so bloated before my period?",
+   "a": "Hormone shifts before your period, especially in progesterone and estrogen, can slow digestion and make your body hold on to water. Eating less salt, moving more, and skipping fizzy drinks can help. It usually eases once your period starts. Worth seeing a doctor if bloating is severe, constant, or comes with a lot of pain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_006.jpg",
+   "n": 4,
+   "q": "Is it normal to not have a best friend?",
+   "a": "Very normal. Lots of adults don't have one single best friend, especially after school, moves, or big life changes. Having a few people you enjoy in different ways counts too. If you want closer friendships, consistency helps most: regular plans with the same people slowly turn acquaintances into real friends."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_064.jpg",
+   "n": 5,
+   "q": "Why do I get a headache when I skip a meal?",
+   "a": "When you go too long without eating, your blood sugar can drop, which can trigger headaches, irritability, and shakiness. Dehydration and caffeine withdrawal often pile on. Regular meals with some protein and enough water usually help. Worth seeing a doctor if headaches are frequent or severe, or come with vision changes."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_009.jpg",
+   "title": "Which one were you scared to ask?",
+   "emoji": "🫢",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

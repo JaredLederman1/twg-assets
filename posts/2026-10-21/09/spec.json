@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_065.jpg",
+   "kicker": "asking for a friend",
+   "title": "Weird body things nobody talks about",
+   "emoji": "🫠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_062.jpg",
+   "n": 1,
+   "q": "Why do I sneeze when I look at the sun?",
+   "a": "That's the photic sneeze reflex, and it affects roughly 1 in 4 people. Bright light seems to accidentally set off nerves linked to sneezing. It often runs in families and is harmless. Just be extra careful driving out of a tunnel into bright sun. Sunglasses can help a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_088.jpg",
+   "n": 2,
+   "q": "Why do my ears pop when I swallow?",
+   "a": "Your Eustachian tubes, small channels connecting your middle ear to the back of your throat, open when you swallow to balance the pressure. That little pop is them doing their job. It's normal. Worth seeing a doctor if your ears feel blocked for days, hurt, or your hearing changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_099.jpg",
+   "n": 3,
+   "q": "Why does my eyelid twitch randomly?",
+   "a": "Usually it's a harmless eyelid twitch called myokymia. Stress, tiredness, too much caffeine, and long screen time are common triggers. It typically goes away on its own within days or weeks. Worth seeing a doctor if it lasts for weeks, spreads to other parts of your face, or makes your eyelid close completely."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_050.jpg",
+   "n": 4,
+   "q": "Why do I get goosebumps from music?",
+   "a": "That's called frisson, and plenty of people get it. Moving music can activate your brain's reward system and release dopamine, which may set off chills and goosebumps. It's especially common during surprising key changes or emotional moments. Research suggests people who are more open to new experiences feel it more often."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_072.jpg",
+   "n": 5,
+   "q": "Why do my feet smell even when they're clean?",
+   "a": "Feet have tons of sweat glands, and bacteria break that sweat down into smelly compounds. Wearing the same shoes every day traps moisture. Rotate your shoes, wear breathable socks, dry between your toes, and try antiperspirant on your feet. Worth seeing a doctor if you notice peeling, itching, or cracks, which can mean athlete's foot."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_083.jpg",
+   "title": "Which one do you do?",
+   "emoji": "👀",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

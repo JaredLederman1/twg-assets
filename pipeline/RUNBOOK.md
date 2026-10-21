@@ -34,3 +34,6 @@ Goal: publish 10 photo slideshows per day to TikTok @thingsyouwouldntgoogle via 
    - tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","disableComment":false,"disableDuet":false,"disableStitch":false,"commercialContentThirdParty":false,"commercialContentOwnBrand":false,"title":<the title-slide hook>,"autoAddMusic":true,"photoCoverIndex":0,"isAigc":false}
    - Skip any slot already in the past. If Metricool returns an error (e.g. plan post limit), stop and report it.
 6. Report: one short summary (posts scheduled with times + hooks, anything skipped, any errors).
+
+## Background pool
+The pool in `backgrounds/` is final. Never generate new background images; always reuse them via `pipeline/pick_backgrounds.py` (least recently used first).

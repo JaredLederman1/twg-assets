@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_058.jpg",
+   "kicker": "be honest…",
+   "title": "Friendship questions you'd never ask out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_040.jpg",
+   "n": 1,
+   "q": "Is it normal to outgrow friends?",
+   "a": "Completely normal. People change jobs, cities, values, and schedules, and some friendships naturally fade when you end up in different places in life. It doesn't mean the friendship failed or that anyone did something wrong. You can be grateful for what it was and let it be. Some friends drift away and come back years later, too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_018.jpg",
+   "n": 2,
+   "q": "Why is it so hard to make friends as an adult?",
+   "a": "Because the setup that made it easy is gone. In school you saw the same people over and over without planning anything. Research suggests closeness takes lots of hours spent together. As an adult you have to create that repetition on purpose, like a weekly class, a club, or a standing coffee. Keep showing up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_053.jpg",
+   "n": 3,
+   "q": "Is it okay to have friends I only see once a year?",
+   "a": "Totally okay. Not every friendship needs weekly contact to be real. Some friends are the kind you can go months without talking to and pick right back up with like no time passed. What matters is that you both feel good about it. A quick check-in text now and then keeps the thread alive between visits."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_027.jpg",
+   "n": 4,
+   "q": "How do I end a friendship without drama?",
+   "a": "Being honest but brief is usually kindest. If it's more of a drift, you can simply make less time. If they ask, or it's a close friend, a calm message like \"I feel like we've grown apart and I need some space\" is enough. You don't owe them a long list of reasons or a debate about it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_087.jpg",
+   "n": 5,
+   "q": "Why do I feel left out when my friends hang without me?",
+   "a": "Humans are wired to care about belonging, so seeing a group photo without you can sting, even when it means nothing. Often it's just logistics, like who was nearby or free. If it keeps happening with people you care about, it's fair to say, \"Hey, I'd love to be included next time.\" Simple and honest works."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_011.jpg",
+   "title": "Which one have you been thinking about?",
+   "emoji": "💭",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

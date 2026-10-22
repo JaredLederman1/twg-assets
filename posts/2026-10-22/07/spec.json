@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_018.jpg",
+   "kicker": "be honest…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_069.jpg",
+   "n": 1,
+   "q": "Why do my thoughts get louder at night?",
+   "a": "During the day, work, noise, and screens keep your mind busy. At night, with fewer distractions and a tired brain, worries come forward and can feel bigger than they really are. Writing them down before bed, or keeping a notepad nearby, can help. Worth talking to a doctor or therapist if anxious nights keep you up most of the week."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_027.jpg",
+   "n": 2,
+   "q": "Is it normal to feel lonely even around people?",
+   "a": "Yes, it's really common. Loneliness is less about how many people are around you and more about feeling seen and understood. You can feel it in a crowd or even in a relationship. One honest conversation with someone you trust often helps more than filling your calendar. If it feels heavy and lasting, a therapist can help too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_035.jpg",
+   "n": 3,
+   "q": "Why do I feel like I'm behind in life?",
+   "a": "Social media shows you everyone's highlights all at once, so it can feel like everyone else is ahead. Real timelines are messy, and people find careers, partners, and homes at very different ages. Being \"behind\" usually means behind a schedule nobody actually agreed on. Try comparing yourself to where you were a year ago instead."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_037.jpg",
+   "n": 4,
+   "q": "Is it weird that I still sleep with the TV on?",
+   "a": "Not weird, lots of people do it. Background noise can make a room feel less empty and cover up stray sounds. The catch is that light and changing noise can make your sleep lighter. A sleep timer, turning the screen away, or switching to white noise can give you the same comfort with better rest."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_002.jpg",
+   "n": 5,
+   "q": "Why do I wake up feeling anxious for no reason?",
+   "a": "Your body naturally releases more cortisol, a stress hormone, in the first hour after waking, which can leave some people feeling jittery first thing. Poor sleep and caffeine on an empty stomach can add to it. Slow breathing and getting up instead of scrolling can help. Worth seeing a doctor or therapist if it happens most mornings."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_004.jpg",
+   "title": "Which one keeps you up at night?",
+   "emoji": "🌙",
+   "sub": "comment the number. you're not the only one"
+  }
+ ]
+}

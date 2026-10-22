@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_013.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions nobody admits to",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_016.jpg",
+   "n": 1,
+   "q": "Is it bad to shower every day?",
+   "a": "Not bad, but it's not required either. Daily showers are fine for most people, but long hot ones with lots of soap can dry out your skin. Many dermatologists say a short, lukewarm shower is plenty, and on off days you can just wash the sweaty spots. If your skin feels tight or itchy, try cutting back a little."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_025.jpg",
+   "n": 2,
+   "q": "How often should I replace my toothbrush?",
+   "a": "Every three to four months is the standard advice from dentists, or sooner if the bristles look frayed, because worn bristles don't clean as well. It's also smart to swap it after you've been sick. Rinse it after brushing and let it air dry upright instead of keeping it in a closed case where it stays damp."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_007.jpg",
+   "n": 3,
+   "q": "Why does my belly button smell?",
+   "a": "Belly buttons are a cozy spot for sweat, dead skin, and bacteria to collect, especially deeper ones, and most people forget to wash them. Gently cleaning it with soap and water in the shower, then drying it well, usually fixes the smell. Worth seeing a doctor if there's discharge, redness, pain, or swelling, which can mean an infection."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_094.jpg",
+   "n": 4,
+   "q": "Do I really need to wash my legs in the shower?",
+   "a": "The soapy water running down helps a bit, but it's worth giving your legs, and especially your feet, a proper wash. Feet sweat a lot, and bacteria and fungus love the warm spaces between your toes. A quick scrub with soap and drying well between your toes is all it takes. Your feet will thank you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_037.jpg",
+   "n": 5,
+   "q": "How often should I wash my bra?",
+   "a": "A common rule of thumb is every two or three wears, or after one wear if you've been sweating a lot. Bras sit against your skin all day and collect sweat and oil. Hand washing or a mesh bag on a gentle cycle, then air drying, helps them last longer. Sports bras should get washed after every workout."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_011.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

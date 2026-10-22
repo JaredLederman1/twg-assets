@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_004.jpg",
+   "kicker": "asking for a friend",
+   "title": "Money questions nobody wants to ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_012.jpg",
+   "n": 1,
+   "q": "What actually is a credit score?",
+   "a": "It's a number, usually between 300 and 850, that tells lenders how likely you are to pay back borrowed money. It's mostly based on paying bills on time, how much of your credit limit you use, and how long you've had credit. Paying on time every single month is the biggest thing you can do for it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_040.jpg",
+   "n": 2,
+   "q": "Is it bad to tell friends I can't afford something?",
+   "a": "Not bad at all, and it's usually a relief for everyone. Plenty of your friends are probably watching their money too. Try, \"That's out of my budget this month, but I'd love to do something cheaper.\" Real friends will get it, and you might give someone else permission to say the same thing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_010.jpg",
+   "n": 3,
+   "q": "How much should I have in an emergency fund?",
+   "a": "A common rule of thumb is three to six months of essential expenses, like rent, groceries, and bills. That can feel huge, so start smaller, since even a few hundred dollars covers lots of surprise costs. Keep it in a separate savings account so it's easy to reach in a pinch but not too easy to spend."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_090.jpg",
+   "n": 4,
+   "q": "Why do I avoid checking my bank account?",
+   "a": "Super common. When money feels stressful, avoiding it can feel safer than seeing the number. But not knowing usually feels worse than the truth. Try a quick check at the same time every week, like Sunday morning with coffee. Small, regular look-ins make it feel normal instead of scary, and you'll catch problems sooner."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_068.jpg",
+   "n": 5,
+   "q": "Is it normal to fight about money in a relationship?",
+   "a": "Very normal. Money is one of the most common things couples argue about. It's often less about the dollars and more about different habits, fears, and what you each grew up with. Calm, regular money talks, not just during a crisis, help a lot. Agreeing on shared goals first makes the details much easier."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_055.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "💸",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_009.jpg",
+   "kicker": "asking for a friend",
+   "title": "Dating questions you're too shy to ask",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_013.jpg",
+   "n": 1,
+   "q": "How long should I wait to text back?",
+   "a": "There's no magic rule. Waiting a set number of hours to seem cool mostly just creates confusion for both of you. Text back when you have a moment and actually want to. Roughly matching their energy is fine, but skip the games. Someone who's right for you won't be scared off by you replying like a normal person."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_020.jpg",
+   "n": 2,
+   "q": "Is it bad that I'm always the one planning dates?",
+   "a": "Not bad, but it's worth noticing. Some people are natural planners, and that's fine. If it starts to feel one-sided, say so kindly: \"I love planning stuff, but I'd love it if you picked the next one.\" How they respond tells you a lot about how invested they are, and good partners are happy to step up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_029.jpg",
+   "n": 3,
+   "q": "Why do I get so nervous before a first date?",
+   "a": "Because your brain treats it like something important, and it kind of is. First-date nerves are super normal, and the other person is probably nervous too. A little prep helps: pick a place you like, plan how you'll get there, and remember it's just two people seeing if they click. It's a coffee, not an exam."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_062.jpg",
+   "n": 4,
+   "q": "Is it okay to date someone I met online?",
+   "a": "Very okay. Meeting online is now one of the most common ways couples get together. Just keep it safe: meet in a public place, tell a friend where you'll be, get there on your own, and never send money to someone you haven't met. Trust your gut if something feels off, and it's fine to leave early."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_006.jpg",
+   "n": 5,
+   "q": "How do I know if they're actually into me?",
+   "a": "Watch what they do more than what they say. People who are interested usually make time for you, remember things you mentioned, start conversations, and make plans that actually happen. Mixed signals over and over are usually a signal in themselves. And if you're still unsure, it's completely okay to just ask them directly."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_016.jpg",
+   "title": "Which one is your situationship?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

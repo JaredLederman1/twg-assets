@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_048.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things nobody warns you about getting older",
+   "emoji": "😮‍💨"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_002.jpg",
+   "n": 1,
+   "q": "Why do I have gray hairs already in my 20s?",
+   "a": "Early grays are mostly genetic, so if a parent went gray early, you might too. Hair turns gray when the pigment cells in your follicles slow down. Smoking is also linked to graying sooner. A few early grays are harmless. Worth a doctor check if it's sudden and widespread, since low B12 or thyroid issues can play a role."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_015.jpg",
+   "n": 2,
+   "q": "Why does my back hurt after just sleeping?",
+   "a": "Waking up stiff is really common. Lying still for hours lets your muscles and joints stiffen, and an old mattress or a twisted sleeping position can strain your back. Gentle stretching and moving around usually loosens things up within half an hour. Worth seeing a doctor if the pain is severe, keeps getting worse, or comes with numbness."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_022.jpg",
+   "n": 3,
+   "q": "Is it normal to need reading glasses in my 40s?",
+   "a": "Very normal. It's called presbyopia. The lens in your eye slowly gets stiffer with age, so focusing up close gets harder, usually starting in your early to mid 40s. Holding your phone at arm's length is the classic sign. Reading glasses or an updated prescription fix it, and a regular eye exam is a good idea anyway."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_017.jpg",
+   "n": 4,
+   "q": "Why is hair growing in weird places now?",
+   "a": "Hormones shift as you age, and some follicles, like the ones in your ears, nose, and eyebrows, start growing longer, coarser hair. A few stray chin hairs are common for women too. It's harmless, so trim or tweeze however you like. Worth seeing a doctor if a lot of new hair shows up quickly, since hormones can be checked."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_052.jpg",
+   "n": 5,
+   "q": "Why does it take me longer to recover from workouts now?",
+   "a": "Muscles tend to repair a bit more slowly as we get older, and most of us sleep less and sit more than we used to, which slows recovery too. Soreness that peaks a day or two after exercise is normal at any age. Enough protein, good sleep, and building up gradually help. Worth seeing a doctor if a joint swells."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_015.jpg",
+   "title": "Which one hit a little too close?",
+   "emoji": "😅",
+   "sub": "drop the number below. we're all aging together"
+  }
+ ]
+}

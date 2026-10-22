@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_003.jpg",
+   "kicker": "no judgement",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_007.jpg",
+   "n": 1,
+   "q": "Is it normal to feel like a fraud at work?",
+   "a": "Super normal. It's often called impostor syndrome, and plenty of successful people say they feel it, especially after a promotion or when starting a new job. Feeling a little out of your depth usually means you're learning. Keeping a list of your wins and kind feedback helps on the bad days. You were hired for a reason."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_037.jpg",
+   "n": 2,
+   "q": "Is it okay to not have a dream job?",
+   "a": "Completely okay. Lots of people treat work as a way to fund the life they actually care about, and that's a valid choice. Not everyone needs a burning passion for their career. A job that's decent, pays fairly, and leaves you energy for friends, hobbies, and rest is honestly a pretty great deal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_084.jpg",
+   "n": 3,
+   "q": "How do I say no to extra work without looking lazy?",
+   "a": "Frame it around priorities, not effort. Try: \"I want to do this well, but I'm at capacity with X and Y. Which should I push back to make room?\" That shows you care about quality and lets your manager make the call. Saying yes to everything usually means doing everything a little worse."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_099.jpg",
+   "n": 4,
+   "q": "Why am I so tired after work when I sat all day?",
+   "a": "Mental work, decisions, meetings, and constant notifications are draining even if your body barely moved. Sitting still for hours can leave you sluggish too. Short walks, getting some daylight, eating lunch away from your desk, and drinking water all help. Worth seeing a doctor if you're exhausted no matter how much you sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_061.jpg",
+   "n": 5,
+   "q": "Is it weird to not be friends with my coworkers?",
+   "a": "Not weird at all. Being friendly and respectful at work is what matters, and plenty of people keep their social life separate from their job. You don't have to go to every happy hour. Being kind, reliable, and easy to work with builds good relationships without forcing a friendship that isn't there."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_002.jpg",
+   "title": "Which one is you at your desk right now?",
+   "emoji": "🫠",
+   "sub": "comment the number. we won't tell your boss"
+  }
+ ]
+}

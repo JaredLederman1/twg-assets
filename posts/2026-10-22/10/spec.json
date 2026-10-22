@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cafes_002.jpg",
+   "kicker": "be honest…",
+   "title": "Relationship questions you'd never say out loud",
+   "emoji": "💭"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_058.jpg",
+   "n": 1,
+   "q": "Is it normal to not want to cuddle all the time?",
+   "a": "Totally normal. People have different needs for touch and personal space, and some just get too warm or overstimulated. Wanting space doesn't mean you love someone less. Saying it kindly helps: \"I love being close, I just sleep better with a bit of room.\" Finding a middle ground is something lots of happy couples do."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_071.jpg",
+   "n": 2,
+   "q": "Is it bad that we don't have the same hobbies?",
+   "a": "Not at all. Plenty of happy couples have very different interests. What matters more is respecting each other's things and having some time together you both enjoy, even if it's just cooking or going on walks. Having your own hobbies can actually keep things interesting, since you each have more to bring back and share."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_050.jpg",
+   "n": 3,
+   "q": "Why do I get jealous so easily?",
+   "a": "Jealousy usually comes from a fear of losing someone or not feeling good enough, often shaped by past hurts. It's a normal feeling, but it's worth getting curious about. Noticing what sets it off and talking calmly with your partner helps more than checking their phone. If it's taking over, a therapist can really help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_002.jpg",
+   "n": 4,
+   "q": "Is it normal for the honeymoon phase to end?",
+   "a": "Yes, and it's not a bad sign. That early rush of excitement naturally settles, often within the first year or two. What replaces it is usually a calmer, deeper kind of closeness. Trying new things together, making time for dates, and still flirting a little all help keep the spark around for the long run."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_044.jpg",
+   "n": 5,
+   "q": "How do I bring up something that's bothering me without a fight?",
+   "a": "Pick a calm moment, not mid-argument or right before bed. Start with how you feel instead of what they did: \"I've been feeling a bit left out lately\" lands better than \"You never include me.\" Then really listen to their side. The goal is to solve it together, not to win."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_004.jpg",
+   "title": "Which one is about your relationship?",
+   "emoji": "👀",
+   "sub": "comment the number. your partner won't know"
+  }
+ ]
+}

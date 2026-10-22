@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_015.jpg",
+   "kicker": "be honest…",
+   "title": "Questions you're too scared to Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_004.jpg",
+   "n": 1,
+   "q": "Why do I get a pimple in the same spot every time?",
+   "a": "Same-spot breakouts often come from something that keeps touching that area, like your phone, hands, hair products, or a pillowcase, or from a pore that never fully cleared. Hormonal breakouts also tend to cluster along the jaw and chin. Try keeping what touches that spot clean. Worth seeing a dermatologist if they're deep, painful, or scarring."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_034.jpg",
+   "n": 2,
+   "q": "Why do I get dizzy when I stand up fast?",
+   "a": "When you stand, gravity pulls blood toward your legs, and for a few seconds your blood pressure dips before your body catches up. A quick head rush is common, especially if you're dehydrated or skipped a meal. Stand up slowly and drink some water. Worth seeing a doctor if you faint or it happens a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_038.jpg",
+   "n": 3,
+   "q": "Why do I bruise so easily?",
+   "a": "Some people just bruise more easily. Fair skin, thinner skin, and getting older all make bruises show up faster, and so can blood-thinning medicines like aspirin. Mystery bruises are usually from bumping into furniture without noticing. Worth seeing a doctor if they're large, frequent, unexplained, or you also bleed easily from your gums or nose."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_019.jpg",
+   "n": 4,
+   "q": "Why do I hate hearing my own voice on recordings?",
+   "a": "Because it really does sound different. When you talk, you hear your voice through the air and through the bones of your skull, which makes it sound deeper and fuller to you. A recording only captures the air part, so it sounds higher and unfamiliar. Everyone else already knows that version. You sound fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_087.jpg",
+   "n": 5,
+   "q": "Why do I forget what I walked into a room for?",
+   "a": "Researchers call it the doorway effect. Walking through a doorway seems to act like a boundary for your brain, so it files the last moment away and that thought gets harder to grab. It happens to almost everyone and isn't a sign of a memory problem. Going back to where you had the thought often brings it back."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_083.jpg",
+   "title": "Which one have you typed and deleted?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

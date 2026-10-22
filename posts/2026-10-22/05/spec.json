@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_032.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_035.jpg",
+   "n": 1,
+   "q": "Why does my stomach growl so loud?",
+   "a": "That rumble is your gut moving food, liquid, and gas along, and it gets louder when your stomach and intestines are mostly empty, since there's less inside to muffle the sound. It's completely normal. Eating smaller meals more regularly can help. Worth seeing a doctor if it comes with pain, diarrhea, or bloating that won't go away."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_063.jpg",
+   "n": 2,
+   "q": "Is it normal to have stretch marks if I've never been pregnant?",
+   "a": "Very normal. Stretch marks happen when skin stretches quickly, like during growth spurts, weight changes, or building muscle, and most people have some. They often start red or purple and fade to silvery over time. Creams don't do much to prevent them. Worth checking with a doctor if lots appear suddenly without a clear reason."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_052.jpg",
+   "n": 3,
+   "q": "Why are my hands always cold?",
+   "a": "Often it's just how you're built. Your body keeps warm blood around your core, and people with less muscle or lower body weight tend to feel it more in their hands and feet. Stress can do it too. Worth seeing a doctor if your fingers turn white or blue, or if you're always tired and cold."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_057.jpg",
+   "n": 4,
+   "q": "Why do I have a metallic taste in my mouth?",
+   "a": "It can come from lots of everyday things, like a cold or sinus infection, some medicines and vitamins, pregnancy, or gum irritation. It often goes away on its own. Drinking water and keeping up with brushing and flossing help. Worth seeing a doctor or dentist if it lasts more than a couple of weeks or keeps coming back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_069.jpg",
+   "n": 5,
+   "q": "Why do I yawn when other people yawn?",
+   "a": "Contagious yawning is incredibly common, and scientists still debate exactly why. One leading idea is that it's linked to social connection, since people seem to catch yawns more easily from friends and family than from strangers. Even reading about yawning can set it off. If you yawned at least once reading this, you're totally normal."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_030.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "🙈",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

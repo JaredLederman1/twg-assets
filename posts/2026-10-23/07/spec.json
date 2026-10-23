@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cafes_004.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions nobody admits to",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_043.jpg",
+   "n": 1,
+   "q": "How often should I wash my towels?",
+   "a": "A common rule of thumb is every three or four uses, so roughly once a week for most people. Towels stay damp, and damp fabric is where bacteria and that musty smell build up. Hang them spread out so they dry fully between uses. If one smells funky even after drying, it's time for the wash."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_008.jpg",
+   "n": 2,
+   "q": "Is it bad to sleep with wet hair?",
+   "a": "It won't give you a cold, since colds come from viruses, not damp hair. But wet hair is weaker and more likely to tangle and break while you toss and turn, and a damp pillow isn't great for your skin. If you shower at night, try to give your hair a little time to dry first."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_055.jpg",
+   "n": 3,
+   "q": "Why does my breath smell even after brushing?",
+   "a": "Bad breath often comes from bacteria on the back of your tongue, which brushing your teeth misses. Dry mouth, skipping floss, and certain foods make it worse. Try brushing or scraping your tongue, flossing, and drinking more water. Worth seeing a dentist or doctor if it doesn't improve, since gum problems and other issues can cause it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_078.jpg",
+   "n": 4,
+   "q": "How often should I clean my phone?",
+   "a": "Probably more than you do. Your phone goes everywhere with you, including the bathroom, and it picks up germs from your hands all day. Wiping it down every few days is a good habit. Many phone makers say a 70 percent alcohol wipe is fine, but check your phone's care guide and avoid spraying liquid directly on it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_038.jpg",
+   "n": 5,
+   "q": "Do I need to wash new clothes before wearing them?",
+   "a": "It's a good idea. New clothes can have leftover dyes and finishing chemicals from the factory, and they may have been tried on by other people in the store. Most people are fine either way, but washing first is especially smart for underwear, workout clothes, or if you have sensitive skin that gets itchy easily."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_054.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "🧼",
+   "sub": "comment the number. we're all learning"
+  }
+ ]
+}

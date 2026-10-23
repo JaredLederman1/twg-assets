@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_046.jpg",
+   "kicker": "can't sleep either?",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_045.jpg",
+   "n": 1,
+   "q": "Why do I get my best ideas in the shower?",
+   "a": "Showers are relaxing, a little boring, and you can't check your phone. That combination lets your mind wander instead of focusing hard, and a wandering mind is great at connecting ideas you've been stuck on. It's the same reason ideas pop up on walks or while doing dishes. Keep a notes app handy for afterward."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_028.jpg",
+   "n": 2,
+   "q": "Is it bad to scroll my phone in bed?",
+   "a": "It can make it harder to fall asleep. Bright screens can delay melatonin, the hormone that makes you sleepy, and endless videos keep your brain alert and wanting just one more. You don't have to quit completely. Try dimming the screen, turning on night mode, or putting the phone down about 30 minutes before bed."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_073.jpg",
+   "n": 3,
+   "q": "Is it normal to talk in my sleep?",
+   "a": "Yes, sleep talking is really common and usually harmless. Most people do it at some point, and it shows up more when you're stressed, short on sleep, or have been drinking. You won't spill your deepest secrets, it's mostly mumbling. Worth seeing a doctor if you also shout, kick, or act out your dreams."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_027.jpg",
+   "n": 4,
+   "q": "Why do I get so hungry late at night?",
+   "a": "Your body clock plays a part. Studies suggest hunger naturally tends to rise in the evening, and being tired can boost the hormones that make you crave snacks. Not eating enough during the day makes it even stronger. Having a proper dinner with some protein and fiber can help cut down those midnight kitchen trips."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_068.jpg",
+   "n": 5,
+   "q": "Why do I sleep better on the couch than in my bed?",
+   "a": "If you've spent lots of nights lying awake in bed, your brain can start linking your bed with being awake and stressed. The couch has no pressure attached, so you drift off without trying. Sleep experts suggest only using your bed for sleep and getting up if you're awake for a long time."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_027.jpg",
+   "title": "Which one keeps you up at night?",
+   "emoji": "🌙",
+   "sub": "comment the number. we're all awake"
+  }
+ ]
+}

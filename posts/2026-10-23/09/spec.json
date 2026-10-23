@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_066.jpg",
+   "kicker": "asking for a friend",
+   "title": "Friendship questions you'd never ask out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_003.jpg",
+   "n": 1,
+   "q": "Is it normal to need a break from my friends?",
+   "a": "Totally. Even people you love can be draining when you're tired, stressed, or just need quiet to recharge. Taking a few days to yourself doesn't mean the friendship is in trouble. A quick message like, I'm low on energy this week but I miss you, keeps things warm while you rest. Real friends will understand."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_086.jpg",
+   "n": 2,
+   "q": "Why do I feel jealous when my best friend makes new friends?",
+   "a": "Usually it's fear of losing your place in their life, not that you don't want them to be happy. That's a very human feeling. Friendships can make room for new people without shrinking. Try making plans with your friend, or even joining in with the new group. If it keeps bugging you, talk about it gently."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_074.jpg",
+   "n": 3,
+   "q": "How do I make friends after moving to a new city?",
+   "a": "Look for things that put you around the same people again and again, like a class, sports team, gym, or volunteering. Friendship mostly grows from repeated time together. One study estimated it takes around 200 hours together to become close friends, so be patient. Say yes to invites, and be the one who suggests plans."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_025.jpg",
+   "n": 4,
+   "q": "Is it okay to not go to a friend's wedding?",
+   "a": "Sometimes it really isn't possible, whether it's money, travel, work, or something else. What matters most is how you handle it. Tell them early and kindly, send a card or gift if you can, and make a point to celebrate with them another time. A good friend will understand that you still care."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_035.jpg",
+   "n": 5,
+   "q": "Why do I always have to text first?",
+   "a": "Sometimes the other person is just a bad texter, shy, or assumes you'll reach out like you always do. It doesn't automatically mean they don't care. Try telling them it would mean a lot if they reached out sometimes. If it stays completely one-sided after that, it's okay to put your energy into people who show up."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_008.jpg",
+   "title": "Which one have you been thinking about?",
+   "emoji": "🫂",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

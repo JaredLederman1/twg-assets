@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_067.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions you're too shy to ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_048.jpg",
+   "n": 1,
+   "q": "Is it bad to only pay the minimum on my credit card?",
+   "a": "It keeps your account in good standing, but interest gets charged on everything you don't pay off, and credit card interest is usually high. Paying only the minimum can mean the balance takes years to clear and costs a lot more. Paying even a little extra each month helps. Check your statement, it shows the payoff time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_002.jpg",
+   "n": 2,
+   "q": "How do I start budgeting if I'm bad with money?",
+   "a": "Start by just watching. For one month, track everything you spend without judging it. Then sort it into needs, wants, and savings. Some people use the 50/30/20 idea as a rough starting point. A budget isn't about never having fun, it's just deciding where your money goes before it disappears."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_030.jpg",
+   "n": 3,
+   "q": "Is it weird to still get money from my parents?",
+   "a": "Not at all, it's more common than people admit. Lots of adults in their twenties and beyond still get some kind of help from family, whether it's rent, a phone plan, or emergencies. Rent and living costs are high. If you can, say thank you and work toward needing a little less help over time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_087.jpg",
+   "n": 4,
+   "q": "Should I tell my partner how much debt I have?",
+   "a": "If things are getting serious, yes. Debt can affect shared plans like moving in, buying a home, or getting married, so it's better they hear it from you early. Most people have some debt, and being upfront builds trust. Pick a calm moment, share the numbers, and talk about your plan to pay it down."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_027.jpg",
+   "n": 5,
+   "q": "Why do I impulse buy when I'm stressed?",
+   "a": "Buying something gives you a quick hit of reward and a feeling of control, which is exactly what stress makes you crave. The good feeling fades fast though. Try a 24-hour rule before any non-essential purchase, delete saved cards from shopping apps, and find a cheaper way to decompress, like a walk or calling a friend."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_049.jpg",
+   "title": "Which one is your bank account?",
+   "emoji": "💸",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

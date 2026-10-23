@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_031.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_019.jpg",
+   "n": 1,
+   "q": "Why do I get hiccups so randomly?",
+   "a": "Hiccups happen when your diaphragm suddenly spasms and your vocal cords snap shut, which makes the hic sound. Eating fast, fizzy drinks, swallowing air, and even excitement can set them off, so they often seem random. They usually stop on their own within minutes. Worth seeing a doctor if they last more than two days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_080.jpg",
+   "n": 2,
+   "q": "Why do my fingers wrinkle in the bath?",
+   "a": "It isn't just your skin soaking up water. Your nervous system actually tightens the blood vessels in your fingertips, which pulls the skin into wrinkles. We know this because people with certain nerve damage don't get them. One popular theory is that the wrinkles help you grip wet things better. Either way, it's completely normal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_016.jpg",
+   "n": 3,
+   "q": "Is it normal to not remember my dreams?",
+   "a": "Totally normal. Pretty much everyone dreams every night, especially during REM sleep, but most dreams fade within minutes of waking up. You tend to remember them only when you wake up during or right after one. If you want to recall more, try lying still for a moment when you wake up and jotting down whatever's left."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_079.jpg",
+   "n": 4,
+   "q": "Why do I laugh at the worst possible moments?",
+   "a": "Nervous laughter is really common. When you're tense, awkward, or even upset, laughing can be your brain's way of releasing pressure and trying to calm things down. It doesn't mean you don't care or that you think it's funny. Most people have laughed at a bad moment at least once. You're not a monster, promise."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_008.jpg",
+   "n": 5,
+   "q": "Why do I get brain freeze from cold drinks?",
+   "a": "When something icy hits the roof of your mouth, the blood vessels there react fast to the sudden cold, and a big nerve in your face sends that signal as pain in your forehead. It usually passes in under a minute. Pressing your tongue to the roof of your mouth or sipping slower can help."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_016.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

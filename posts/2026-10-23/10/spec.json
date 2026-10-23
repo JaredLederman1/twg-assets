@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_079.jpg",
+   "kicker": "no judgement",
+   "title": "Weird body things nobody talks about",
+   "emoji": "🤔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_039.jpg",
+   "n": 1,
+   "q": "Why do I get static shocks so often?",
+   "a": "Static builds up when you rub against things like carpet, car seats, or certain fabrics, and dry air lets it build even more, which is why it's worse in winter. When you touch metal, the charge jumps off you with a zap. A humidifier helps, and touching metal with a key first can save your fingertip."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_025.jpg",
+   "n": 2,
+   "q": "Why do I get a stitch in my side when I run?",
+   "a": "That sharp side pain is really common, and scientists still aren't totally sure what causes it. Running soon after eating or drinking a lot and breathing quickly and shallowly seem to make it more likely. Slowing down, taking deep breaths, and pressing gently on the spot usually helps. It tends to happen less as you get fitter."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_071.jpg",
+   "n": 3,
+   "q": "Why do my legs fall asleep?",
+   "a": "When you sit on your leg or cross it for a while, the pressure squeezes the nerves and they stop sending signals properly, so it goes numb. Once you move, the nerves wake back up, which causes that pins-and-needles feeling. It's harmless. Worth seeing a doctor if numbness happens without pressure or doesn't go away."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_027.jpg",
+   "n": 4,
+   "q": "What are those floaters I see in my vision?",
+   "a": "Floaters are tiny clumps in the clear gel inside your eye, and what you see are their shadows on the back of your eye. They're very common and get more common with age. Most are harmless. But get your eyes checked the same day if you suddenly see lots of new floaters, flashes of light, or a curtain-like shadow."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_024.jpg",
+   "n": 5,
+   "q": "Why does my stomach hurt when I'm nervous?",
+   "a": "Your brain and gut are closely connected. When you're anxious, stress hormones change how your digestive system works, which can cause butterflies, cramps, nausea, or a sudden bathroom trip. It usually settles once the stressful moment passes. Worth seeing a doctor if the pain is constant, severe, or comes with weight loss or other symptoms."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_054.jpg",
+   "title": "Which one do you do?",
+   "emoji": "🤔",
+   "sub": "comment the number. it's not just you"
+  }
+ ]
+}

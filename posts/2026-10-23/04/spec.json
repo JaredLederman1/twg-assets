@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_041.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_028.jpg",
+   "n": 1,
+   "q": "Why do I get heartburn when I lie down?",
+   "a": "When you lie flat, stomach acid can flow back up into your food pipe more easily, which causes that burning feeling. Big meals, eating late, and fatty or spicy food make it worse. Try finishing dinner two to three hours before bed and raising the head of your bed. Worth seeing a doctor if it happens often."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_003.jpg",
+   "n": 2,
+   "q": "Is it normal for my heart to skip a beat sometimes?",
+   "a": "That fluttery skipped beat is usually an extra heartbeat, and almost everyone gets them now and then. Caffeine, stress, alcohol, and poor sleep can make them more noticeable. They're usually harmless. Worth seeing a doctor if they happen a lot, or come with chest pain, dizziness, fainting, or trouble breathing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_023.jpg",
+   "n": 3,
+   "q": "Why do I keep getting canker sores?",
+   "a": "Canker sores are small painful ulcers inside your mouth, and unlike cold sores they aren't contagious. Biting your cheek, stress, acidic foods, and some toothpastes can trigger them. Most heal on their own in one to two weeks. Worth seeing a doctor or dentist if one lasts longer than three weeks or they keep coming back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_004.jpg",
+   "n": 4,
+   "q": "Why do I get leg cramps at night?",
+   "a": "Night leg cramps are really common, and often there's no clear reason. Tired muscles, sitting for long periods, and the way your feet point while you sleep can all play a part. Gently stretching your calf by pulling your toes toward you usually helps. Worth seeing a doctor if they're frequent or your leg is swollen or weak."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_036.jpg",
+   "n": 5,
+   "q": "Is it normal for my pee to be really yellow?",
+   "a": "Usually it just means you need more water, since darker pee is more concentrated. Some vitamins, especially B vitamins, can also turn it a bright neon yellow, which is harmless. Pale yellow is the goal. Worth seeing a doctor if it's brown, red, or pink without an obvious reason like beets, or if it hurts to pee."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_071.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "🩺",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

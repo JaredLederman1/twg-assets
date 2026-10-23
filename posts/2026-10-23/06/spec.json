@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_072.jpg",
+   "kicker": "asking for a friend",
+   "title": "Dating questions you'd never ask out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_001.jpg",
+   "n": 1,
+   "q": "Is it okay to make the first move?",
+   "a": "Yes, and a lot of people find it really attractive. Making the first move just means showing interest, like asking someone to get coffee. The worst case is a no, which stings for a day but also saves you weeks of wondering. Keep it simple and low pressure, and give them an easy way to say yes or no."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_082.jpg",
+   "n": 2,
+   "q": "Why do I keep going for people who are bad for me?",
+   "a": "We're often drawn to what feels familiar, even when it hurts. Mixed signals and unpredictability can also feel like intense chemistry, while someone steady can seem boring at first. Noticing the pattern is a big first step. A therapist can help you figure out where it comes from and what you actually want."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_021.jpg",
+   "n": 3,
+   "q": "How do I turn someone down without ghosting?",
+   "a": "Keep it short, kind, and clear. Something like: I had a nice time, but I don't feel a romantic connection. Wishing you the best. You don't owe a long explanation, and being vague just leaves them hoping. It might feel awkward for a minute, but most people appreciate knowing where they stand instead of being left on read."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_075.jpg",
+   "n": 4,
+   "q": "Is it normal to not feel butterflies on a first date?",
+   "a": "Yes. Nerves, a busy day, or a weird venue can all hide attraction, and for many people feelings grow slowly as they get to know someone. Butterflies can also just be anxiety. If you enjoyed their company and felt comfortable, a second date is a fair way to find out. If you felt nothing at all, that's okay too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_065.jpg",
+   "n": 5,
+   "q": "Why do I overthink every text I send?",
+   "a": "Texting strips away tone of voice and facial expressions, so your brain fills in the gaps, usually with worst-case guesses. When you like someone, the stakes feel higher, so you reread everything. Try writing the text, reading it once, and sending it. If they like you, one slightly awkward message won't change their mind."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_076.jpg",
+   "title": "Which one is your love life?",
+   "emoji": "💘",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

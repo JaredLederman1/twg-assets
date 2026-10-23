@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_006.jpg",
+   "kicker": "no judgement",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_027.jpg",
+   "n": 1,
+   "q": "Why do I want to text my ex late at night?",
+   "a": "Night is when you're tired, alone, and not distracted, so missing someone hits harder. Your brain also remembers the good parts more than the bad when you're lonely. The urge usually passes if you wait it out. Try writing the text in your notes app instead, then read it again in the morning before deciding anything."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_045.jpg",
+   "n": 2,
+   "q": "Why do I keep checking their social media?",
+   "a": "After a breakup your brain wants answers and closure, and checking their profile feels like getting a little bit of information. The problem is it keeps the wound open and restarts the hurt each time. Muting, archiving, or unfollowing for a while isn't petty, it's giving yourself room to actually move on."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_041.jpg",
+   "n": 3,
+   "q": "Is it okay to stay friends with my ex?",
+   "a": "It can work, but usually not right away. Most people need some real time apart first so feelings can settle. Be honest with yourself about why you want the friendship. If it's because you're hoping to get back together or can't let go, it may hurt more. If you're both truly over it, it can be lovely."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_022.jpg",
+   "n": 4,
+   "q": "Why does a breakup physically hurt?",
+   "a": "Studies show that rejection activates some of the same brain areas involved in physical pain, so a breakup really can feel like an ache in your chest. Stress hormones also mess with your sleep, appetite, and stomach. It eases with time. Worth seeing a doctor if you have sharp chest pain or can't eat or sleep for weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_061.jpg",
+   "n": 5,
+   "q": "Why do I feel numb instead of sad after a breakup?",
+   "a": "Yes. Feeling numb is a common way your mind protects itself from too much at once, and the emotions can show up later, sometimes weeks after. Or you might have already done a lot of your grieving while the relationship was ending. There's no right way to feel after a breakup, and nothing is wrong with you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_001.jpg",
+   "title": "Which one hit a little too close?",
+   "emoji": "💔",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

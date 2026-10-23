@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_058.jpg",
+   "kicker": "be honest…",
+   "title": "Things you'd never Google at work",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_039.jpg",
+   "n": 1,
+   "q": "How do I tell my boss I'm overwhelmed?",
+   "a": "Bring it up early instead of waiting until you burn out. Keep it practical: list what's on your plate, explain what you can realistically finish, and ask which tasks matter most. That shows you care about doing good work, not that you're slacking. Most managers would much rather know now than find out after a missed deadline."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_019.jpg",
+   "n": 2,
+   "q": "Is it weird to not want a promotion?",
+   "a": "Not at all. A promotion can mean more hours, more stress, and managing people, which isn't everyone's idea of a good life. Lots of people are happy doing work they're good at and having energy left for everything else. Just be clear with your manager about what you do want, like learning new skills or a raise."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_066.jpg",
+   "n": 3,
+   "q": "How do I stop checking work emails at night?",
+   "a": "Start by turning off email notifications after work hours, or removing the work app from your phone's home screen. Many email apps let you schedule quiet hours. If you're worried about missing something urgent, ask your team what actually counts as urgent. Most things can wait until morning, and your brain needs a real break."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_010.jpg",
+   "n": 4,
+   "q": "Is it bad to leave work exactly on time?",
+   "a": "No. If your work is done and you're doing it well, leaving on time is just keeping to the hours you're paid for. Staying late every day can lead to burnout without actually making you more productive. If you're worried how it looks, make your results visible instead. Good managers care about results, not your chair."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_039.jpg",
+   "n": 5,
+   "q": "Why do I feel so awkward on video calls?",
+   "a": "A big reason is seeing your own face the whole time, which is like talking in front of a mirror all day. Researchers studying video call fatigue point to this as a source of self-consciousness and tiredness. Try hiding your self-view after checking you look okay. Most people are focused on themselves, not on you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_009.jpg",
+   "title": "Which one is you at your desk right now?",
+   "emoji": "💼",
+   "sub": "comment the number. your boss isn't watching"
+  }
+ ]
+}

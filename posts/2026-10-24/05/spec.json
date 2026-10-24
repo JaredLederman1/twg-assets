@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_060.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions you'd never ask out loud",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_031.jpg",
+   "n": 1,
+   "q": "Is it weird that I don't know how much I spend each month?",
+   "a": "Not weird at all, most people couldn't give you an exact number. Tap-to-pay and subscriptions make spending almost invisible. An easy start: open your last three months of bank statements and add up the totals. No judgement and no spreadsheet obsession needed. Just knowing the number makes it way easier to decide what to change."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_025.jpg",
+   "n": 2,
+   "q": "Should I tell my friends how much I make?",
+   "a": "It's totally your call. Some people love the openness, others find it awkward, and both are fine. Talking about pay can help friends realize when they're underpaid or what to ask for in a new job. If you do share, keep it about information rather than comparison, and pick friends who won't make it weird."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_012.jpg",
+   "n": 3,
+   "q": "Is it bad to have more than one credit card?",
+   "a": "Not on its own. A few cards can even help your credit score by giving you more available credit, which keeps the share you're using low. The real risk is spending more than you can pay back. If you pay every card in full each month, several cards are fine. Just avoid opening lots of new ones at once."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_022.jpg",
+   "n": 4,
+   "q": "Why do I feel broke even though I have a job?",
+   "a": "You're definitely not alone. Rent, food and everyday costs have climbed a lot, and small things like subscriptions, delivery fees and coffee add up quietly. As income grows, spending often grows right along with it, which is called lifestyle creep. Tracking where your money goes for one month usually reveals a couple of easy things to cut."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_049.jpg",
+   "n": 5,
+   "q": "What happens if I never use my credit card?",
+   "a": "Nothing bad right away, but if a card sits unused for a long time, the bank may close it. That lowers your total available credit, which can nudge your credit score down. An easy fix is to put one small recurring bill on it, like a streaming subscription, and set up autopay to clear it in full."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_010.jpg",
+   "title": "Which one is your bank account?",
+   "emoji": "🫠",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

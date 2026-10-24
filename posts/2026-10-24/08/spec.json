@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_014.jpg",
+   "kicker": "be honest…",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_085.jpg",
+   "n": 1,
+   "q": "Why do I panic when my boss says \"can we talk?\"",
+   "a": "Because your brain fills the silence with the worst possible version. Vague messages trigger your threat response, so you start replaying every mistake you've ever made. In reality it's usually something boring, like a schedule change or a new project. It's completely fine to reply asking what it's about, so you're not stewing all afternoon."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_047.jpg",
+   "n": 2,
+   "q": "Is it okay to say \"I don't know\" at work?",
+   "a": "Yes, and it's usually way better than bluffing. Guessing and getting it wrong does far more damage than admitting you're not sure. The trick is pairing it with a next step, like 'I don't know yet, but I'll find out and get back to you today.' That sounds confident and honest, and people trust you more for it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_008.jpg",
+   "n": 3,
+   "q": "Why do I feel guilty taking a sick day?",
+   "a": "Lots of workplaces quietly reward pushing through, so resting can feel like letting people down. But sick days exist for a reason. Rest helps you recover faster, and staying home stops you from spreading whatever you have to your coworkers. Working while sick usually means doing a worse job for longer. Taking the day is the responsible choice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_026.jpg",
+   "n": 4,
+   "q": "How do I stop saying sorry in every email?",
+   "a": "Try swapping apologies for thanks. 'Sorry for the late reply' becomes 'thanks for your patience', and 'sorry to bother you' becomes 'quick question'. Before you hit send, scan for sorry and ask yourself if you actually did anything wrong. Most of the time you didn't. Save real apologies for real mistakes and they'll mean more."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_008.jpg",
+   "n": 5,
+   "q": "Is it bad to job hunt while I still have a job?",
+   "a": "Not at all, it's actually the smart way to do it. You can take your time, be pickier, and negotiate from a stronger position when you're not desperate. Just keep it discreet: use your personal email and phone, schedule interviews around work, and don't do your searching on company devices. Nobody expects you to stay forever."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_012.jpg",
+   "title": "Which one is you at work?",
+   "emoji": "😅",
+   "sub": "comment the number. your boss isn't here"
+  }
+ ]
+}

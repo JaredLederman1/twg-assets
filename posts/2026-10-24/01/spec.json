@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_082.jpg",
+   "kicker": "be honest…",
+   "title": "Questions you're too scared to Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_049.jpg",
+   "n": 1,
+   "q": "Why do I get déjà vu?",
+   "a": "Déjà vu is that eerie 'I've lived this before' feeling, and around two in three people get it. Scientists think it's a tiny memory glitch, where your brain flags a new moment as familiar. It's most common in your teens and twenties and fades with age. Worth seeing a doctor if it's frequent and comes with confusion or zoning out."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_094.jpg",
+   "n": 2,
+   "q": "Why do I get so sleepy in the car?",
+   "a": "You're not boring, your body is just being lulled. The gentle, steady vibration and rocking of a moving car can make you drowsy, and sitting still with nothing to do doesn't help. Researchers have even linked low-frequency vibration to sleepiness. Fine as a passenger, but if you're driving and fading, pull over and rest."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_049.jpg",
+   "n": 3,
+   "q": "Is it normal for one foot to be bigger than the other?",
+   "a": "Super normal. Most people have one foot that's a little longer or wider, often by up to half a size. Bodies just aren't perfectly symmetrical. When buying shoes, fit them to the bigger foot and add an insole to the other if needed. Worth seeing a doctor if one foot suddenly swells or changes size."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_022.jpg",
+   "n": 4,
+   "q": "Why do I always sneeze more than once?",
+   "a": "A sneeze is your body's way of blasting irritants like dust or pollen out of your nose. Sometimes the first one doesn't clear everything, so your nose keeps going until it does. That's why sneezes often come in twos or threes. It's completely harmless. If it happens every day, allergies are the usual suspect."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_020.jpg",
+   "n": 5,
+   "q": "Why do my teeth feel squeaky after eating spinach?",
+   "a": "That gritty, chalky feeling has a name: spinach teeth. Spinach contains oxalic acid, which reacts with calcium in your saliva and forms tiny crystals that coat your teeth. They don't harm your teeth and rinse away with water. Cooking the spinach or pairing it with something like cheese can make it less noticeable."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_034.jpg",
+   "title": "Which one have you always wondered?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

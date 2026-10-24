@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_023.jpg",
+   "kicker": "asking for a friend",
+   "title": "Family questions you'd never ask out loud",
+   "emoji": "🏡"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_041.jpg",
+   "n": 1,
+   "q": "Why do my parents still treat me like a kid?",
+   "a": "To them, part of you will always be their little kid, and old habits die hard. Often it comes from love and worry, not disrespect. Calmly showing them how you handle adult life, and gently saying things like 'I've got this, but thanks', can shift the dynamic over time. Change usually happens slowly, not in one talk."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_002.jpg",
+   "n": 2,
+   "q": "Is it normal to not get along with my sibling?",
+   "a": "Really common. Siblings share a history but can have completely different personalities, values and even memories of growing up. Old childhood rivalries can linger too. Plenty of siblings grow closer as adults, especially once they stop competing. And if you never become best friends, that's okay. A respectful, low-drama relationship is a perfectly good outcome."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_056.jpg",
+   "n": 3,
+   "q": "Is it weird to call my mom every day?",
+   "a": "Not weird at all. Lots of people talk to a parent daily, even just for a few minutes while they're cooking or walking home. If it makes you both happy and doesn't feel like an obligation, it's a lovely habit. The right amount of contact is whatever feels good for your family, not what anyone else does."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_015.jpg",
+   "n": 4,
+   "q": "Why do I sound like my parents when I'm stressed?",
+   "a": "You spent years watching how they handled stress, so their reactions became your default script. When you're overwhelmed, your brain grabs the most familiar response, which is often theirs. Noticing it is a great first step. Taking a breath before you react gives you a moment to choose a different response, and it gets easier with practice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_012.jpg",
+   "n": 5,
+   "q": "How do I tell my family I'm not coming home for the holidays?",
+   "a": "Tell them early, kindly and clearly. Something like 'I won't make it home this year, but I'd love to call on the day' works. You don't owe a long explanation. Offering something else, like a video call or a visit another time, shows you still care. They might be disappointed at first, and that's okay."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_036.jpg",
+   "title": "Which one is your family?",
+   "emoji": "🫶",
+   "sub": "comment the number. we won't tell mom"
+  }
+ ]
+}

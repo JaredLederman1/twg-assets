@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_077.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions nobody admits to",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_052.jpg",
+   "n": 1,
+   "q": "How often should I clean my hairbrush?",
+   "a": "Pull out the trapped hair every week or so, since it collects oil, dead skin and product buildup. Every few weeks, give it a proper wash in warm soapy water and let it air dry bristles down. A dirty brush just puts that grime back into your clean hair. If the bristles are bent or melted, get a new one."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_082.jpg",
+   "n": 2,
+   "q": "Is it gross to rewear jeans without washing them?",
+   "a": "Not gross at all. Denim holds up well between washes, and washing less keeps jeans from fading and stretching out. Plenty of people wear them several times before washing. Just wash them when they're visibly dirty, smell, or start to feel baggy. Turning them inside out and washing in cold water helps them last longer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_064.jpg",
+   "n": 3,
+   "q": "How often should I wash my water bottle?",
+   "a": "Ideally every day, especially if you put anything other than water in it. Bacteria love the damp inside of a bottle, plus the lid, straw and mouthpiece. Wash it with hot soapy water and a bottle brush, then let it dry completely with the lid off. If it smells funky or feels slimy, it's overdue."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_026.jpg",
+   "n": 4,
+   "q": "Do I really need to wash behind my ears?",
+   "a": "Yes, it's an easy spot to forget. The skin behind your ears has oil glands and collects sweat, dead skin and leftover product, which can start to smell. A quick scrub with soap and water in the shower is all it takes. Dry the area well afterward too, since dampness there can lead to irritation."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_029.jpg",
+   "n": 5,
+   "q": "How often should I replace my loofah?",
+   "a": "More often than most people think. Loofahs stay damp and trap dead skin cells, which makes them a cozy home for bacteria. Natural loofahs should be swapped every three to four weeks, and plastic ones about every two months. Rinse it well and hang it to dry outside the shower. If it smells or changes color, toss it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_044.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "😳",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_088.jpg",
+   "kicker": "no judgement",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_060.jpg",
+   "n": 1,
+   "q": "Is it normal to feel like I'll never love anyone again?",
+   "a": "So normal. Right after a breakup your brain is still wired around that person, so imagining loving someone else can feel impossible. But that feeling is a symptom of the heartbreak, not a prediction about your future. It fades slowly as you rebuild your life. Most people who swear they'll never love again eventually do."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_082.jpg",
+   "n": 2,
+   "q": "Why do sad songs hit harder after a breakup?",
+   "a": "Music is closely tied to memory and emotion, so a song can instantly bring back a moment with them. When you're hurting, lyrics about loss suddenly feel like they were written about you. Oddly, sad songs can also be comforting, because they make you feel understood. Maybe just skip the playlist you made together for now."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_003.jpg",
+   "n": 3,
+   "q": "Should I give back the stuff they left at my place?",
+   "a": "Usually, yes, especially anything valuable or sentimental to them. Keep it simple: put it all in one box and arrange a single drop-off, or ask a friend to handle it. Try not to use it as an excuse to see them or restart the conversation. Small stuff like a spare toothbrush can just go in the bin."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_031.jpg",
+   "n": 4,
+   "q": "Why do I need to know if they've moved on?",
+   "a": "It's really common to want to know if they're hurting too, or if you were easy to replace. Your brain is looking for closure and reassurance. The problem is that checking rarely gives you either, and it keeps reopening the wound. Muting them or asking friends not to share updates can give you room to heal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_075.jpg",
+   "n": 5,
+   "q": "Is it bad to date someone new right after a breakup?",
+   "a": "Not automatically. Rebounds get a bad reputation, but dating soon after can actually boost some people's confidence. The key is being honest with yourself about why you're doing it, and not leading someone on while you're still hung up on your ex. If you're mainly trying to make them jealous, it might be worth waiting."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_050.jpg",
+   "title": "Which one are you going through?",
+   "emoji": "🥲",
+   "sub": "comment the number. you'll get through it"
+  }
+ ]
+}

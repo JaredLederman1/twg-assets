@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_023.jpg",
+   "kicker": "no judgement",
+   "title": "Weird body things nobody talks about",
+   "emoji": "🤔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_009.jpg",
+   "n": 1,
+   "q": "Why do I shiver when I pee?",
+   "a": "There's even a nickname for it: pee shivers. Scientists don't know exactly why it happens, but one leading idea is that emptying your bladder causes a quick shift in your nervous system, which can set off a shiver. It seems more common in men and when you're cold. It's harmless and nothing to worry about."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_017.jpg",
+   "n": 2,
+   "q": "Why do I get chills when I have a fever?",
+   "a": "When you're fighting an infection, your brain raises your body's temperature set point. Suddenly your normal temperature feels too cold, so you shiver and feel chilly to generate heat. Once the fever breaks, you often get sweaty as you cool down. Worth seeing a doctor if your fever is very high or lasts more than a few days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_045.jpg",
+   "n": 3,
+   "q": "Why does my voice crack when I'm nervous?",
+   "a": "Nerves tighten the muscles around your voice box and release adrenaline, which can make your vocal cords tense and your mouth dry. That makes your pitch harder to control, so your voice wobbles or cracks. Slow breathing, a sip of water and speaking a little slower can help. Everyone's voice does this sometimes, even pros."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_080.jpg",
+   "n": 4,
+   "q": "Why does my nose run when it's cold outside?",
+   "a": "Your nose warms and moistens the air you breathe before it reaches your lungs. When the air is cold and dry, it ramps up mucus production to keep up, and some of that extra moisture ends up dripping out. Warm breath can also condense at the tip of your nose. It's completely normal and stops once you're inside."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_002.jpg",
+   "n": 5,
+   "q": "Why do my fingers swell when I walk?",
+   "a": "Totally common, especially on long walks or in hot weather. When you exercise, your body sends more blood toward your muscles and skin, and swinging your arms pushes some fluid down into your hands. Wiggling your fingers or raising your arms now and then can help. Worth seeing a doctor if the swelling sticks around long after you stop."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_086.jpg",
+   "title": "Which one do you do?",
+   "emoji": "🙋",
+   "sub": "comment the number. your body's weird too"
+  }
+ ]
+}

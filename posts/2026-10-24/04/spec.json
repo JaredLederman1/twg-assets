@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_045.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_011.jpg",
+   "n": 1,
+   "q": "Why do I get a headache after crying?",
+   "a": "Crying hard tenses the muscles in your face, head and neck, and it fills your sinuses with congestion, and both can leave you with a pounding head. Stress hormones and being a bit dehydrated can add to it. Drinking water, resting and a cool cloth over your eyes usually help. It should fade within a few hours."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_010.jpg",
+   "n": 2,
+   "q": "Why does my nose bleed more in winter?",
+   "a": "Cold outside air and indoor heating dry out the delicate lining of your nose, so it cracks and bleeds more easily. A humidifier and saline spray can really help. If it bleeds, lean forward and pinch the soft part of your nose for ten minutes. Worth seeing a doctor if it lasts over 20 minutes or happens a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_042.jpg",
+   "n": 3,
+   "q": "Why do my eyes water when I yawn?",
+   "a": "When you yawn, the muscles around your eyes and cheeks squeeze tight. That pressure pushes on your tear glands, which sit just above your eyes, and nudges out some of the tears that are always there keeping your eyes moist. It's completely normal and harmless. Some people tear up a lot when they yawn, others barely at all."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_021.jpg",
+   "n": 4,
+   "q": "Why do I get cold sores when I'm stressed?",
+   "a": "Cold sores come from a very common virus called HSV-1, which most adults carry. After the first infection it hides quietly in your nerves and can wake up when your immune system is under strain, like during stress, illness or too much sun. They're contagious, so skip kissing until they heal. Worth seeing a doctor if they're frequent."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_040.jpg",
+   "n": 5,
+   "q": "Why does my throat feel tight when I'm anxious?",
+   "a": "That lump-in-your-throat feeling is so common it has a name: globus sensation. Anxiety tenses the muscles in your throat, so it can feel like something is stuck even though nothing is there. Slow breathing and sipping water can help. Worth seeing a doctor if it hurts, makes swallowing hard, or sticks around for weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_026.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "👀",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

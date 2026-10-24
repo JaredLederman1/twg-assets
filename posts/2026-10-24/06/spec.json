@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_044.jpg",
+   "kicker": "asking for a friend",
+   "title": "Dating questions you're too shy to ask",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_086.jpg",
+   "n": 1,
+   "q": "Is it bad to mention my ex on a first date?",
+   "a": "A quick mention is fine, everyone has a past and pretending otherwise is weird. The problem is when your ex becomes the main topic, because it can make your date feel like you're not over them. If it comes up, keep it short and neutral, then steer back to getting to know the person in front of you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_006.jpg",
+   "n": 2,
+   "q": "How do I know if a date went well?",
+   "a": "Good signs: the conversation flowed, time went by fast, they asked about you, and the date ran longer than planned. Talk of doing something again is a big one. But the best sign is how you felt: relaxed and like yourself. If you're unsure, send a quick text saying you had fun and see what comes back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_080.jpg",
+   "n": 3,
+   "q": "Is it okay to split the bill on a first date?",
+   "a": "Totally okay. Splitting is really common now, and plenty of people prefer it because it keeps things equal and low pressure. A simple 'want to split it?' works fine. Some people like to take turns paying instead. There's no single right answer, so go with whatever feels fair and comfortable for both of you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_054.jpg",
+   "n": 4,
+   "q": "Why do I want to cancel right before a date?",
+   "a": "That sudden urge to bail is usually anticipatory anxiety. Your brain imagines everything that could go wrong, and cancelling feels like instant relief. But the dread right before is often the worst part, and most people feel better once they're actually there. If you're simply not interested though, it's kinder to cancel with plenty of notice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_052.jpg",
+   "n": 5,
+   "q": "Is it normal to not want to text all day?",
+   "a": "Completely normal. Some people love constant check-ins, others prefer a few messages and save the real conversation for when they're together. Neither one means you care less. The key is talking about it, so your quiet stretches aren't mistaken for losing interest. A simple 'I'm not a big texter, but I like you' goes a long way."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_003.jpg",
+   "title": "Which one is your love life?",
+   "emoji": "🙈",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

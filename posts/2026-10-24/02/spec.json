@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_018.jpg",
+   "kicker": "can't sleep either?",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_096.jpg",
+   "n": 1,
+   "q": "Why do I feel more creative late at night?",
+   "a": "It's a real thing. At night there are fewer distractions, and when you're a bit tired your brain is worse at filtering out random ideas, which can actually help creative thinking. One study found people solved insight puzzles better at their non-peak time of day. Just don't trade away too much sleep for it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_010.jpg",
+   "n": 2,
+   "q": "Why do I remember everything I forgot right as I lie down?",
+   "a": "Because it's finally quiet. During the day your brain is busy with tasks and noise, so it doesn't get much room to wander. Lying in bed gives it space to surface everything you've been putting off. Keeping a notepad by your bed and writing it all down can help your brain let go so you can sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_080.jpg",
+   "n": 3,
+   "q": "Is it bad to sleep with socks on?",
+   "a": "Not at all, it might even help. Warm feet widen the blood vessels in your skin, which helps your body release heat and cool down, and that's one of the signals that it's time to sleep. Just pick clean, loose, breathable socks rather than tight ones, so your circulation and your feet stay happy."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_049.jpg",
+   "n": 4,
+   "q": "Why do I feel worse after a nap?",
+   "a": "That groggy, almost hungover feeling is called sleep inertia. It happens when you wake up from deep sleep, which usually starts after about 30 minutes of napping. Keeping naps to around 20 minutes helps you wake up refreshed. A longer nap of about 90 minutes can also work, since it lets you finish a full sleep cycle."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_038.jpg",
+   "n": 5,
+   "q": "Why can I hear my heartbeat in my ear at night?",
+   "a": "When you lie on your side, your ear is pressed into the pillow and the room is quiet, so the pulse from blood vessels near your ear is easier to hear. It's usually harmless. Worth seeing a doctor if you hear a constant whooshing in one ear, even when you're sitting up or it's noisy around you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_085.jpg",
+   "title": "Which one is you right now?",
+   "emoji": "🌚",
+   "sub": "comment the number. we're up too"
+  }
+ ]
+}

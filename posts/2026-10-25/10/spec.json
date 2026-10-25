@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_016.jpg",
+   "kicker": "be honest…",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_015.jpg",
+   "n": 1,
+   "q": "Why do I blank out in job interviews?",
+   "a": "Stress releases adrenaline, which is great for running from danger but makes it harder to think clearly and recall details. That's why your mind can go blank right when it matters. Practicing answers out loud, preparing a few stories you can adapt, and pausing to breathe all help. Saying \"let me think for a second\" is completely fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_003.jpg",
+   "n": 2,
+   "q": "Why am I so drained after back-to-back meetings?",
+   "a": "Meetings take a lot of focus: listening, reading the room and waiting for your moment to speak. Video calls add extra effort, like watching your own face and catching delayed cues. Back-to-back meetings leave no time to reset. Try ending meetings a few minutes early, taking short walks between them and blocking focus time in your calendar."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_050.jpg",
+   "n": 3,
+   "q": "Is it normal to be bored at my job?",
+   "a": "Really common, especially once you've learned the ropes. Boredom often means you're ready for more challenge. Try asking your manager for a new project, learning a skill that's useful in your role, or getting to know other teams. If you've felt this way for months and nothing helps, it might be a sign to explore what's next."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_087.jpg",
+   "n": 4,
+   "q": "How do I ask for feedback without dreading it?",
+   "a": "Asking for feedback feels scary because it can sound like inviting criticism. Make it easier by being specific, like \"What's one thing I could do better in client meetings?\" Small questions get more useful answers. Ask regularly so it feels normal, take notes, and say thanks even if it stings a little. It's how people grow fastest."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_053.jpg",
+   "n": 5,
+   "q": "Is it bad that I don't have LinkedIn?",
+   "a": "Not at all. Plenty of people find jobs without it, especially in fields like trades, healthcare and hospitality. It can be handy in areas like tech, business or marketing, where recruiters often search for candidates there. If you're job hunting in those fields, a simple profile is worth setting up. Otherwise, don't stress about it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_028.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "👀",
+   "sub": "comment the number. your boss isn't watching"
+  }
+ ]
+}

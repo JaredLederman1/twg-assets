@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_022.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_081.jpg",
+   "n": 1,
+   "q": "Why do I sleep so badly in a new place?",
+   "a": "It's called the first-night effect. Researchers found that on your first night somewhere new, one side of your brain stays more alert, like a night watchman listening for anything unusual. That's why you sleep lighter and wake more easily. It usually settles by the second night. Bringing your own pillow can help the room feel familiar."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_025.jpg",
+   "n": 2,
+   "q": "Why do I wake up with such a dry mouth?",
+   "a": "Most often it's mouth breathing. If your nose is stuffy or you snore, air dries out your mouth all night long. Dry indoor heating, alcohol and some medications make it worse. Try keeping water by the bed and running a humidifier in winter. Worth seeing a doctor if you also snore loudly or wake up gasping."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_045.jpg",
+   "n": 3,
+   "q": "Why do I feel worse after sleeping in?",
+   "a": "Sleeping much later than usual can throw off your body clock, a bit like mild jet lag, so you wake up groggy instead of refreshed. You may also be waking up out of deeper sleep, which leaves you foggy for a while. Keeping your wake-up time roughly the same every day, even on weekends, usually helps you feel more rested."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_019.jpg",
+   "n": 4,
+   "q": "Why do I drool in my sleep?",
+   "a": "Drooling in your sleep is really common. When you're asleep, the muscles in your face relax and you swallow less, so saliva can slip out, especially if you sleep on your side or stomach. A stuffy nose that makes you breathe through your mouth makes it worse. Worth seeing a doctor if it comes with loud snoring or gasping."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_030.jpg",
+   "n": 5,
+   "q": "Why does the clock change mess with my sleep?",
+   "a": "Your body clock runs on light and routine, so even a one-hour shift can throw it off for a few days. When the clocks change, you might wake up earlier than you want or feel sleepy at odd times. Getting morning daylight and keeping regular meal and bed times helps your body catch up within a week or so."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_046.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "😴",
+   "sub": "drop the number below. we won't tell"
+  }
+ ]
+}

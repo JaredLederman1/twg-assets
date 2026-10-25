@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_071.jpg",
+   "kicker": "no judgement",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_074.jpg",
+   "n": 1,
+   "q": "Is it normal to still be angry months after a breakup?",
+   "a": "Totally normal. Anger is a common part of processing a loss, and it can show up months later, especially once you see clearly what you put up with. It doesn't mean you're bitter or stuck. Let yourself feel it through writing, exercise or talking it out, without needing to act on it or text them about it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_085.jpg",
+   "n": 2,
+   "q": "Why does it hurt even though I ended it?",
+   "a": "Ending it doesn't mean you didn't care. You're still losing a person, a routine and the future you once pictured together. Guilt and second-guessing can make it feel even heavier. Both things can be true at once: it was the right call, and it still hurts. Give yourself the same patience you'd give someone who got dumped."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_047.jpg",
+   "n": 3,
+   "q": "Should I delete all our photos?",
+   "a": "There's no rule. Some people feel lighter deleting everything, while others regret it later. A middle ground is to archive them or move them into a folder you won't stumble on, so they're out of sight but not gone forever. You can decide what to do with them for good once it stings a little less."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_067.jpg",
+   "n": 4,
+   "q": "Why am I embarrassed that it ended?",
+   "a": "That embarrassment is really common, especially if everyone knew you as a couple or you'd talked about the future. It can feel like a public failure, but most people are far less focused on your breakup than you think. Relationships ending is part of life for almost everyone, and it says nothing bad about your worth."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_055.jpg",
+   "n": 5,
+   "q": "Why do I keep rereading our old texts?",
+   "a": "Rereading old messages is your brain looking for answers, comfort and a little hit of the good times. It's very normal, but it can keep the wound open and stop you from moving forward. Try archiving or muting the chat so it's not one tap away. Each time you resist, the pull usually gets a little weaker."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_032.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "🥲",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

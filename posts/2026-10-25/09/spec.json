@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_004.jpg",
+   "kicker": "asking for a friend",
+   "title": "Friend and family questions you'd never say out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_020.jpg",
+   "n": 1,
+   "q": "Is it okay to cancel plans because I'm just tired?",
+   "a": "Sometimes, yes. Rest is a real need, and showing up exhausted isn't much fun for anyone. Cancel early, be honest, and suggest a new date so your friend knows you still care. The key is balance: if you find yourself canceling most plans, it might be worth checking whether something bigger is draining you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_076.jpg",
+   "n": 2,
+   "q": "Why do I feel weird when a friend starts dating someone?",
+   "a": "That feeling is really common. When a friend starts dating, they often have less time, and it's natural to feel left out or worried about losing them. It doesn't make you a bad friend. Tell them you miss them and suggest regular one-on-one plans. Most friendships settle into a new rhythm after the early phase."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_021.jpg",
+   "n": 3,
+   "q": "How do I tell a friend they hurt my feelings?",
+   "a": "Pick a calm, private moment and keep it about how you felt, not about attacking them. Try something like \"When that happened, I felt hurt, and I'm telling you because our friendship matters to me.\" Then really listen to their side. A good friend will usually appreciate your honesty, even if it's awkward at first."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_083.jpg",
+   "n": 4,
+   "q": "Is it okay to not tell my parents everything?",
+   "a": "Completely okay. As an adult, you get to choose what you share, and privacy isn't the same as lying or being distant. Plenty of close families don't share every detail of their lives. Share what feels good and keep the rest to yourself. If you feel pressure to report everything, a gentle, kind boundary can help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_034.jpg",
+   "n": 5,
+   "q": "Why do I feel guilty watching my parents get older?",
+   "a": "That mix of guilt, sadness and worry is really common. Watching your parents age is a reminder that time is limited, and you may feel like you're never doing enough. Try to focus on what you can do: regular calls, small visits, asking about their stories. Talking with siblings or friends about it can help too."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_007.jpg",
+   "title": "Which one did you need to hear?",
+   "emoji": "🫶",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

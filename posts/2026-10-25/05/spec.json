@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_065.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_069.jpg",
+   "n": 1,
+   "q": "Why is my eye crusty when I wake up?",
+   "a": "That crust is called rheum, and everyone gets it. During the day, blinking washes away mucus, oil and dead skin cells. At night you don't blink, so it collects and dries in the corners. A warm cloth wipes it away. Worth seeing a doctor if there's lots of yellow or green gunk with a red eye."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_017.jpg",
+   "n": 2,
+   "q": "Why do I sweat when I eat spicy food?",
+   "a": "Spicy food contains capsaicin, a chemical that triggers the same nerve receptors that sense heat. Your brain thinks your body is overheating, so it switches on cooling mode: sweating, a red face and sometimes a runny nose. It's harmless and actually pretty clever. If you sweat heavily whenever you eat any food, mention it to a doctor."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_047.jpg",
+   "n": 3,
+   "q": "Why do my teeth hurt when I drink something cold?",
+   "a": "That zing usually means sensitive teeth. When enamel wears down or gums pull back, a softer layer called dentin is exposed, and it has tiny channels leading toward the nerve. Cold sends a quick signal straight through. Toothpaste for sensitive teeth and gentle brushing can help. Worth seeing a dentist if the pain lingers or is in one tooth."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_024.jpg",
+   "n": 4,
+   "q": "Why do I burp so much?",
+   "a": "Burping is just your body letting out swallowed air. Fizzy drinks, eating fast, chewing gum, drinking through straws and talking while you eat all add extra air. Slowing down at meals and cutting back on bubbly drinks usually helps a lot. Worth seeing a doctor if it comes with heartburn, stomach pain or trouble swallowing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_064.jpg",
+   "n": 5,
+   "q": "Why are my eyes so puffy in the morning?",
+   "a": "When you lie flat all night, fluid can collect in the soft skin around your eyes. Salty dinners, alcohol, allergies, crying and poor sleep all make it more noticeable. It usually goes down within an hour of being upright. A cool compress and an extra pillow can help. Worth seeing a doctor if one eye is suddenly swollen or painful."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_031.jpg",
+   "title": "Which one have you always wondered?",
+   "emoji": "🤔",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

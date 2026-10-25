@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_098.jpg",
+   "kicker": "asking for a friend",
+   "title": "Relationship questions you'd never ask out loud",
+   "emoji": "💭"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_031.jpg",
+   "n": 1,
+   "q": "Is it normal to have a crush when I'm in a relationship?",
+   "a": "Yes, it's really common. Being committed doesn't switch off your ability to notice other people, and a passing crush is often about novelty or a mood. Having the feeling isn't the same as acting on it. If it's constant or growing, it might be worth asking yourself what you want more of in your relationship."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_013.jpg",
+   "n": 2,
+   "q": "Is it okay to not post my partner online?",
+   "a": "Completely okay. Plenty of people keep their relationships offline because they're private, want to protect it from outside opinions, or just don't post much. What matters is that you both feel secure. If your partner is hurt by it, talk about why it matters to each of you, rather than letting it become a silent test."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_077.jpg",
+   "n": 3,
+   "q": "Is it weird that I need alone time from my partner?",
+   "a": "Not weird at all. Needing time to yourself is healthy, even when you love someone. Alone time helps you recharge and keep your own identity, which actually makes you better company. The key is how you frame it: tell your partner it's about filling your own cup, not about needing a break from them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_006.jpg",
+   "n": 4,
+   "q": "Why do I compare my relationship to couples online?",
+   "a": "Online, you only see the highlight reel: the trips, flowers and anniversary posts, not the arguments or boring Tuesdays. Comparing your everyday life to someone else's best moments makes almost anyone feel like they're falling short. Notice how your relationship actually feels day to day instead. If certain accounts always leave you feeling worse, mute them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_066.jpg",
+   "n": 5,
+   "q": "Is it normal to fight about chores all the time?",
+   "a": "Super normal. Chores are one of the most common things couples argue about, often because it's really about feeling appreciated or treated fairly. Try sitting down together and listing every task, including invisible ones like planning meals or booking appointments. Splitting them clearly, and thanking each other, usually takes the heat out of it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_047.jpg",
+   "title": "Which one is your relationship?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

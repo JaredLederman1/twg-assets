@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_081.jpg",
+   "kicker": "be honest…",
+   "title": "Questions we all type and then delete",
+   "emoji": "🫠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_018.jpg",
+   "n": 1,
+   "q": "Why do I feel anxious the day after drinking?",
+   "a": "There's even a name for it: hangxiety. Alcohol calms your brain at first, then as it wears off your brain rebounds and feels more on edge. Add poor sleep, dehydration and fuzzy memories of what you said, and anxiety spikes. Water, food and rest help. If it happens every time, it's a good sign to drink less."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_026.jpg",
+   "n": 2,
+   "q": "Why do I feel empty after reaching a goal?",
+   "a": "Psychologists call it the arrival fallacy: the belief that reaching a goal will make you happy for good. The excitement often peaks while you're chasing it, so once you arrive, the high fades fast and things can feel flat. It's completely normal. Celebrate the win, then find something new to look forward to, even something small."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_030.jpg",
+   "n": 3,
+   "q": "Why do I feel down when it gets dark early?",
+   "a": "Less daylight affects your body clock and mood, so lots of people feel lower and sleepier as the days get shorter. Getting outside in morning light, moving your body and keeping plans with friends can help. Worth seeing a doctor if you feel down most days for a couple of weeks, since seasonal depression is real and treatable."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_031.jpg",
+   "n": 4,
+   "q": "Why do I need a whole day to recover from socializing?",
+   "a": "Not weird at all. Socializing uses a lot of mental energy: reading faces, keeping up conversations and thinking about how you come across. Some people, especially introverts, need quiet time afterward to recharge. It doesn't mean you don't like people. Plan a calm evening or slow morning after big social days, and don't feel guilty about it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_003.jpg",
+   "n": 5,
+   "q": "Why do I love being scared by horror movies?",
+   "a": "When you watch a scary movie, your body releases adrenaline, your heart races and you feel on high alert, but your brain knows you're actually safe. That mix can feel thrilling instead of terrifying, and the relief at the end feels great. Researchers call it recreational fear. If horror leaves you anxious for days, it's okay to skip it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_002.jpg",
+   "title": "Which one felt like you?",
+   "emoji": "🫶",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

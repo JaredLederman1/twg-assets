@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_017.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_076.jpg",
+   "n": 1,
+   "q": "Why do I have bumps on the back of my arms?",
+   "a": "Those tiny rough bumps are probably keratosis pilaris, and it's incredibly common. Extra keratin, a skin protein, plugs up hair follicles, so your skin feels like sandpaper. It's harmless and has nothing to do with being dirty. Moisturizers with urea or lactic acid can smooth it out. Worth seeing a doctor if the bumps get sore or look infected."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_074.jpg",
+   "n": 2,
+   "q": "Why does only one side of my nose get stuffy?",
+   "a": "Blame the nasal cycle. Throughout the day, the tissue inside your nose swells on one side and shrinks on the other, swapping every few hours. You usually don't notice until a cold or allergies make it obvious. Lying on your side can make the lower nostril feel blocked. Worth seeing a doctor if one side is always blocked."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_095.jpg",
+   "n": 3,
+   "q": "Why do I get white spots on my nails?",
+   "a": "Those little white spots usually come from tiny bumps to the base of your nail, like knocking your finger or pushing back your cuticles too hard. They grow out as your nail grows. Despite the myth, they're rarely about a lack of calcium. Worth seeing a doctor if your whole nail turns white or the spots keep spreading."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_005.jpg",
+   "n": 4,
+   "q": "Why does orange juice taste awful after brushing?",
+   "a": "It's not just you. Most toothpastes contain sodium lauryl sulfate, the ingredient that makes them foam. It briefly dulls the taste buds that pick up sweetness and makes bitter flavors stand out more, so orange juice suddenly tastes harsh. The effect wears off fairly quickly. Drink your juice before brushing, or try an SLS-free toothpaste."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_014.jpg",
+   "n": 5,
+   "q": "Why do my ears randomly ring for a few seconds?",
+   "a": "A short burst of ringing that fades within a minute is really common and usually nothing to worry about. It's thought to be a brief blip in your inner ear or hearing nerves. Loud noise makes it more likely, so protect your ears at concerts. Worth seeing a doctor if it lasts, affects one ear, or comes with hearing loss."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_029.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

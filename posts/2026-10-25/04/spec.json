@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_040.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions you're too scared to Google",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_051.jpg",
+   "n": 1,
+   "q": "Why do I spend more when I pay with a card?",
+   "a": "You're not imagining it. Researchers have found that people tend to spend more with cards than with cash, because handing over physical money feels more like a loss. Tapping a card or phone barely registers. If you're trying to cut back, using cash for fun spending or checking your balance often can make spending feel real again."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_018.jpg",
+   "n": 2,
+   "q": "What's the actual difference between debit and credit?",
+   "a": "A debit card takes money straight from your bank account, so you can only spend what you have. A credit card lets you borrow from the card company and pay it back later. Pay the full balance each month and you won't owe interest, but carrying a balance gets expensive fast. Used well, credit helps build your score."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_058.jpg",
+   "n": 3,
+   "q": "What is a 401(k) match?",
+   "a": "A 401(k) is a US retirement account you get through your job. With a match, your employer adds money when you contribute, for example 50 cents for every dollar you put in, up to a limit. That's basically free money, so many experts suggest contributing at least enough to get the full match. HR can explain your plan's rules."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_072.jpg",
+   "n": 4,
+   "q": "How do I say no when a friend asks to borrow money?",
+   "a": "You're allowed to say no, even to a close friend. Keep it short and kind, like \"I'm not able to lend money right now, but I really hope it works out.\" You don't owe a long explanation. If you do decide to lend, a common rule is to only give an amount you'd be okay never getting back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_056.jpg",
+   "n": 5,
+   "q": "Is it bad that I don't understand taxes?",
+   "a": "Not at all. Taxes are confusing, and lots of people never learn about them in school. Start small: find out what's taken from each paycheck and what your tax return actually does. Free tax help programs and your government's official tax website are good places to begin. If things get complicated, a qualified tax preparer can be worth it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_013.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

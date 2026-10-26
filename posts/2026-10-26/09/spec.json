@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_007.jpg",
+   "kicker": "we're all wondering",
+   "title": "Hygiene questions you'd never ask out loud",
+   "emoji": "🫧"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_054.jpg",
+   "n": 1,
+   "q": "How often should I wash my pajamas?",
+   "a": "Every three or four wears is a good general rule. You shed skin cells and sweat while you sleep, even if your pajamas don't look dirty. Wash them more often if you sweat a lot at night, sleep without showering, or have sensitive skin. Showering before bed and wearing clean underwear underneath helps them last longer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_051.jpg",
+   "n": 2,
+   "q": "Do I really need to wash my face in the morning?",
+   "a": "Not always with a full cleanser. Overnight, your skin builds up oil and sweat, plus whatever came off your pillowcase, so a splash of lukewarm water is often enough, especially for dry or sensitive skin. If you're oily or acne-prone, a gentle cleanser in the morning can help. Either way, follow up with sunscreen."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_039.jpg",
+   "n": 3,
+   "q": "Is it really that bad to pop my pimples?",
+   "a": "It can be. Squeezing can push bacteria and oil deeper into your skin, causing more swelling, dark marks or even scars. It also slows healing. Instead, try a warm compress and a spot treatment with benzoyl peroxide or salicylic acid, or a hydrocolloid patch. Worth seeing a dermatologist for painful, deep pimples that keep coming back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_001.jpg",
+   "n": 4,
+   "q": "Do I need to wear deodorant every day?",
+   "a": "It's up to you. Sweat itself doesn't smell much. Body odor happens when bacteria on your skin break down sweat. Some people barely notice any smell, others need deodorant daily. Deodorant targets the smell, while antiperspirant reduces sweat. Worth seeing a doctor if you suddenly sweat a lot more, or your body odor changes noticeably."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_014.jpg",
+   "n": 5,
+   "q": "How often should I clean my earbuds?",
+   "a": "Aim for about once a week. Earwax, sweat and bacteria build up on them, and dirty tips can irritate your ears or muffle sound. Wipe them with a dry, soft cloth, and use a cotton swab for the mesh. A little isopropyl alcohol on the outside is fine, but never get liquid into the openings."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_019.jpg",
+   "title": "Which one were you doing wrong?",
+   "emoji": "🧼",
+   "sub": "comment the number. we won't judge"
+  }
+ ]
+}

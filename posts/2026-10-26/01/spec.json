@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_051.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_023.jpg",
+   "n": 1,
+   "q": "Why do my socks leave deep marks on my legs?",
+   "a": "Those lines are just the elastic pressing into soft tissue, and they usually fade within an hour or so. Almost everyone gets them, especially after a long day on your feet or in warm weather. Worth seeing a doctor if your ankles look swollen, a finger press leaves a dent that lingers, or it's only one leg."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_051.jpg",
+   "n": 2,
+   "q": "Why do I sneeze when I pluck my eyebrows?",
+   "a": "You can blame the trigeminal nerve. It supplies feeling to your face, including your brow area and the inside of your nose. Plucking stimulates it, and your brain sometimes reads that as a tickle in your nose and fires off a sneeze. It's harmless and surprisingly common. Plenty of people get it, so you're not weird."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_099.jpg",
+   "n": 3,
+   "q": "Why do my eyes water so much in the wind?",
+   "a": "Cold, dry wind quickly dries out the surface of your eyes, so they respond by making extra reflex tears to protect themselves. Cold air can also slow how fast tears drain away, so they spill over. Sunglasses help a lot. Worth seeing a doctor if your eyes water constantly indoors too, or feel painful or look red."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_073.jpg",
+   "n": 4,
+   "q": "Why does my face get hot when I'm embarrassed?",
+   "a": "That's blushing, and it's your nervous system at work. When you feel embarrassed, your body releases adrenaline, which widens the blood vessels in your face so more blood rushes to the surface. That's the heat and the red. It's totally normal, usually fades within minutes, and people notice it far less than you think."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_058.jpg",
+   "n": 5,
+   "q": "Why does my stomach hurt after laughing really hard?",
+   "a": "A big laugh is basically a mini ab workout. Your abdominal muscles contract over and over to push air out, and if you laugh long enough they get tired and sore, just like after exercise. Your diaphragm works hard too. The ache fades quickly. Worth seeing a doctor if pain shows up without laughing or sticks around."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_010.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

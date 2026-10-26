@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_033.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_020.jpg",
+   "n": 1,
+   "q": "Why do I hit snooze when it makes me feel worse?",
+   "a": "When you first wake up, you're in sleep inertia, a groggy state where your judgment is foggy, so snooze always wins. But those extra minutes are broken, light sleep that adds very little rest and can leave you groggier. Try one alarm set for when you actually need to get up, with your phone across the room."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_084.jpg",
+   "n": 2,
+   "q": "Why does time feel so slow when I can't sleep?",
+   "a": "Lying awake in the dark, there's nothing to mark time passing, so every minute feels stretched. Watching the clock and worrying about being tired make it worse. Sleep studies show people with insomnia often overestimate how long they were awake. If you've been lying there a while, getting up for something calm and dim can help reset things."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_037.jpg",
+   "n": 3,
+   "q": "Why do I feel more lonely at night?",
+   "a": "During the day, work, noise and people keep you busy. At night everything goes quiet, and the feelings you pushed aside finally have room to show up. Being tired also makes emotions feel bigger. A short call, a journal or a comforting show can help. If the loneliness follows you all day too, talking to someone really helps."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_037.jpg",
+   "n": 4,
+   "q": "Why do I get a second wind late at night?",
+   "a": "Your body clock sends a strong alertness signal in the evening, partly to keep you going through the end of the day. If you push past your usual bedtime, you can ride that wave and suddenly feel wide awake. Screens and late caffeine make it stronger. Going to bed when you first feel sleepy helps you catch the window."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_082.jpg",
+   "n": 5,
+   "q": "Why do I think of the perfect comeback hours later?",
+   "a": "In the moment, your brain is busy reacting, reading the room and managing stress, which leaves little room for clever wording. Once you're calm, your thinking loosens up and the perfect line arrives. There's even a French phrase for it, the wit of the staircase. Everyone does this, and honestly, the moment usually mattered less than it felt."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_068.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "😴",
+   "sub": "drop the number. we're all awake too"
+  }
+ ]
+}

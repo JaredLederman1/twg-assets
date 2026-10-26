@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_054.jpg",
+   "kicker": "no one talks about this",
+   "title": "Friendship questions we're all thinking",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_041.jpg",
+   "n": 1,
+   "q": "How do I reconnect with a friend I lost touch with?",
+   "a": "Just reach out, and keep it simple. Something like, \"Hey, I was thinking about you the other day. How have you been?\" Most people are happy to hear from an old friend and assume the drift was mutual. Don't overthink the gap or over-apologize. Suggesting a specific plan, like coffee, makes it easier to follow through."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_029.jpg",
+   "n": 2,
+   "q": "Is it okay to have different friends for different things?",
+   "a": "Absolutely, and it's actually pretty healthy. You might have a friend for deep talks, one for nights out and another who gets your hobbies. No single person can meet every need, and that's not a failure of the friendship. Having a mix of friends means more support, more fun and less pressure on any one person."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_083.jpg",
+   "n": 3,
+   "q": "Why is it awkward to hang out one-on-one with a group friend?",
+   "a": "In a group, the conversation carries itself and quiet moments get filled. One-on-one, there's nowhere to hide, so it can feel like a first date at first. That awkwardness usually fades fast. Pick an activity, like a walk or a game, so there's something to focus on. It's often how good friendships get closer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_084.jpg",
+   "n": 4,
+   "q": "How do I tell a friend they're always late?",
+   "a": "Bring it up kindly and at a calm moment, not right when they show up. Try, \"I love hanging out, but I get frustrated waiting. Can we work on it?\" Use \"I\" statements so it doesn't feel like an attack. You can also suggest meeting somewhere you don't mind waiting, like a cafe or bookstore."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_018.jpg",
+   "n": 5,
+   "q": "Is it normal to feel jealous of a friend's success?",
+   "a": "Yes, and it doesn't make you a bad friend. Jealousy often points to something you want for yourself. You can feel a pang and still be truly happy for them. Try naming the feeling privately, then using it as a clue about your own goals. Congratulating them anyway is kind, and the sting usually fades."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_010.jpg",
+   "title": "Which one hit close to home?",
+   "emoji": "🥲",
+   "sub": "comment the number. tag no one"
+  }
+ ]
+}

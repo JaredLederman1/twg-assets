@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_090.jpg",
+   "kicker": "no judgement",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_063.jpg",
+   "n": 1,
+   "q": "Why is the skin on my fingertips peeling?",
+   "a": "Most of the time it's plain dryness. Frequent handwashing, hand sanitizer, cold weather and dry indoor air strip away your skin's natural oils, so the tips start to peel. A thick, fragrance-free hand cream after washing helps a lot, especially overnight. Worth seeing a doctor if your skin cracks, bleeds, itches badly or doesn't improve with moisturizer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_068.jpg",
+   "n": 2,
+   "q": "Why do I see stars when I rub my eyes?",
+   "a": "Those sparkles are called phosphenes. Pressing on your eyes puts pressure on the retina, the light-sensing layer at the back, and it fires signals your brain reads as light, even with your eyes closed. It's harmless, though rubbing hard isn't great for your eyes. Worth seeing a doctor if you see flashes without rubbing, or sudden new floaters."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_006.jpg",
+   "n": 3,
+   "q": "Why do my lips get so chapped in winter?",
+   "a": "Your lips don't have oil glands like the rest of your skin, so they can't protect themselves from cold, dry air. Licking them makes it worse, because saliva evaporates and dries them out even more. A plain balm with petroleum jelly or beeswax helps. Worth seeing a doctor if cracks at the corners won't heal after a couple weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_085.jpg",
+   "n": 4,
+   "q": "Why is my scalp so itchy?",
+   "a": "The most common cause is dandruff, which is linked to a yeast that naturally lives on your scalp. Dry winter air and product buildup can also make it itch. A dandruff shampoo used a few times a week often sorts it out. Worth seeing a doctor if you notice sores, patches of hair loss, or the itching doesn't improve."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_034.jpg",
+   "n": 5,
+   "q": "Why do my muscles twitch randomly?",
+   "a": "Those little flickers under your skin are usually harmless twitches called fasciculations. They're really common, and things like caffeine, stress, poor sleep and hard workouts make them more likely. They tend to come and go on their own. Worth seeing a doctor if the twitching comes with muscle weakness, shrinking muscles, or keeps going in one spot for weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_035.jpg",
+   "title": "Which one have you wondered?",
+   "emoji": "🤔",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

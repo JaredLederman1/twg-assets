@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_046.jpg",
+   "kicker": "we all wonder",
+   "title": "Money questions you'd never ask out loud",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_062.jpg",
+   "n": 1,
+   "q": "What's the difference between a Roth IRA and a regular IRA?",
+   "a": "It's mostly about when you pay tax. With a traditional IRA, you may get a tax break now, but you pay tax when you withdraw in retirement. With a Roth IRA, you put in money you've already paid tax on, and qualified withdrawals in retirement are tax-free. Both are retirement accounts, so early withdrawals can come with penalties."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_091.jpg",
+   "n": 2,
+   "q": "How do I check my credit report for free?",
+   "a": "In the US, you can get free credit reports from all three major bureaus, Equifax, Experian and TransUnion, at AnnualCreditReport.com, which is the official site. Checking your own report doesn't hurt your credit score at all. Look for accounts you don't recognize or wrong late payments, and dispute any mistakes directly with the bureau."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_018.jpg",
+   "n": 3,
+   "q": "Is it bad to keep my savings in a normal bank account?",
+   "a": "It's not bad, it's safe, but you might be missing out. Regular savings accounts often pay very little interest, while high-yield savings accounts, often at online banks, usually pay much more for the same money. Look for one that's FDIC insured, so your money is protected like a normal bank. Switching usually takes about ten minutes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_090.jpg",
+   "n": 4,
+   "q": "What does compound interest actually mean?",
+   "a": "It means earning interest on your interest. Say you save $1,000 at 5% a year. After year one you have $1,050. In year two you earn 5% on $1,050, not just the original $1,000, so it grows faster each year. It works the same way against you with credit card debt."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_062.jpg",
+   "n": 5,
+   "q": "How do I stop subscriptions from draining my money?",
+   "a": "Go through your last two bank statements and list every recurring charge. Anything you didn't use last month is a good candidate to cancel. When you sign up for a free trial, set a phone reminder a couple of days before it ends. Many banks and phones also let you see and cancel subscriptions in one place."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_034.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💰",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

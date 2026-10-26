@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_048.jpg",
+   "kicker": "be honest…",
+   "title": "Work questions you'd never ask out loud",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_079.jpg",
+   "n": 1,
+   "q": "Is it okay to ask a question I should already know?",
+   "a": "Yes, and it's much better than guessing and getting it wrong. Most people forget things or missed details the first time. Try, \"I want to double-check I've got this right.\" It shows you care about doing the work well. Writing the answer down afterward helps, so you won't feel like you need to ask twice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_041.jpg",
+   "n": 2,
+   "q": "What do I do if a coworker takes credit for my work?",
+   "a": "Start by making your work visible. Share updates in group chats or emails, and copy your manager on key progress. If it keeps happening, calmly bring it up with your coworker first, or mention your contributions to your manager with specifics. Stick to facts, not accusations. Keeping a simple record of what you did helps a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_064.jpg",
+   "n": 3,
+   "q": "Is it bad to use all my vacation days?",
+   "a": "Not at all. Vacation days are part of what you earn, just like your pay. Rest helps you avoid burnout and actually do better work when you're back. Give your team plenty of notice, hand off anything urgent, and then really log off. Most good managers would rather you take a break than burn out."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_070.jpg",
+   "n": 4,
+   "q": "How do I ask for a day off without overexplaining?",
+   "a": "Keep it short and clear. Something like, \"I'd like to take Friday off. I'll make sure my work is covered.\" You usually don't need to explain why, especially for personal days. Ask early, check for big deadlines first, and offer a quick handoff. Confidence makes it feel like the normal request it is."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_004.jpg",
+   "n": 5,
+   "q": "How do I recover after making a mistake at work?",
+   "a": "Own it quickly and stay calm. Tell the right person what happened, what you've done to fix it, and how you'll avoid it next time. People remember how you handled a mistake far more than the mistake itself. Then let it go. Everyone messes up at work, even the people who seem like they never do."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_009.jpg",
+   "title": "Which one did you need today?",
+   "emoji": "🙃",
+   "sub": "comment the number. your coworkers won't see"
+  }
+ ]
+}

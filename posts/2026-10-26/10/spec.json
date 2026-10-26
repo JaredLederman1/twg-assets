@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_071.jpg",
+   "kicker": "nobody warns you",
+   "title": "Things that hit different as you get older",
+   "emoji": "🥹"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_084.jpg",
+   "n": 1,
+   "q": "Why do old family photos make me so emotional?",
+   "a": "That's nostalgia, and it's a powerful mix of warmth and loss. Photos freeze moments you can't go back to, and remind you how much people and places have changed. Research suggests nostalgia can actually boost mood and make people feel more connected. Letting yourself feel it, or sharing the photos with family, can be really comforting."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_048.jpg",
+   "n": 2,
+   "q": "How do I talk to my parents about their health?",
+   "a": "Pick a calm, private moment, not a holiday dinner. Lead with care, like, \"I love you and want to make sure you're okay.\" Ask questions instead of lecturing, and listen to what worries them. Start small, such as offering to go to an appointment together. It may take a few conversations, and that's completely normal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_007.jpg",
+   "n": 3,
+   "q": "Why do I feel like a guest in my childhood home?",
+   "a": "Because you've changed, and so has the home. Your parents have new routines, rooms may have been redone, and you've built a life with your own habits somewhere else. It's a normal part of growing up, even if it feels bittersweet. Bringing a little of your own routine with you can help it feel more comfortable."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_048.jpg",
+   "n": 4,
+   "q": "Why does it take my eyes longer to adjust in the dark now?",
+   "a": "It's a normal part of aging. As we get older, our pupils get smaller and react more slowly, so less light gets in, and the lens inside the eye gradually becomes less clear. That makes dim light harder. Worth seeing an eye doctor if night driving gets difficult, you see halos around lights, or it changes quickly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_070.jpg",
+   "n": 5,
+   "q": "Why can't I hear people in loud restaurants anymore?",
+   "a": "Picking one voice out of background noise is one of the first things to get harder as hearing changes, often starting with high-pitched sounds. Years of loud noise can speed that up. Sitting with your back to a wall and facing the person helps. Worth getting a hearing test if it keeps happening, since it's quick and easy."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_062.jpg",
+   "title": "Which one got you?",
+   "emoji": "🫶",
+   "sub": "comment the number. we're all aging together"
+  }
+ ]
+}

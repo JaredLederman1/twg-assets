@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_078.jpg",
+   "kicker": "be real",
+   "title": "Dating questions you'd never say out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_025.jpg",
+   "n": 1,
+   "q": "How do I tell someone I just want something casual?",
+   "a": "Say it early and say it plainly, before feelings get tangled. Something like, \"I'm having fun with you, but I'm not looking for anything serious right now.\" Being honest gives them the chance to choose what works for them, which is the kind thing to do. Vague hints usually end up hurting more than clear words."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_057.jpg",
+   "n": 2,
+   "q": "How do I stop comparing new dates to my ex?",
+   "a": "It's normal. Your ex is your most recent reference point, so your brain compares automatically. When you catch yourself doing it, gently shift to how this person makes you feel right now. Remember that different isn't worse. If every date feels like a letdown, you might need a little more time to heal first, and that's okay."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_095.jpg",
+   "n": 3,
+   "q": "How do I know if I'm settling?",
+   "a": "Ask yourself a few honest questions. Do you feel respected and like yourself around them? Are you excited about a future together, or just afraid of starting over or being alone? Settling usually feels like shrinking parts of who you are to make it work. No relationship is perfect, but you should feel chosen, not tolerated."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_001.jpg",
+   "n": 4,
+   "q": "Is it normal to be nervous meeting their friends?",
+   "a": "Totally. Their friends matter to them, so it feels like a test. The good news is that most friends just want to see that you make their person happy. Ask them questions, laugh at the stories, and be yourself. Asking your partner beforehand who'll be there and what they're like can take a lot of pressure off."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_012.jpg",
+   "n": 5,
+   "q": "How do I ask \"what are we\" without scaring them off?",
+   "a": "Keep it light and honest, and pick a calm moment rather than a heated one. Try, \"I really like spending time with you. How are you feeling about us?\" You're not demanding an answer, just checking in. Someone who's interested won't be scared off by that. If they are, that tells you something useful too."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_020.jpg",
+   "title": "Which one is you right now?",
+   "emoji": "🫠",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

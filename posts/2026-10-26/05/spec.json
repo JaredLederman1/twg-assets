@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_074.jpg",
+   "kicker": "just ask",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_060.jpg",
+   "n": 1,
+   "q": "Is it normal to only poop every few days?",
+   "a": "It can be. Normal bowel habits range from about three times a day to three times a week, so everyone's rhythm is different. What matters most is what's normal for you. More fiber, water and movement help keep things regular. Worth seeing a doctor if there's a sudden change, blood, ongoing pain or unexplained weight loss."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_094.jpg",
+   "n": 2,
+   "q": "Is it normal for my period to be irregular sometimes?",
+   "a": "A cycle that shifts by a few days now and then is really common. Stress, travel, illness, sleep changes and big changes in exercise can all throw it off. For most adults, a cycle anywhere from about 21 to 35 days is typical. Worth seeing a doctor if periods stop for three months or are very heavy."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_028.jpg",
+   "n": 3,
+   "q": "Why do I wake up to pee so much at night?",
+   "a": "Often it's simple: drinking a lot in the evening, or having caffeine or alcohol later in the day, both of which make you pee more. Try front-loading your water earlier and going right before bed. Worth seeing a doctor if you regularly get up more than once or twice, feel really thirsty, or it started suddenly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_033.jpg",
+   "n": 4,
+   "q": "Is it normal to have discharge?",
+   "a": "Yes, completely. Vaginal discharge is your body's way of keeping things clean and healthy, and it naturally changes in amount and texture throughout your cycle. Clear or white is typical. Worth seeing a doctor if it has a strong fishy smell, turns green or gray, looks like cottage cheese, or comes with itching or burning."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_021.jpg",
+   "n": 5,
+   "q": "Why do my ears itch inside?",
+   "a": "Usually it's dry skin in the ear canal, too little or too much earwax, or allergies. Cotton swabs often make it worse by irritating the skin and pushing wax deeper, so try to leave your ears alone. Your ears clean themselves pretty well. Worth seeing a doctor if you notice pain, discharge, a bad smell or muffled hearing."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_081.jpg",
+   "title": "Which one were you afraid to ask?",
+   "emoji": "🙈",
+   "sub": "comment the number. totally anonymous vibes"
+  }
+ ]
+}

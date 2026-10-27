@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_030.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions you were never taught",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_077.jpg",
+   "n": 1,
+   "q": "How often should I change my razor blade?",
+   "a": "A common rule of thumb is every five to ten shaves, or as soon as it starts to tug or feel dull. Dull blades drag across skin and make razor burn, nicks, and ingrown hairs more likely. Rinse it well and let it dry upright between uses, not sitting in the wet shower."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_100.jpg",
+   "n": 2,
+   "q": "How often should I replace my kitchen sponge?",
+   "a": "More often than you'd think. Damp sponges are a perfect home for bacteria, so many experts suggest swapping it about every week or two, or sooner if it smells. Squeeze it out and let it dry between uses. Use a separate cloth or paper towel for cleaning up after raw meat."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_073.jpg",
+   "n": 3,
+   "q": "Is it bad to sleep in my contact lenses?",
+   "a": "Yes, unless your eye doctor has given you lenses approved for overnight wear. Sleeping in contacts cuts oxygen to your eyes and raises the risk of serious eye infections. Never rinse or store them in tap water either. Worth seeing an eye doctor quickly if your eye turns red, painful, or sensitive to light."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_079.jpg",
+   "n": 4,
+   "q": "Is it gross to pee in the shower?",
+   "a": "For most people it's honestly fine. Urine is mostly water, and it rinses straight down the drain with everything else. The idea that pee is sterile isn't quite right, but it's not a real hygiene risk in your own shower. In a shared shower, the polite move is to ask, or just skip it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_039.jpg",
+   "n": 5,
+   "q": "How often should I clean my keyboard?",
+   "a": "Keyboards and mice can collect a lot of germs and crumbs, especially if you snack at your desk. Wiping them down once a week, plus whenever you've been sick, is a solid habit. Unplug or turn it off first, shake out crumbs, and use a disinfecting wipe that's wrung out, not dripping."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_059.jpg",
+   "title": "Which one were you doing wrong?",
+   "emoji": "🫧",
+   "sub": "comment the number. we won't judge"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_001.jpg",
+   "kicker": "just ask",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_035.jpg",
+   "n": 1,
+   "q": "Is it normal for my heart to race after coffee?",
+   "a": "Caffeine is a stimulant, so a faster heartbeat or jittery feeling is a common reaction, and some people are much more sensitive than others. Try a smaller cup, or have it with food. Worth seeing a doctor if it comes with chest pain, fainting, shortness of breath, or your heart races even without caffeine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_036.jpg",
+   "n": 2,
+   "q": "Why do I have a sore throat every morning?",
+   "a": "Often it's dry air or breathing through your mouth while you sleep, which dries out your throat overnight. Allergies, post-nasal drip, and acid reflux can also cause it. A humidifier and staying hydrated help. Worth seeing a doctor if it lasts more than a couple of weeks, comes with fever, or you snore heavily."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_036.jpg",
+   "n": 3,
+   "q": "Why does my skin itch after a hot shower?",
+   "a": "Hot water strips away your skin's natural oils, leaving it dry and itchy, especially in winter. Try lukewarm water, shorter showers, and moisturizer on damp skin right after. Fragrance-free products help too. Worth seeing a doctor if the itch is intense, comes with a rash or hives, or doesn't improve with these changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_036.jpg",
+   "n": 4,
+   "q": "Why do I get a bump in my armpit after shaving?",
+   "a": "Usually it's an ingrown hair or an irritated hair follicle, and it tends to settle down on its own within a week or two. Warm compresses help, and so does shaving with the grain using a sharp blade. Don't squeeze it. Worth seeing a doctor if a lump lasts more than two weeks, keeps growing, or feels hard."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_077.jpg",
+   "n": 5,
+   "q": "Why do my gums bleed when I floss?",
+   "a": "Usually it's early gum inflammation from plaque building up along the gumline. It sounds backwards, but flossing gently every day is usually the fix, and bleeding often eases within a week or two. Brush softly with a soft brush. Worth seeing a dentist if it keeps happening, your gums are swollen, or they're pulling back."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_064.jpg",
+   "title": "Which one were you afraid to ask?",
+   "emoji": "🫶",
+   "sub": "comment the number. we've all wondered"
+  }
+ ]
+}

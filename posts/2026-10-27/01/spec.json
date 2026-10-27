@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_056.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_056.jpg",
+   "n": 1,
+   "q": "Why does my pee smell weird after eating asparagus?",
+   "a": "Asparagus contains asparagusic acid, which your body breaks down into sulfur compounds that show up in your pee within about half an hour. It's completely harmless. Fun twist: lots of people can't smell it at all, partly thanks to genetics, so your friend who says it never happens to them might just not notice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_027.jpg",
+   "n": 2,
+   "q": "What's the tiny hole near the top of my ear?",
+   "a": "That's probably a preauricular pit, a little dimple left over from how your ear formed before you were born. Only a small percentage of people have one, and it's usually totally harmless. Leave it alone and don't squeeze it. Worth seeing a doctor if it ever gets red, swollen, painful, or starts leaking."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_005.jpg",
+   "n": 3,
+   "q": "Why do I wake up sweaty at night?",
+   "a": "Most of the time it's your setup: a warm room, heavy blankets, or bedding that traps heat. Alcohol, spicy food, stress, and hormone shifts can do it too. Try a cooler room and breathable sheets. Worth seeing a doctor if you're drenched often, or it comes with fever, weight loss, or feeling unwell."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_057.jpg",
+   "n": 4,
+   "q": "Why do I wake up with a stiff neck?",
+   "a": "Usually your neck spent hours at an awkward angle, from a pillow that's too high or too flat, or from sleeping on your stomach with your head twisted. The muscles tighten up overnight. Gentle movement and warmth help, and it often eases within a few days. Worth seeing a doctor if it lasts, follows an injury, or comes with numbness."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_048.jpg",
+   "n": 5,
+   "q": "Why does my stomach hurt after I drink milk?",
+   "a": "You might be lactose intolerant, which is really common. Your gut makes less lactase, the enzyme that digests milk sugar, so it ferments instead and causes gas, bloating, or cramps. Many people handle small amounts, hard cheese, or lactose-free milk fine. Worth seeing a doctor if symptoms are severe or happen with lots of different foods."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_066.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

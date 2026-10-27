@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_023.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_054.jpg",
+   "n": 1,
+   "q": "Why do I sometimes wake up and can't move?",
+   "a": "That's sleep paralysis. Your mind wakes up while your body is still in the dream-stage 'off switch' that stops you acting out dreams. It's terrifying but harmless, and usually passes within a minute or two. It's more likely when you're short on sleep or stressed. Worth seeing a doctor if it happens a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_057.jpg",
+   "n": 2,
+   "q": "Why have my dreams been so vivid lately?",
+   "a": "Stress is a big one, and so is broken sleep. When you wake up more often, you're more likely to remember dreams. After a stretch of poor sleep or drinking, your brain can also catch up on dream sleep, making dreams more intense. Some medications do it too. Worth mentioning to a doctor if nightmares wreck your sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_012.jpg",
+   "n": 3,
+   "q": "Why do I grind my teeth at night?",
+   "a": "It's called bruxism, and stress is one of the most common triggers. Caffeine, alcohol, and some sleep problems can make it worse. Signs include a sore jaw, morning headaches, or worn teeth. A dentist can fit you with a night guard to protect them. Worth asking a doctor too if you also snore loudly or wake up exhausted."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_067.jpg",
+   "n": 4,
+   "q": "Why do I wake up right before my alarm?",
+   "a": "Your body clock is better than you think. If you wake at roughly the same time each day, your body learns the pattern and starts ramping up wake-up hormones like cortisol before the alarm goes off. Even expecting an early start can nudge you awake. It's a sign your schedule is fairly consistent, which is good."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_038.jpg",
+   "n": 5,
+   "q": "Why do I sleep so much better when it's raining?",
+   "a": "Rain is a steady, gentle sound that works like natural white noise. It masks sudden noises, like cars or doors, that would otherwise jolt you awake. Plus, a cozy room and a grey sky make winding down feel easier. If it works for you, a rain sounds track at night is a totally valid sleep hack."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_033.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "😴",
+   "sub": "drop the number. we're all awake too"
+  }
+ ]
+}

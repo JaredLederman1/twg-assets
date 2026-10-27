@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_021.jpg",
+   "kicker": "nobody warns you",
+   "title": "Getting older questions nobody prepares you for",
+   "emoji": "⏳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_012.jpg",
+   "n": 1,
+   "q": "Why does time go faster as I get older?",
+   "a": "Nobody knows for sure, but one popular explanation is novelty. When you're young, lots of things are new, and your brain lays down rich memories, so time feels long looking back. Adult routines blend together. Doing new things, visiting new places, and breaking routines can make your weeks feel fuller again."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_041.jpg",
+   "n": 2,
+   "q": "Why are my feet getting bigger?",
+   "a": "Over the years, the ligaments and tendons in your feet loosen and your arches can flatten a little, so your feet get longer and wider. Pregnancy and weight changes can speed it up. It's a good reason to get your feet measured. Worth seeing a doctor if your feet hurt or one changes shape suddenly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_011.jpg",
+   "n": 3,
+   "q": "Why am I getting skin tags now?",
+   "a": "Skin tags are small, soft flaps of skin that are really common as we get older, especially where skin rubs, like the neck, armpits, and under the bra line. They're harmless and don't turn into cancer. A doctor can remove them if they bother you. Worth getting checked if any spot changes, bleeds, or grows quickly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_021.jpg",
+   "n": 4,
+   "q": "Why do I wake up so early now?",
+   "a": "As we age, our body clock tends to shift earlier, so we get sleepy sooner and wake up sooner. Sleep also gets a bit lighter, so noise and light wake us more easily. Morning light and a consistent bedtime help. Worth seeing a doctor if you wake up early and still feel exhausted every day."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_010.jpg",
+   "n": 5,
+   "q": "Why do I get more nostalgic as I get older?",
+   "a": "Many people remember their teens and twenties most vividly. Psychologists call it the reminiscence bump, because so many firsts happen then. Nostalgia also tends to show up when we feel lonely or stressed, and research suggests it can actually lift your mood and make you feel more connected. So that throwback playlist is doing you good."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_080.jpg",
+   "title": "Which one got you?",
+   "emoji": "🥹",
+   "sub": "comment the number. we're all aging together"
+  }
+ ]
+}

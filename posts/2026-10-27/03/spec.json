@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_003.jpg",
+   "kicker": "no judgement",
+   "title": "Questions you'd only ask your group chat",
+   "emoji": "🤫"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_046.jpg",
+   "n": 1,
+   "q": "Is it normal to have hair on my toes?",
+   "a": "Yes, completely. Toe and foot hair is really common in all genders and is mostly down to genetics and hormones. It's not a sign of anything wrong. If it bothers you, shaving, waxing, or just leaving it are all fine choices. Honestly, most people have a few toe hairs and never think about it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_009.jpg",
+   "n": 2,
+   "q": "Why is my poop green sometimes?",
+   "a": "Usually it's something you ate, like leafy greens, green food coloring, or iron supplements. It can also happen when food moves through quickly, because bile, which starts out green, doesn't have time to turn brown. One green day is nothing to worry about. Worth seeing a doctor if it lasts with diarrhea or you feel unwell."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_038.jpg",
+   "n": 3,
+   "q": "Is it normal to pee a little when I sneeze?",
+   "a": "It's really common, especially after pregnancy, and it's called stress incontinence. A sneeze, cough, or laugh puts pressure on your bladder, and if your pelvic floor muscles are a bit weak, a little leaks. Pelvic floor exercises often help a lot. Worth seeing a doctor or pelvic floor physio if it bothers you. It's very treatable."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_042.jpg",
+   "n": 4,
+   "q": "Why do I get pimples on my butt?",
+   "a": "Most butt 'acne' is actually folliculitis, irritated or infected hair follicles. Sweat, tight clothes, and sitting for long stretches all make it worse. Change out of sweaty gym clothes quickly, wear breathable underwear, and wash gently. Don't pick. Worth seeing a doctor if bumps are painful, big, keep coming back, or don't clear up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_038.jpg",
+   "n": 5,
+   "q": "Why do my armpits smell worse when I'm stressed?",
+   "a": "Stress sweat comes from different glands than heat sweat. These are apocrine glands in your armpits, and their sweat contains fats and proteins. Skin bacteria break those down into stronger-smelling compounds. Same deodorant, different sweat. Keeping an antiperspirant on hand for big days helps. Worth seeing a doctor if you suddenly sweat far more than usual."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_061.jpg",
+   "title": "Which one have you wondered?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

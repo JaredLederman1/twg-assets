@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_072.jpg",
+   "kicker": "be honest…",
+   "title": "Questions we all type and then delete",
+   "emoji": "🫠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_074.jpg",
+   "n": 1,
+   "q": "Why do I panic when my phone rings?",
+   "a": "Phone anxiety is really common, especially now that most of us text. On a call you have to answer instantly with no time to plan, and you can't see the other person's face. It helps to keep calls short, jot down what you want to say first, and remember most people won't notice your nerves."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_014.jpg",
+   "n": 2,
+   "q": "Why do I feel sad on my birthday?",
+   "a": "Birthdays come with big expectations and they make us take stock: where we are, how old we're getting, who showed up. That mix can bring a low mood even on a good day. It's common enough to have a name, the birthday blues. Planning something small that you actually enjoy can take the pressure off."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_043.jpg",
+   "n": 3,
+   "q": "Why do I put off things I actually want to do?",
+   "a": "Procrastination is less about laziness and more about avoiding uncomfortable feelings, like worrying it won't go perfectly. Psychologists who study it describe it as a mood problem, not a time problem. Make the first step tiny, like five minutes, and start before you feel ready. Motivation often shows up after you start, not before."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_089.jpg",
+   "n": 4,
+   "q": "Why do I rehearse conversations in my head?",
+   "a": "Your brain is trying to prepare, especially for anything that feels high stakes. A little rehearsal is useful. It becomes tiring when you replay the same scene on a loop. Try writing down the one thing you want to say, then let the rest go. Real conversations rarely follow the script anyway, and that's fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_066.jpg",
+   "n": 5,
+   "q": "Why do I always feel like everyone is mad at me?",
+   "a": "It's a common anxiety habit called mind reading, where your brain fills a gap, like a short text, with the worst explanation. Usually people are just busy. Ask yourself what the real evidence is, or just check in. If the feeling is constant and stressful, talking to a therapist can genuinely help."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_024.jpg",
+   "title": "Which one felt like you?",
+   "emoji": "🙃",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

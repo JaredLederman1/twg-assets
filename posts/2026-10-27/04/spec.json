@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_096.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions nobody taught us",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_069.jpg",
+   "n": 1,
+   "q": "Is it bad to close an old credit card?",
+   "a": "It can dent your score a little. Closing a card lowers your total available credit, so any balance you carry looks bigger by comparison. Over time it can also shorten your average account age. If the card has no annual fee, keeping it open and using it occasionally is often the simpler move."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_033.jpg",
+   "n": 2,
+   "q": "What does APR actually mean?",
+   "a": "APR is the annual percentage rate, basically the yearly cost of borrowing money. On a credit card, it's the interest charged on any balance you don't pay off. The good news: if you pay your full statement balance by the due date, most cards charge no interest on purchases at all. That's the whole trick."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_098.jpg",
+   "n": 3,
+   "q": "What actually happens if I overdraft?",
+   "a": "If you spend more than you have, your bank might decline the payment or cover it and charge you a fee. Some banks have cut or dropped overdraft fees, so check yours. Setting up low balance alerts helps a lot. If it happens, add money quickly and call your bank, since they sometimes waive a first fee."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_055.jpg",
+   "n": 4,
+   "q": "Why is my paycheck so much smaller than my salary?",
+   "a": "Your salary is your gross pay. Before money hits your account, things get taken out: income taxes, Social Security and Medicare, plus anything you signed up for like health insurance or retirement contributions. What's left is your net pay. Your pay stub lists every deduction, so it's worth a quick look."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_028.jpg",
+   "n": 5,
+   "q": "How do I split rent fairly with roommates?",
+   "a": "There's no single right answer. Some people split evenly, others pay more for a bigger room, a private bathroom, or a parking spot. Some couples split by income. The key is agreeing before you move in and writing it down, including utilities. A fair deal everyone said yes to beats a perfect formula."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_021.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💰",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

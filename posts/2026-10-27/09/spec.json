@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_053.jpg",
+   "kicker": "be real",
+   "title": "Friend questions you'd never say out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_055.jpg",
+   "n": 1,
+   "q": "Why do I feel drained after seeing certain friends?",
+   "a": "Some friendships take more energy than they give, like when it's always about their drama or you feel you have to perform. Notice how you feel after time together. It might mean seeing them in shorter doses, setting a boundary, or having an honest talk. Feeling drained is useful information, not something to feel guilty about."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_073.jpg",
+   "n": 2,
+   "q": "Is it rude to mute a friend on social media?",
+   "a": "Not at all. Muting is a quiet way to protect your peace without starting drama, and they won't be notified. Maybe they post a lot, or their posts make you compare yourself. You can still be a good friend offline. It only becomes a problem if you're avoiding something you actually need to talk about."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_063.jpg",
+   "n": 3,
+   "q": "How many close friends is normal?",
+   "a": "Fewer than social media makes it look. Research on social circles suggests most people have an inner circle of roughly five or fewer people they're truly close to. Having two or three close friends is completely normal. What matters more is whether you feel supported, not the number."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_024.jpg",
+   "n": 4,
+   "q": "How do I make plans that actually happen?",
+   "a": "Skip 'we should hang out sometime' and suggest a specific day and activity on the spot, like 'coffee Thursday after work?' Recurring plans, like a monthly dinner, take the pressure off scheduling. Put it in your calendar right away. If you're always the planner, that's okay. Someone has to be, and people appreciate it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_072.jpg",
+   "n": 5,
+   "q": "Is it okay to leave a group chat?",
+   "a": "Yes, especially if it's stressing you out. You can mute it first if leaving feels too dramatic. If you do leave, a quick, friendly message like 'heading out to cut back on notifications, text me anytime!' keeps things easy. Real friendships survive you leaving a chat that buzzes two hundred times a day."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_050.jpg",
+   "title": "Which one hit close to home?",
+   "emoji": "🤍",
+   "sub": "comment the number. tag no one"
+  }
+ ]
+}

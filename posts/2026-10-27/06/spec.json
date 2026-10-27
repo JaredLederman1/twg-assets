@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_098.jpg",
+   "kicker": "asking for a friend",
+   "title": "Love questions you'd never ask out loud",
+   "emoji": "💞"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_077.jpg",
+   "n": 1,
+   "q": "Is it bad if I can't say I love you back yet?",
+   "a": "Not at all. People fall at different speeds, and saying it before you mean it doesn't help anyone. Be kind and honest instead, something like 'I really care about you and I'm not there yet, but I'm happy.' What matters more is whether you both want the same things and treat each other well."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_005.jpg",
+   "n": 2,
+   "q": "Why do we keep having the same fight?",
+   "a": "You're not alone. Relationship researcher John Gottman found that most couple conflicts are ongoing differences, like tidiness or how much time you spend together, not problems with a neat fix. Healthy couples don't solve them all. They learn to talk about them calmly, with humor and curiosity, instead of trying to win each round."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_045.jpg",
+   "n": 3,
+   "q": "Is it okay to sleep in separate beds?",
+   "a": "Yes, and more couples do it than you'd think. Snoring, different schedules, or one person who steals the blanket can wreck sleep, and bad sleep makes everyone more irritable. Sleeping apart can actually help a relationship. Just make time for closeness in other ways, like cuddling before bed or slow weekend mornings."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_014.jpg",
+   "n": 4,
+   "q": "Why does my partner's chewing annoy me so much?",
+   "a": "You're not a bad person. Some people have misophonia, a strong reaction to certain everyday sounds like chewing. For everyone else, small habits get louder when you're tired, stressed, or hungry. Background music during meals helps. If it bothers you, bring it up gently and jokingly, not mid-bite when you're already annoyed."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_077.jpg",
+   "n": 5,
+   "q": "Is it normal to miss being single?",
+   "a": "Totally. Missing your old freedom, your own schedule, or the excitement of meeting new people doesn't mean your relationship is wrong. It usually means you miss parts of yourself. Try keeping some solo time, hobbies, and friends of your own. It's only a red flag if you feel unhappy most of the time together."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_032.jpg",
+   "title": "Which one is your relationship?",
+   "emoji": "💬",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

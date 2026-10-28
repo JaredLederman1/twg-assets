@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_099.jpg",
+   "kicker": "no judgement",
+   "title": "Money questions you're scared to ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_035.jpg",
+   "n": 1,
+   "q": "Does checking my credit score hurt it?",
+   "a": "No. Checking your own score is a soft inquiry, and it doesn't affect your credit at all, so you can check as often as you like. Hard inquiries happen when you apply for a new card or loan, and those can cause a small, temporary dip. Keeping an eye on your score is a smart habit."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_029.jpg",
+   "n": 2,
+   "q": "What does credit utilization mean?",
+   "a": "It's how much of your available credit you're using. If your limit is $1,000 and you owe $300, that's 30%. Lower is generally better for your score, and a common rule of thumb is staying under 30%. Paying your balance down before the statement closes can make it look lower to lenders."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_016.jpg",
+   "n": 3,
+   "q": "Is buy now, pay later a bad idea?",
+   "a": "It can be fine if you use it rarely and always pay on time, but it makes it easy to stack up several small payments without noticing. Late fees can add up, and some providers now report to credit bureaus. A good test: if you couldn't comfortably buy it today, it's probably worth waiting."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_075.jpg",
+   "n": 4,
+   "q": "What even is an index fund?",
+   "a": "It's a fund that buys a little of everything in a market index, like the S&P 500, instead of trying to pick winners. That spreads your money across hundreds of companies, and fees are usually low. It's a popular, simple way to invest for the long term, though it can still drop in the short term."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_009.jpg",
+   "n": 5,
+   "q": "How much of my paycheck should go to rent?",
+   "a": "A common guideline is keeping rent around 30% of your gross income, but in a lot of cities that's really hard. Treat it as a target, not a rule. What matters most is whether you can still cover bills, save something, and handle surprises. Roommates or a longer commute are common tradeoffs."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_009.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💸",
+   "sub": "comment the number. we're all figuring it out"
+  }
+ ]
+}

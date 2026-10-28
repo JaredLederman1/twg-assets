@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_064.jpg",
+   "kicker": "be honest…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_030.jpg",
+   "n": 1,
+   "q": "How much sleep do I actually need?",
+   "a": "Most adults need at least seven hours a night, and many feel best somewhere between seven and nine. The right amount is whatever leaves you alert during the day without leaning on caffeine to function. If you sleep enough but still wake up exhausted, bring it up with a doctor, since sleep quality matters too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_057.jpg",
+   "n": 2,
+   "q": "Why do I wake up tired even after 8 hours?",
+   "a": "Hours aren't everything. Alcohol, a late heavy meal, a warm room, or waking mid-cycle can all leave you groggy. Loud snoring and pauses in breathing can point to sleep apnea, which quietly ruins sleep. Try a consistent wake time for a couple of weeks. Worth seeing a doctor if you're tired most days no matter what."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_034.jpg",
+   "n": 3,
+   "q": "Is it bad to sleep on my stomach?",
+   "a": "It's not dangerous, but it can be hard on your neck and lower back, since your head stays turned to one side for hours. If you love it, try a thin pillow or none under your head, and maybe one under your hips. Worth checking with a doctor if you keep waking up sore or in pain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_092.jpg",
+   "n": 4,
+   "q": "Why do I sleep worse after drinking?",
+   "a": "Alcohol can make you drowsy at first, but as your body processes it, sleep gets lighter and more broken in the second half of the night. It also cuts into REM sleep, the dreamy restorative stage, and can wake you up to pee. That's why you can sleep eight hours and still feel wrecked."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_096.jpg",
+   "n": 5,
+   "q": "Why do I only snore some nights?",
+   "a": "Snoring often depends on the night. Sleeping on your back, a stuffy nose, allergies, alcohol, and being extra tired can all relax or narrow your airway. Sleeping on your side often helps. Worth seeing a doctor if someone notices you gasping or pausing in your breathing, or you're very sleepy during the day."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_008.jpg",
+   "title": "Which one keeps you up?",
+   "emoji": "🌙",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

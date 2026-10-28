@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_051.jpg",
+   "kicker": "asking for a friend",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_073.jpg",
+   "n": 1,
+   "q": "Why do I feel sad after a vacation ends?",
+   "a": "Post-vacation blues are really common. You go from novelty, rest, and freedom straight back to routine and to-do lists, and your mood dips with that contrast. It usually fades within a few days. Easing back in with a buffer day at home, and planning something small to look forward to, can really help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_094.jpg",
+   "n": 2,
+   "q": "Why do I mess up when someone watches me?",
+   "a": "Being watched shifts your attention from the task to yourself. You start consciously checking things you'd normally do on autopilot, which makes typos and fumbles more likely. It's a really common kind of performance pressure. A slow breath and focusing on just the next small step helps your brain slip back into flow."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_076.jpg",
+   "n": 3,
+   "q": "Why do I hate being told what to do, even when it's good advice?",
+   "a": "There's a name for it: reactance. When you feel your freedom is being limited, your brain pushes back, even against good ideas. It's a very human reaction, not a character flaw. It helps to pause and ask yourself, \"Would I like this idea if it were my own?\" Sometimes the answer is yes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_078.jpg",
+   "n": 4,
+   "q": "How do I handle relatives asking when I'm getting married?",
+   "a": "Have a light, ready-made answer, like \"When it happens, you'll be the first to know!\" Then steer the conversation to something they love talking about. Most relatives mean well, even when it's awkward. If someone keeps pushing, it's okay to say kindly, \"I'd rather not talk about that today.\""
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_016.jpg",
+   "n": 5,
+   "q": "Why does a messy room stress me out so much?",
+   "a": "Clutter gives your brain a lot of visual input, and it can feel like a to-do list staring back at you, which makes it harder to relax or focus. You don't need to clean everything at once. Try a 10-minute reset: clear one surface, and it often lifts your mood more than you'd expect."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_070.jpg",
+   "title": "Which one was so you?",
+   "emoji": "😳",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

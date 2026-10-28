@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_057.jpg",
+   "kicker": "be honest…",
+   "title": "Work questions you're too scared to ask",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_016.jpg",
+   "n": 1,
+   "q": "Is it okay to ask what a job pays in the interview?",
+   "a": "Yes, especially once it's clear there's mutual interest. Many places now require job posts to list pay ranges, so it's an increasingly normal question. Keep it simple: \"Can you share the salary range for this role?\" It saves everyone time, and it's a professional question, not a greedy one."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_028.jpg",
+   "n": 2,
+   "q": "How do I tell my boss I'm quitting?",
+   "a": "Tell them in person or on a video call before you email anything, and keep it short and grateful: \"I've accepted another role, and my last day will be...\" You don't need to explain every reason. Offer to help with the handover. Two weeks' notice is common in the US, but check your contract."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_062.jpg",
+   "n": 3,
+   "q": "Is it bad that I don't have a five-year plan?",
+   "a": "Not at all. Plenty of people find their path by trying things, following what they enjoy, and saying yes to opportunities they couldn't have predicted. A loose sense of direction is enough. Focus on what you want to learn or try next, and the bigger picture tends to take shape as you go."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_060.jpg",
+   "n": 4,
+   "q": "Is it okay to follow up after an interview?",
+   "a": "Yes, and it's often appreciated. A short thank-you email within a day is a nice touch. If they gave a timeline and it passes, waiting about a week before a polite check-in is reasonable: \"Just following up, I'm still very interested in the role.\" One follow-up is professional, not pushy."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_100.jpg",
+   "n": 5,
+   "q": "How do I negotiate a job offer?",
+   "a": "Thank them, show enthusiasm, then ask: \"Is there any flexibility on the base salary?\" Research typical pay for the role first so you can name a number with confidence. If salary is fixed, you can sometimes ask about a signing bonus, extra vacation, or remote days. Many employers expect some negotiation."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_086.jpg",
+   "title": "Which one do you need right now?",
+   "emoji": "💼",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

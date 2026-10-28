@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_025.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_058.jpg",
+   "n": 1,
+   "q": "Why does my nose run when I eat?",
+   "a": "That's often gustatory rhinitis. Hot or spicy food can trigger nerves in your nose that tell it to make extra mucus, so it drips while you eat. It's harmless and super common, and it usually stops soon after the meal. Keeping tissues nearby is the main fix. Worth seeing a doctor if it really bothers you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_056.jpg",
+   "n": 2,
+   "q": "Why does my heel hurt when I first get out of bed?",
+   "a": "That classic first-step stab is often plantar fasciitis, irritation of the thick band along the bottom of your foot. It tightens overnight, then stretches painfully when you stand. Supportive shoes, calf stretches, and not going barefoot on hard floors often help. Worth seeing a doctor if it lasts weeks, gets worse, or follows an injury."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_076.jpg",
+   "n": 3,
+   "q": "Why does my nose run when I cry?",
+   "a": "Your tears don't just roll down your cheeks. They also drain through tiny ducts in the inner corners of your eyes straight into your nose. When you cry, there are too many tears for that system to handle, so the extra comes out as a runny nose. Totally normal plumbing, and it stops once the tears do."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_051.jpg",
+   "n": 4,
+   "q": "Why does my jaw click when I chew?",
+   "a": "Jaw clicking is really common and often comes from the small disc in your jaw joint shifting as you open and close. If it doesn't hurt, it's usually nothing to worry about. Clenching, lots of gum chewing, and stress can make it worse. Worth seeing a dentist or doctor if it's painful, locks, or makes chewing hard."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_095.jpg",
+   "n": 5,
+   "q": "Why does so much hair come out in the shower?",
+   "a": "Losing roughly 50 to 100 hairs a day is normal, and washing just releases the ones already on their way out. If you wash less often, you'll see more at once, which looks scary but isn't. Stress or illness can cause temporary extra shedding. Worth seeing a doctor if you notice thinning patches or bald spots."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_098.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

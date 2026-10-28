@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_029.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_010.jpg",
+   "n": 1,
+   "q": "Why did I get a bump on my eyelid?",
+   "a": "Usually it's a stye, a small infection of an oil gland or lash follicle, or a chalazion, which is a blocked oil gland. A warm compress a few times a day often helps it drain on its own. Don't squeeze it. Worth seeing a doctor if it lasts weeks, keeps coming back, or your vision seems affected."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_044.jpg",
+   "n": 2,
+   "q": "Why do my hands shake a little sometimes?",
+   "a": "A tiny tremor is normal for everyone, and it gets more noticeable with caffeine, stress, little sleep, hunger, or after a workout. That's why your hands shake when you're nervous. Cutting back on coffee often helps. Worth seeing a doctor if the shaking is getting worse, gets in the way of daily tasks, or comes with other symptoms."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_061.jpg",
+   "n": 3,
+   "q": "Why do my nails have ridges?",
+   "a": "Vertical ridges running from cuticle to tip are really common and tend to show up more as you get older, a bit like wrinkles for your nails. Dryness can make them stand out more. Moisturizing your hands and cuticles helps. Worth seeing a doctor if you get deep side-to-side grooves, color changes, or nails that suddenly change shape."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_047.jpg",
+   "n": 4,
+   "q": "Why do I wake up with a headache?",
+   "a": "Morning headaches can come from dehydration, alcohol, too much or too little sleep, clenching your jaw at night, or missing your usual coffee. Snoring plus morning headaches can point to sleep apnea. Try water before bed and a steady sleep schedule. Worth seeing a doctor if they happen often, are severe, or feel new or different."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_018.jpg",
+   "n": 5,
+   "q": "Why do I have dark circles even when I sleep enough?",
+   "a": "Dark circles are often genetic. The skin under your eyes is thin, so blood vessels and natural pigment show through more. Allergies, rubbing your eyes, and aging can make them darker. Sleep helps, but it doesn't always erase them. Cold compresses or concealer can help, and they're usually nothing to worry about."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_062.jpg",
+   "title": "Which one have you wondered about?",
+   "emoji": "🩺",
+   "sub": "comment the number. no judgement here"
+  }
+ ]
+}

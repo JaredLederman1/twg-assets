@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_022.jpg",
+   "kicker": "asking for a friend",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_020.jpg",
+   "n": 1,
+   "q": "Why do I still dream about my ex?",
+   "a": "Dreams often replay people and feelings your brain is still processing, and an ex can stay in that rotation long after you've moved on. It doesn't automatically mean you want them back. Sometimes they just stand for a time in your life or a feeling you haven't settled yet. It usually fades as you build new memories."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_052.jpg",
+   "n": 2,
+   "q": "How do I tell people we broke up?",
+   "a": "Keep it short and simple: \"We broke up, and I'm doing okay,\" or \"I'm not ready to talk about it yet.\" You don't owe anyone the full story. Tell the people closest to you first so they can help field questions from everyone else. A quick text to the rest is completely fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_093.jpg",
+   "n": 3,
+   "q": "Why do I feel like I'm the problem after a breakup?",
+   "a": "When something ends, your brain hunts for a reason, and blaming yourself can feel easier than sitting with uncertainty. Most breakups come from two people not fitting, not one person being broken. Noticing what you'd do differently is healthy, but that's learning, not proof you're unlovable. Be as kind to yourself as you'd be to a friend."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_011.jpg",
+   "n": 4,
+   "q": "What do I do if I run into my ex?",
+   "a": "Decide your move ahead of time so you're not improvising. A small smile and \"hey, good to see you\" works, and you're allowed to keep walking. You don't need a big conversation. If it rattles you afterward, that's normal, so text a friend or take a minute to breathe. It gets easier each time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_025.jpg",
+   "n": 5,
+   "q": "How do I sleep alone again after a breakup?",
+   "a": "The empty side of the bed can feel loud at first. Try changing the setup a little: move the pillows, sleep in the middle, or play a podcast or soft background noise. A steady wind-down routine helps your body relax. Be patient with yourself. For most people it gets easier within a few weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_084.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "💔",
+   "sub": "drop the number. we've all been there"
+  }
+ ]
+}

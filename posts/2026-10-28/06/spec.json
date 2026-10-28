@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_075.jpg",
+   "kicker": "be honest…",
+   "title": "Relationship questions you'd never ask out loud",
+   "emoji": "💭"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_072.jpg",
+   "n": 1,
+   "q": "Is it normal to want more or less closeness than my partner?",
+   "a": "Very normal. Almost every couple has some mismatch in how much closeness, touch, or intimacy each person wants, and it shifts with stress, health, and life stages. It doesn't mean something is wrong. The key is talking about it kindly, without blame, and finding a middle ground. A couples therapist can help if it feels stuck."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_042.jpg",
+   "n": 2,
+   "q": "Is it bad that I don't like my partner's friends?",
+   "a": "Not necessarily. You don't have to love everyone your partner loves. Being polite and giving them space to see their friends goes a long way. It's worth paying attention if those friends are disrespectful to you, or if your partner acts very differently around them. Then it's a conversation to have, not a secret."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_013.jpg",
+   "n": 3,
+   "q": "How do I know if I'm ready to move in together?",
+   "a": "Good signs: you've talked about money, chores, and alone time, you've handled a few disagreements well, and you're both excited rather than pressured. It helps to discuss what happens if it doesn't work out, like whose name is on the lease. Moving in won't fix problems, but it will show them faster."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_005.jpg",
+   "n": 4,
+   "q": "Is it okay to need space after an argument?",
+   "a": "Yes. Many people need time to cool down before they can talk calmly, and pushing through while you're flooded often makes fights worse. The trick is saying so: \"I need an hour, then I want to finish this.\" Taking space is healthy. Disappearing without explanation is what makes the other person anxious."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_013.jpg",
+   "n": 5,
+   "q": "Is it okay if we go to bed at different times?",
+   "a": "Totally. Lots of couples have different body clocks, and forcing the same bedtime can leave one person lying awake. Some couples wind down together, then one gets up again, which keeps the connection without wrecking anyone's sleep. Just be considerate with lights and noise when you're the one coming to bed late."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_003.jpg",
+   "title": "Which one is your relationship?",
+   "emoji": "💭",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

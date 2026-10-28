@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_013.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions you'd never ask out loud",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_029.jpg",
+   "n": 1,
+   "q": "How often should I wash my bath mat?",
+   "a": "About once a week is a good goal, especially if your bathroom stays humid. Bath mats soak up water and dead skin, which makes them a cozy spot for mildew and bacteria. Let it dry fully between showers by hanging it over the tub or a rail. If it smells musty, it's overdue."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_061.jpg",
+   "n": 2,
+   "q": "Is it bad to clean my ears with cotton swabs?",
+   "a": "Doctors generally say skip it. Earwax is your ear's natural cleaner, and it usually works its way out on its own. Swabs can push wax deeper and even scratch your ear canal. Just wipe the outer ear with a washcloth. Worth seeing a doctor if your ears feel blocked, hurt, or your hearing changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_097.jpg",
+   "n": 3,
+   "q": "Should I rinse my mouth after brushing?",
+   "a": "Many dentists say spit, don't rinse. Rinsing with water washes away the fluoride from your toothpaste before it has time to protect your teeth. Just spit out the extra foam and leave the rest. If you hate that feeling, a fluoride mouthwash is a gentler swap, or wait a bit before drinking water."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_006.jpg",
+   "n": 4,
+   "q": "Is it bad to brush right after eating?",
+   "a": "Usually it's fine, but after acidic foods or drinks like citrus, soda, or wine, your enamel is temporarily softened, and brushing right away can wear it down. Dentists often suggest waiting about an hour, or rinsing with water first. Brushing twice a day with fluoride toothpaste is still the most important part."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_049.jpg",
+   "n": 5,
+   "q": "How often should I replace my contact lens case?",
+   "a": "About every three months is the common recommendation from eye doctors, since old cases can grow bacteria even when you clean them. Rinse it with fresh solution, never tap water, and let it air dry upside down. Worth seeing an eye doctor quickly if you get eye pain, redness, or blurry vision."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_048.jpg",
+   "title": "Which one are you guilty of?",
+   "emoji": "🧼",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

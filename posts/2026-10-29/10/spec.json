@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_032.jpg",
+   "kicker": "no judgement",
+   "title": "Things you'd only ask your best friend",
+   "emoji": "🤫"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_047.jpg",
+   "n": 1,
+   "q": "Why do I have red eyes in flash photos?",
+   "a": "Red eye happens when a camera flash bounces off the back of your eye, which is full of blood vessels, and reflects straight back into the lens. It's more likely in dim light, when your pupils are wide open. It's completely harmless. Turning on more lights or using red-eye reduction mode usually fixes it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_056.jpg",
+   "n": 2,
+   "q": "Why can't I stop biting my nails?",
+   "a": "Nail biting is a really common habit, often triggered by stress, boredom, or just idle hands. It can damage nails and move germs from your hands to your mouth. Keeping nails short, having something else to fidget with, and noticing your triggers all help. Worth seeing a doctor if it's causing bleeding or infections, or feels impossible to stop."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_088.jpg",
+   "n": 3,
+   "q": "Is it normal to have an outie belly button?",
+   "a": "Yes, it's just a normal variation. Your belly button is basically a scar from where your umbilical cord was attached, and how it healed decides whether you got an innie or an outie. Neither is healthier. Worth seeing a doctor if an outie appears suddenly as an adult, bulges, or hurts, since that can be a hernia."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_001.jpg",
+   "n": 4,
+   "q": "Why does my hair get greasy so fast?",
+   "a": "Your scalp makes a natural oil called sebum, and some people simply make more of it. Hormones, genetics, touching your hair a lot, and heavy products can all play a part. Finding a gentle shampoo that suits you and keeping your hands off your hair help. Worth seeing a doctor if your scalp is also flaky, red, or sore."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_043.jpg",
+   "n": 5,
+   "q": "Why does my hair look darker when it's wet?",
+   "a": "Water fills the tiny gaps along each strand, so less light scatters off the surface and more soaks in, making it look darker. The same thing happens with wet sand or a wet T-shirt. Your actual hair color hasn't changed at all, and it'll look lighter again as soon as it dries."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_012.jpg",
+   "title": "Which one were you wondering?",
+   "emoji": "🤫",
+   "sub": "comment the number. it stays between us"
+  }
+ ]
+}

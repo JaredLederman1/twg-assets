@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_032.jpg",
+   "kicker": "can't sleep?",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_043.jpg",
+   "n": 1,
+   "q": "Why do I always flip my pillow to the cold side?",
+   "a": "Your body temperature naturally dips as you fall asleep, and a warm pillow works against that, so the cool side feels like instant relief. It's a tiny reset for your body. Keeping your bedroom on the cooler side and using breathable bedding can help you stay comfortable all night instead of flipping over and over."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_071.jpg",
+   "n": 2,
+   "q": "Is it bad to sleep with a fan on?",
+   "a": "For most people it's fine. A fan keeps air moving, cools you down, and the steady hum can block other noise. Some people wake up with a dry mouth, dry eyes, or a stuffy nose, since moving air dries things out. Pointing it away from your face and keeping it dust-free helps. Check with a doctor if allergies flare."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_071.jpg",
+   "n": 3,
+   "q": "Why do I hear my name right as I'm falling asleep?",
+   "a": "Hearing your name, a doorbell, or a voice as you drift off can happen in the drowsy stage between awake and asleep, when your brain starts dreaming while you're still partly conscious. These are called hypnagogic experiences, and they're common and usually harmless. Worth talking to a doctor if it happens when you're fully awake or feels distressing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_089.jpg",
+   "n": 4,
+   "q": "Why do I sleep better under a heavy blanket?",
+   "a": "Lots of people find weight comforting, a bit like a hug, which can help them relax. Research on weighted blankets is still limited, but some studies suggest they help some people feel calmer and sleep better. They aren't for everyone and aren't recommended for young children. Pick one that's comfortable and easy to move under."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_042.jpg",
+   "n": 5,
+   "q": "Is it normal to need total darkness to sleep?",
+   "a": "Very normal. Light tells your brain it's daytime and can lower melatonin, the hormone that helps you feel sleepy. Even small lights can make it harder for some people to settle. Blackout curtains or a comfy sleep mask are easy fixes. Being sensitive to light just means you know what your body needs to rest."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_028.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "🌙",
+   "sub": "comment the number, night owls"
+  }
+ ]
+}

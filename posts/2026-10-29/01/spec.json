@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_039.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_013.jpg",
+   "n": 1,
+   "q": "Why do I cough when I clean my ears?",
+   "a": "There's a small branch of the vagus nerve inside your ear canal, sometimes called Arnold's nerve. Touching it can set off a cough reflex, a bit like a tickle in your throat. It's harmless and pretty common. Go easy though, since ears mostly clean themselves. Worth seeing a doctor if your ear hurts, itches constantly, or leaks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_006.jpg",
+   "n": 2,
+   "q": "Do people actually fart in their sleep?",
+   "a": "Yes, pretty much everyone does. Your gut keeps digesting overnight, so gas keeps building up and has to go somewhere. The muscles that hold it in loosen a little while you sleep, so it slips out quietly. You usually won't notice, though your partner might. Totally normal and nothing to be embarrassed about."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_014.jpg",
+   "n": 3,
+   "q": "Why does my mouth water right before I throw up?",
+   "a": "That's your body protecting you. Right before vomiting, your salivary glands kick into overdrive to coat your mouth and teeth and help buffer the stomach acid that's about to come up. So the drooling is a warning sign and a shield at once. Worth seeing a doctor if vomiting keeps happening or you can't keep fluids down."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_017.jpg",
+   "n": 4,
+   "q": "Why is one of my eyebrows higher than the other?",
+   "a": "Almost nobody's face is perfectly symmetrical. Small differences in bone structure, muscle strength, and habits like raising one brow more often can make one sit higher. Other people rarely notice, even if you see it every time you look in the mirror. Get medical help right away if one side of your face ever suddenly droops."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_028.jpg",
+   "n": 5,
+   "q": "Why do I get songs stuck in my head?",
+   "a": "Those are called earworms, and almost everyone gets them. They usually come from catchy, repetitive tunes, especially ones you heard recently or only partly. Your brain keeps looping the bit it can't finish. Listening to the whole song, chewing gum, or getting absorbed in a puzzle can help break the loop. Annoying, but completely normal."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_026.jpg",
+   "title": "Which one was you?",
+   "emoji": "👀",
+   "sub": "drop the number in the comments"
+  }
+ ]
+}

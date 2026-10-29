@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_011.jpg",
+   "kicker": "no judgement",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_005.jpg",
+   "n": 1,
+   "q": "What are these tiny white bumps on my lips?",
+   "a": "Tiny pale yellow or white dots on your lips or inside your cheeks are often Fordyce spots. They're just oil glands that sit closer to the surface than usual. They're super common, not contagious, and not an STI, and you don't need to treat them. Worth seeing a doctor if bumps hurt, blister, or keep changing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_070.jpg",
+   "n": 2,
+   "q": "Why does my tongue have wavy dents on the sides?",
+   "a": "Wavy edges usually mean your tongue has been pressing against your teeth, often from clenching, especially at night. Sometimes it happens when the tongue is a little swollen. On its own it's usually harmless. Worth seeing a dentist or doctor if it comes with jaw pain, heavy snoring, a sore tongue, or you just feel unwell."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_001.jpg",
+   "n": 3,
+   "q": "Why do I wake up with lines on my face?",
+   "a": "Those creases come from your face pressing into a pillow or sheet for hours. Skin gets a bit less springy as we age, so the lines can take longer to fade, sometimes an hour or more. They're temporary and harmless. A smooth pillowcase or sleeping on your back can help if they really bug you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_083.jpg",
+   "n": 4,
+   "q": "Why are my teeth yellow even though I brush?",
+   "a": "Teeth aren't naturally bright white. Under the enamel is a yellowish layer called dentin, and where enamel is thinner, more of it shows through. Coffee, tea, red wine, and smoking also stain over time. Brushing removes plaque, not deep color. Ask a dentist about whitening options, or if one tooth suddenly darkens."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_060.jpg",
+   "n": 5,
+   "q": "Why does my belly look bigger at night?",
+   "a": "That's completely normal. Over the day you eat, drink, and build up gas, so your stomach and intestines are holding more by evening. Sitting a lot and salty food can add some bloating too. By morning it's mostly gone again. Worth seeing a doctor if bloating is painful, constant, or comes with changes in your bathroom habits."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_059.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

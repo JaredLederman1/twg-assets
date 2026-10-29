@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_019.jpg",
+   "kicker": "no judgement",
+   "title": "Friendship questions you'd never ask out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_011.jpg",
+   "n": 1,
+   "q": "How do I stop being the friend who always cancels?",
+   "a": "Start by saying yes only to plans you actually want and have energy for, so you're not overbooking yourself. Put plans in your calendar like real appointments. If you do need to cancel, do it early and suggest a new date right away. Friends care less about one cancellation than about you following through."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_053.jpg",
+   "n": 2,
+   "q": "Why do I feel awkward hugging people?",
+   "a": "Not everyone is a natural hugger, and that's okay. Comfort with touch depends a lot on how you grew up, your culture, and your personality. You can offer a wave, a high five, or a side hug instead. People usually respect clear, friendly signals, and you never owe anyone a hug you don't want."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_017.jpg",
+   "n": 3,
+   "q": "How do I tell a friend I don't like their partner?",
+   "a": "First, ask yourself if it's a real concern or just a personality clash. If you simply don't click, you may not need to say anything. If you're worried about how they're treated, pick a calm, private moment and lead with care, like 'you've seemed stressed lately, are you okay?' Then listen more than you talk."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_009.jpg",
+   "n": 4,
+   "q": "Is it weird to have a friend I've never met in person?",
+   "a": "Not at all. Plenty of real, close friendships start and stay online, through games, group chats, or shared interests. What matters is whether the friendship is kind, honest, and makes you feel good. If you ever decide to meet up, choose a public place and let someone you trust know where you'll be."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_067.jpg",
+   "n": 5,
+   "q": "Why do I feel like I have to be funny around friends?",
+   "a": "Lots of people take on a role in their group, and 'the funny one' is a common one. It can come from wanting to be liked or to keep things light. Good friends like you on quiet days too. Try letting yourself just listen sometimes, and notice that the people who matter don't go anywhere."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_016.jpg",
+   "title": "Which friend are you?",
+   "emoji": "🫂",
+   "sub": "comment the number, then tag them"
+  }
+ ]
+}

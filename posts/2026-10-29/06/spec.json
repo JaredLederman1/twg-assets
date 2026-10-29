@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_004.jpg",
+   "kicker": "asking for a friend",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_066.jpg",
+   "n": 1,
+   "q": "Is it okay to keep my camera off in meetings?",
+   "a": "Often, yes, depending on your workplace. Many teams are relaxed about cameras on internal calls, while client meetings and interviews usually expect them on. If you're unsure, notice what others do or just ask your manager. A quick 'camera off today, but I'm here and listening' is usually totally fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_063.jpg",
+   "n": 2,
+   "q": "How do I remember everyone's names at a new job?",
+   "a": "Say the name back right away, like 'nice to meet you, Priya,' and use it once more in the conversation. Jotting quick notes after meetings helps a lot, and team pages are your friend. If you forget, just ask again. Most people would much rather be asked than have you avoid them for months."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_008.jpg",
+   "n": 3,
+   "q": "How do I handle a coworker who talks too much?",
+   "a": "Friendly but clear works best. Try 'I'd love to hear more later, but I need to focus right now,' or use headphones as a signal. Blocking focus time on your calendar helps too. Most chatty coworkers aren't trying to annoy you, they just enjoy connecting, so kindness and consistency usually do the trick."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_053.jpg",
+   "n": 4,
+   "q": "How do I sound more confident in meetings?",
+   "a": "Speak a little slower than feels natural, and drop extra fillers like 'just' and 'I think maybe.' Prepare one or two points before the meeting so you're not improvising. It's fine to pause before answering. Confidence often comes from preparation, and the more often you speak up, the easier it gets."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_061.jpg",
+   "n": 5,
+   "q": "Is it rude to message coworkers after hours?",
+   "a": "Usually not, as long as you aren't expecting an instant reply. Scheduling the message to send in the morning is a kind option. If you're a manager, adding 'no rush, reply tomorrow' helps people not feel pressured. Workplace norms vary a lot, so follow your team's lead and respect people's time off."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_076.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "💼",
+   "sub": "comment the number. your boss won't see"
+  }
+ ]
+}

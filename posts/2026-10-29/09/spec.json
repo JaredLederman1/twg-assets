@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_095.jpg",
+   "kicker": "be honest…",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_093.jpg",
+   "n": 1,
+   "q": "Is it normal to feel like I wasted years on them?",
+   "a": "That feeling is really common, especially right after it ends. But time in a relationship that didn't last still taught you things: what you want, what you won't accept, and how you love. Those lessons come with you. Try to be gentle with the version of you who stayed. They were doing their best."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_013.jpg",
+   "n": 2,
+   "q": "How do I get through the first weekend after a breakup?",
+   "a": "Plan it a little. Line up a few low-pressure things: a walk, a movie with a friend, cleaning one corner of your room. Eat real meals and try to sleep at normal hours. It's okay to feel awful, but try not to spend the whole weekend alone in your head. Small plans make the hours feel shorter."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_088.jpg",
+   "n": 3,
+   "q": "How do I handle mutual friends after a breakup?",
+   "a": "Try not to make friends pick sides, and don't use them to pass messages. It's okay to tell them you'd rather not hear updates about your ex for a while. Some friendships may shift, and that's normal. If you'll see your ex at a group event, have an exit plan and a friend on your side."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_053.jpg",
+   "n": 4,
+   "q": "Why does it feel like I lost my best friend too?",
+   "a": "Because you often did. A partner is usually also your go-to person for daily updates, inside jokes, and support, so a breakup can take out your closest friendship at the same time. That double loss is why it can feel so empty. Leaning on other friends and building new routines helps fill that space over time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_017.jpg",
+   "n": 5,
+   "q": "Is it normal to feel fine one day and wrecked the next?",
+   "a": "Completely normal. Healing after a breakup isn't a straight line. You can feel great on Tuesday, then a smell, a song, or a random memory knocks you back on Wednesday. Bad days don't mean you're starting over. Over time, the good days come more often and the hard ones hit a little softer."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_007.jpg",
+   "title": "Which one are you going through?",
+   "emoji": "💔",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

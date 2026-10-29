@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_033.jpg",
+   "kicker": "asking for a friend",
+   "title": "Money questions you'd never ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_092.jpg",
+   "n": 1,
+   "q": "How do I know if I'm being underpaid?",
+   "a": "Start by looking up typical pay for your role, level, and city on salary sites, and check job posts, since many now list pay ranges. Talking with people in your field helps too. If you're well below the usual range, that's useful information, whether you ask for a raise or start quietly looking elsewhere."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_049.jpg",
+   "n": 2,
+   "q": "Is it bad to put everything on a credit card?",
+   "a": "Not if you pay the full balance every month. Used that way, a card can build your credit history and earn rewards without costing you any interest. The catch is that swiping makes overspending easy, and carried balances get expensive fast. Treat it like a debit card and keep a close eye on what you spend."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_086.jpg",
+   "n": 3,
+   "q": "Should I pay off debt or save first?",
+   "a": "A common approach is a bit of both. Build a small starter emergency fund first so a surprise bill doesn't end up back on a card, then put extra money toward high-interest debt like credit cards. If your job offers a retirement match, contributing enough to get it is often worth it, since that's money you'd otherwise leave behind."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_074.jpg",
+   "n": 4,
+   "q": "What's a sinking fund?",
+   "a": "It's just money you set aside a little at a time for a cost you know is coming, like holiday gifts, car repairs, or a trip. If you'll need $600 for gifts in December, saving $50 a month all year makes it painless. It keeps predictable expenses from feeling like emergencies or landing on a credit card."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_088.jpg",
+   "n": 5,
+   "q": "Is renting really throwing money away?",
+   "a": "Not really. Rent buys you a place to live with fewer surprise costs. Owning comes with mortgage interest, property taxes, insurance, repairs, and closing costs, and none of those build equity either. Buying can make sense if you'll stay put for years and can comfortably afford it. Renting can be a smart choice, not a failure."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_074.jpg",
+   "title": "Which one hit your wallet?",
+   "emoji": "💸",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

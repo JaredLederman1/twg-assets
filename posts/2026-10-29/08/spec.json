@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_063.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_087.jpg",
+   "n": 1,
+   "q": "Why do my eyes feel gritty?",
+   "a": "A sandy, gritty feeling is often dry eye, which gets worse with screens, wind, indoor heating, or contact lenses. When we stare at screens we blink less, so eyes dry out. Taking breaks to look away and blink can help. Worth seeing a doctor if your eye is red, painful, sensitive to light, or your vision changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_012.jpg",
+   "n": 2,
+   "q": "Why does my earwax look different from other people's?",
+   "a": "Earwax comes in two main types, wet and dry, and which one you have is largely genetic. Wet wax tends to be yellow to brown and sticky, while dry wax is lighter and flaky. It can also darken as it ages. Your ears mostly clean themselves. Worth seeing a doctor if you have pain, discharge, or hearing changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_075.jpg",
+   "n": 3,
+   "q": "Why do my legs feel restless at night?",
+   "a": "That urge to move your legs when you lie down might be restless legs syndrome. It's common, often worse in the evening, and moving eases it for a bit. It's been linked to things like low iron, pregnancy, and some medications. Stretching and less late caffeine may help. Worth seeing a doctor if it's disrupting your sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_021.jpg",
+   "n": 4,
+   "q": "Why won't this dry cough go away?",
+   "a": "A lingering cough after a cold is really common and can last a few weeks while your airways settle down. Postnasal drip, dry air, allergies, and acid reflux are other usual suspects. Warm drinks and a humidifier may help. See a doctor if it lasts more than three weeks, or you cough up blood or feel short of breath."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_040.jpg",
+   "n": 5,
+   "q": "Why does my knee hurt going down stairs?",
+   "a": "Pain on the way down often comes from around the kneecap, which takes extra load when you step down. It's common in runners and people who sit a lot, and weak thigh and hip muscles can play a part. Strengthening exercises often help. Worth seeing a doctor if your knee swells, locks, gives way, or the pain isn't improving."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_005.jpg",
+   "title": "Which one have you been avoiding?",
+   "emoji": "🩺",
+   "sub": "comment the number, then book that appointment"
+  }
+ ]
+}

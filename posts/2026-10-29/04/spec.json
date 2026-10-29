@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_034.jpg",
+   "kicker": "be honest…",
+   "title": "Dating questions you'd never say out loud",
+   "emoji": "🙈"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_001.jpg",
+   "n": 1,
+   "q": "How do I know if it's a date or just hanging out?",
+   "a": "If it's just the two of you, they asked you specifically, and there's a little effort or flirting involved, it's probably a date. Group plans and last-minute 'wanna come?' texts lean more friendly. The easiest fix is playful honesty: 'wait, is this a date?' Most people find that more charming than awkward."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_051.jpg",
+   "n": 2,
+   "q": "How do I stop being so nervous about a first kiss?",
+   "a": "Nerves are normal, and the other person is probably nervous too. Go slow, pay attention to how they respond, and don't overthink technique. Fresh breath and a little eye contact help. Asking 'can I kiss you?' is actually pretty attractive and takes the guessing out of it. A first kiss doesn't have to be perfect to be good."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_055.jpg",
+   "n": 3,
+   "q": "Why do I get so awkward when someone compliments me?",
+   "a": "Lots of people deflect compliments because accepting them feels like bragging, or because the words don't quite match how they see themselves. The easiest move is a simple 'thank you,' and that's it. You don't have to agree, explain, or return one right away. With a bit of practice it gets a lot less cringey."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_015.jpg",
+   "n": 4,
+   "q": "Is it okay to have a 'type'?",
+   "a": "Totally normal. Most people are drawn to certain looks, personalities, or vibes, often shaped by past relationships and what feels familiar. It only becomes a problem if your type keeps leading you to people who treat you badly, or makes you rule out great people too fast. Stay a little open and see who surprises you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_038.jpg",
+   "n": 5,
+   "q": "Is it bad to use the same first-date spot every time?",
+   "a": "Not at all. Having a go-to place you like takes the pressure off, and you'll feel more relaxed when you already know the menu, the noise level, and how to get home. Just make sure it's public and easy to leave. If things go well, you can try somewhere new together for date two."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_007.jpg",
+   "title": "Which one are you?",
+   "emoji": "🙈",
+   "sub": "comment the number. no judgement"
+  }
+ ]
+}

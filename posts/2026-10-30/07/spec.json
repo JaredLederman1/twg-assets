@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_019.jpg",
+   "kicker": "asking for a friend",
+   "title": "Friendship questions you'd never ask out loud",
+   "emoji": "🫶"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_011.jpg",
+   "n": 1,
+   "q": "How do I tell a friend they have bad breath?",
+   "a": "Do it privately and keep it light. Something like 'I'd want someone to tell me, so heads up, you might want a mint' works. Casually offering gum is an even gentler move. Most people are grateful, especially before a date or an interview. If it happens all the time, it could be worth them seeing a dentist."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_030.jpg",
+   "n": 2,
+   "q": "How do I ask someone to hang out without it being weird?",
+   "a": "Make it specific and low pressure. Instead of 'we should hang out sometime,' try 'I'm getting tacos Thursday, want to come?' A concrete plan is much easier to say yes to. If they can't make it, suggest another time once and let them pick. Most people want more friends too, and they're often flattered someone asked first."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_059.jpg",
+   "n": 3,
+   "q": "What do I do about a friend who never asks about me?",
+   "a": "Some people are just bad at asking questions, especially when they're stressed or nervous, so it isn't always selfishness. Try sharing without waiting to be asked, like 'can I tell you about my week?' If it keeps feeling one-sided, it's fair to say so kindly. A good friend will want to know that you've been feeling unheard."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_059.jpg",
+   "n": 4,
+   "q": "How do I support a friend who's grieving?",
+   "a": "Show up in small, specific ways. Instead of 'let me know if you need anything,' offer something real, like dropping off dinner or walking their dog. You don't need perfect words. 'I'm so sorry, I'm here' is enough. Keep checking in weeks and months later, after everyone else has moved on. That's often when it means the most."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_022.jpg",
+   "n": 5,
+   "q": "How do I say no to being a bridesmaid?",
+   "a": "It's okay to say no if you can't afford it, don't have the time, or just can't take it on right now. Tell them soon and kindly, and lead with how happy you are for them. Something like 'I love you and can't wait to celebrate, but I can't be a bridesmaid' works. Then show up as a great guest."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_015.jpg",
+   "title": "Which one do you need to hear?",
+   "emoji": "🫶",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

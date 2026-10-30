@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_046.jpg",
+   "kicker": "no judgement",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_036.jpg",
+   "n": 1,
+   "q": "Is it okay to skip the work happy hour?",
+   "a": "Yes, it's okay. Most people won't think twice if you skip now and then, especially if you're friendly and engaged during the workday. If you want to build relationships, try showing up for part of it, joining a team lunch, or grabbing coffee with someone one-on-one instead. A simple 'can't make it tonight, have fun!' is plenty."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_073.jpg",
+   "n": 2,
+   "q": "How do I deal with a micromanager?",
+   "a": "Micromanaging usually comes from their anxiety, not from thinking you're bad at your job. Try getting ahead of it: send short updates before they ask, and agree up front on what done looks like and when you'll check in. Over time that builds trust. If it doesn't ease, it's fair to calmly ask for more room on specific tasks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_021.jpg",
+   "n": 3,
+   "q": "How do I decline a meeting without being rude?",
+   "a": "You can, and people often appreciate it. Reply with a quick note like 'I don't think I'm needed for this one, but I'm happy to read the notes,' or ask whether it could be an email. If timing is the issue, suggest another slot. Being clear and friendly is what matters. Most people are relieved to have fewer meetings."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_065.jpg",
+   "n": 4,
+   "q": "Is it bad to have a work best friend?",
+   "a": "Not at all. Gallup research has linked having a best friend at work to people being more engaged and more likely to enjoy their jobs. Just keep it inclusive so others don't feel left out, and be thoughtful about what you share about other coworkers. A close work friendship can make even the hardest weeks feel a lot lighter."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_020.jpg",
+   "n": 5,
+   "q": "How do I handle a coworker who's always negative?",
+   "a": "Try not to get pulled in. You can listen briefly, then gently steer things somewhere else, like 'yeah, that's annoying, so what's the plan?' Avoid adding your own complaints, since that tends to fuel it. If it affects your work, keep chats short or put headphones on. You can be kind without absorbing their mood."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_069.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "👀",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

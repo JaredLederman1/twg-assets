@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_100.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_002.jpg",
+   "n": 1,
+   "q": "Why do my cheeks turn red when I drink?",
+   "a": "That's often called alcohol flush. Some people have a less active version of an enzyme called ALDH2, so a byproduct of alcohol called acetaldehyde builds up and widens the blood vessels in your face. It's especially common in people of East Asian descent. Take it seriously though: flushing is linked to higher health risks from drinking, so drinking less helps."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_055.jpg",
+   "n": 2,
+   "q": "Why do my hands smell like metal after holding coins?",
+   "a": "Funny enough, metal itself barely has a smell. When the oils on your skin touch iron or copper, they react and create new compounds, and that's the metallic smell you notice. It's the same reason your hands smell after holding keys or a railing. It's harmless, and a quick wash with soap and water gets rid of it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_004.jpg",
+   "n": 3,
+   "q": "Why do my lips tingle after eating pineapple?",
+   "a": "Pineapple contains bromelain, a mix of enzymes that break down protein. While you eat, it starts working on the delicate skin of your lips, tongue and cheeks, which is why they tingle or feel raw. Your mouth heals fast, so it fades quickly. Cooked or canned pineapple bothers you less. Get help right away if your lips or throat swell."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_050.jpg",
+   "n": 4,
+   "q": "Why do my veins look blue?",
+   "a": "Your blood is never blue. It's always red, just darker heading back to your heart. Veins look blue because of how light travels through skin: red light gets absorbed deeper in, while more blue light bounces back to your eyes. It's a trick of light, not a problem. See a doctor if veins become painful or swollen."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_033.jpg",
+   "n": 5,
+   "q": "Is it bad to crack my knuckles?",
+   "a": "The pop is just gas bubbles forming in the fluid that cushions your joints. Despite the myth, studies haven't found that it causes arthritis. One doctor cracked the knuckles on only one hand for about 60 years and found no difference between them. It might annoy people nearby. Worth seeing a doctor if cracking comes with pain or swelling."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_032.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

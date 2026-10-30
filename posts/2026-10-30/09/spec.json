@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_026.jpg",
+   "kicker": "be honest…",
+   "title": "Relationship questions you're scared to ask",
+   "emoji": "💬"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_054.jpg",
+   "n": 1,
+   "q": "How do I tell my partner I want more affection?",
+   "a": "Keep it about what you want, not what they're doing wrong. Try 'I feel really close to you when we cuddle, can we do more of that?' instead of 'you never touch me.' Be specific, like holding hands or a hug when you get home. Most partners are glad to know, and it's easy for them to act on."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_042.jpg",
+   "n": 2,
+   "q": "Is it normal to argue on vacation?",
+   "a": "Super normal. Travel stacks up stressors: being tired and hungry, unfamiliar places, money, and nonstop time together with fewer breaks. Little things suddenly feel bigger. It helps to plan some downtime, eat regularly, and agree up front on budget and pace. Taking an hour apart to do your own thing isn't a bad sign. It often makes the trip better."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_079.jpg",
+   "n": 3,
+   "q": "How do I bring up getting tested with a new partner?",
+   "a": "Bring it up before things get physical, at a calm moment, and make it about both of you. Something like 'I get tested regularly, when were you last tested?' or 'want to both get tested first?' keeps it normal, not accusing. It's a sign of respect, and a good partner will take it well. Many clinics offer quick, confidential testing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_024.jpg",
+   "n": 4,
+   "q": "How do I apologize to my partner the right way?",
+   "a": "Name what you did, own how it affected them, and skip the 'but.' Something like 'I'm sorry I snapped at you, that wasn't fair' lands much better than 'sorry you feel that way.' Then say what you'll do differently and actually follow through. Give them space to still feel upset for a while. A real apology isn't about instant forgiveness."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_023.jpg",
+   "n": 5,
+   "q": "Is it normal for my sex drive to go up and down?",
+   "a": "Totally normal. Desire naturally rises and falls with stress, sleep, hormones, health, medications and how connected you feel to your partner. It's common for partners to want different amounts too. Talking about it openly helps a lot more than guessing. Worth seeing a doctor if a low drive lasts a long time and bothers you, since some causes are treatable."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_059.jpg",
+   "title": "Which one is your relationship?",
+   "emoji": "👀",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

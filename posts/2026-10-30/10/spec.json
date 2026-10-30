@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_026.jpg",
+   "kicker": "asking for a friend",
+   "title": "Family questions you'd never ask out loud",
+   "emoji": "🏠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_033.jpg",
+   "n": 1,
+   "q": "How do I tell my parents I'm moving far away?",
+   "a": "Tell them in person or on a call, not by text, and lead with why you're excited. Expect some sadness or worry, and know that's often just love showing up. Give them time to react, and share real plans for staying close, like regular calls or visit dates. You can respect their feelings while still making your own choice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_034.jpg",
+   "n": 2,
+   "q": "How do I survive the family group chat?",
+   "a": "Mute it. Seriously, it's not rude. Check in once or twice a day instead of reacting to every photo and meme. A quick heart or 'love this' goes a long way. If it gets heated over politics or old drama, it's okay to step back or reply privately to the one person you care about. Peace is allowed."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_001.jpg",
+   "n": 3,
+   "q": "Is it normal to feel like the black sheep of the family?",
+   "a": "That feeling is really common, especially if your values, job, beliefs or lifestyle look different from everyone else's. Being different doesn't mean being wrong. Many people find their place by building close bonds with friends who feel like family, while keeping the relationships at home that do feel good. If it's weighing on you, a therapist can really help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_059.jpg",
+   "n": 4,
+   "q": "How do I get closer to my grandparents?",
+   "a": "Ask about their lives. Most grandparents love being asked how they met, what their first job was, or what you were like as a baby. Regular short calls often mean more than rare big visits. Cook one of their recipes together, look through old photos, or help them with their phone. Those small moments add up to something really special."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_015.jpg",
+   "n": 5,
+   "q": "Is it okay to not want the life my parents had?",
+   "a": "Yes, completely okay. Wanting a different career, place, relationship or lifestyle doesn't mean you don't love or respect them. It just means you're your own person. You can appreciate everything they gave you and still choose your own path. Most parents, deep down, want you to be happy far more than they want you to copy them."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_009.jpg",
+   "title": "Which one is your family?",
+   "emoji": "👀",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

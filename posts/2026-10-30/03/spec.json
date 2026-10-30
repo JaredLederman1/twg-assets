@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_020.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_075.jpg",
+   "n": 1,
+   "q": "Why do my feet get so hot at night?",
+   "a": "That's your body getting ready for sleep. In the evening your core temperature drops slightly, and one way it does that is by sending warm blood to your hands and feet so heat can escape. Sticking a foot out from under the blanket is you helping that along. Worth seeing a doctor if your feet burn, tingle or feel numb."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_010.jpg",
+   "n": 2,
+   "q": "Is it bad to nap every day?",
+   "a": "A short daily nap is fine for most people. Aim for about 20 minutes, earlier in the afternoon, so you don't wake up groggy or struggle to fall asleep at night. Needing long naps every single day, though, can mean you're not getting good sleep overnight. Worth seeing a doctor if you feel exhausted no matter how much you sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_068.jpg",
+   "n": 3,
+   "q": "Is it bad to sleep with makeup on?",
+   "a": "Once in a while won't ruin your skin, but making it a habit isn't great. Makeup left on overnight can clog pores and lead to breakouts, and mascara or eyeliner can irritate your eyes. Even a quick swipe with cleanser or micellar water helps. Keep some wipes by the bed for the really tired nights."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_001.jpg",
+   "n": 4,
+   "q": "Is it bad to fall asleep with earbuds in?",
+   "a": "Now and then is fine, but not ideal nightly. Earbuds trap warmth and moisture in your ear canal, can push wax deeper, and sleeping on them can leave your ears sore. If you need sound to fall asleep, keep the volume low, use a sleep timer, or try a speaker. See a doctor if your ears hurt or itch."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_004.jpg",
+   "n": 5,
+   "q": "Why do I keep having the same dream?",
+   "a": "Recurring dreams are really common, and they often show up during stressful stretches. Classic ones include being chased, falling, or showing up to a test totally unprepared. They're usually your brain working through a worry, not a prediction of anything. Many people find they fade once the stress eases. Worth talking to a doctor if frequent nightmares wreck your sleep."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_002.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "😴",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

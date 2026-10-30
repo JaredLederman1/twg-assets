@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_011.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions nobody admits to",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_014.jpg",
+   "n": 1,
+   "q": "What's the 50/30/20 rule?",
+   "a": "It's a simple way to split your take-home pay: about 50% for needs like rent, groceries and bills, 30% for wants like eating out and hobbies, and 20% for savings and paying down debt. It's a starting point, not a strict law. If rent eats more than half, adjust the other buckets and keep saving something."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_013.jpg",
+   "n": 2,
+   "q": "What happens to my 401(k) if I quit?",
+   "a": "The money you put in is always yours. Your employer's contributions may depend on the company's vesting schedule. When you leave, you can usually keep the account where it is, roll it into your new job's plan, or move it into an IRA. Cashing it out early often means paying taxes plus a 10% penalty, so think twice."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_022.jpg",
+   "n": 3,
+   "q": "What's the difference between a W-2 and a 1099?",
+   "a": "In the US, a W-2 means you're an employee, so your employer takes taxes out of every paycheck. A 1099 means you're a freelancer or contractor, so nothing gets withheld and you pay those taxes yourself, often through quarterly payments. If you get 1099 income, setting aside a chunk of every payment for taxes saves you a nasty surprise later."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_016.jpg",
+   "n": 4,
+   "q": "What does net worth actually mean?",
+   "a": "It's everything you own minus everything you owe. Add up your savings, investments and the value of things like a car, then subtract debts like student loans and credit cards. Lots of people in their 20s have a negative number, especially with student loans, and that's okay. What matters most is that it slowly trends up over time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_085.jpg",
+   "n": 5,
+   "q": "Do I really need renters insurance?",
+   "a": "It's usually worth it. Your landlord's insurance covers the building, not your stuff. Renters insurance helps replace your belongings after things like a fire or a break-in, and it usually includes liability coverage if someone gets hurt in your place. It's often pretty cheap, and some leases require it. Read what's covered before you pick a policy."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_027.jpg",
+   "title": "Which one is your bank account?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

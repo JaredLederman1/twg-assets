@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_011.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions nobody admits to",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_011.jpg",
+   "n": 1,
+   "q": "How often should I clean my glasses?",
+   "a": "Ideally every day. Lenses collect skin oil, makeup and germs, especially around the nose pads. Rinse them under lukewarm water, rub with a drop of gentle dish soap, rinse again, then dry with a clean microfiber cloth. Skip your shirt, paper towels and hot water, since they can scratch lenses or damage the coatings. It makes a surprising difference."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_081.jpg",
+   "n": 2,
+   "q": "Why does my deodorant leave yellow stains on my shirts?",
+   "a": "It's usually not your sweat on its own. The aluminum in antiperspirant mixes with sweat and body oils and builds up in the fabric over time, leaving yellow, stiff patches. Letting it dry fully before you get dressed and using a little less both help. Washing shirts soon after wearing them also stops the buildup from setting in."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_008.jpg",
+   "n": 3,
+   "q": "How often should I clean my retainer?",
+   "a": "Every day. Retainers collect plaque and bacteria just like your teeth do. Rinse it whenever you take it out, and brush it gently once a day with a soft toothbrush and mild soap or the cleaner your orthodontist recommends. Avoid hot water, which can warp plastic ones, and toothpaste, which can scratch them. Store it in its case."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_065.jpg",
+   "n": 4,
+   "q": "Is it gross to share a toothbrush?",
+   "a": "Best not to. Toothbrushes pick up bacteria and sometimes tiny amounts of blood from your gums, so sharing one can pass along germs, including the bacteria behind cavities. Even with someone you kiss, a toothbrush is a step further. If you're ever stuck without one, a clean finger with some toothpaste or a good mouth rinse will tide you over."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_036.jpg",
+   "n": 5,
+   "q": "How often should I wash my reusable grocery bags?",
+   "a": "More often than most of us do. Reusable bags can pick up bacteria from raw meat, leaky produce and the floor of your car. Toss cloth bags in the washing machine and wipe down plastic or insulated ones with hot soapy water every week or two, plus right away after any spill. Keeping one bag just for meat helps too."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_017.jpg",
+   "title": "Which one are you guilty of?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

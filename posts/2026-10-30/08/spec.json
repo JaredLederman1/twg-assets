@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_025.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_032.jpg",
+   "n": 1,
+   "q": "Why do my fingers turn white in the cold?",
+   "a": "That's often Raynaud's phenomenon. When you get cold or stressed, the small blood vessels in your fingers or toes tighten too much, so they turn white or blue, then red as blood flows back. It's fairly common and often harmless, and gloves help. Worth seeing a doctor if it hurts, causes sores, or starts suddenly as an adult."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_026.jpg",
+   "n": 2,
+   "q": "Why do my teeth ache when I have a cold?",
+   "a": "Your upper back teeth sit right below your sinuses. When a cold or sinus infection makes them swell and fill with pressure, it can press on the nerves of those teeth and feel like a toothache. It usually eases as congestion clears. Worth seeing a dentist if the pain is in one tooth or lasts after you feel better."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_029.jpg",
+   "n": 3,
+   "q": "Why do I get a rash under my watch?",
+   "a": "Usually it's one of two things. Sweat, soap and moisture trapped under a tight band can irritate your skin, or you may be reacting to nickel, a metal common in watch backs and buckles. Keep the band clean and dry, wear it looser, and give your wrist breaks. Worth seeing a doctor if the rash spreads, blisters or won't clear."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_097.jpg",
+   "n": 4,
+   "q": "What are these brown spots on my hands?",
+   "a": "Flat brown spots on your hands, face or shoulders are often sunspots, also called age spots or liver spots. They come from years of sun exposure, which makes pigment cluster together. They're harmless and have nothing to do with your liver. Daily sunscreen helps prevent new ones. See a doctor if a spot changes, bleeds, itches or looks uneven."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_097.jpg",
+   "n": 5,
+   "q": "Why do my eyes sting after swimming?",
+   "a": "It's usually not the chlorine itself but chloramines, irritating compounds that form when chlorine mixes with sweat, sunscreen and, yes, pee in the water. They can leave eyes red and stinging for hours. Goggles help, and rinsing your eyes with clean water afterward eases it. See a doctor if redness lasts more than a day or your vision changes."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_005.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

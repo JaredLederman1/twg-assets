@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_024.jpg",
+   "kicker": "be honest…",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_076.jpg",
+   "n": 1,
+   "q": "Should I go no contact?",
+   "a": "It can really help, especially in the early weeks. Every text or peek at their profile restarts the hurt and keeps hope alive. Taking a set break, like 30 to 60 days, gives your feelings room to settle. If you share kids, a lease or a workplace, keep things brief and practical instead. It's about healing, not punishing them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_014.jpg",
+   "n": 2,
+   "q": "Is it normal to want them back right after it ends?",
+   "a": "Very normal. Right after a breakup your brain misses the comfort and routine, and it tends to replay the good moments while blurring why things ended. That pull usually fades over weeks, not days. Try writing down the real reasons it ended and rereading the list when the urge hits. Wait until things feel calmer before making any big decision."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_028.jpg",
+   "n": 3,
+   "q": "How do I stop telling the breakup story to everyone?",
+   "a": "Retelling it is your brain trying to make sense of what happened, so it's understandable. But repeating it can keep the pain fresh. Try a short version for casual people, like 'it didn't work out, but I'm doing okay.' Save the full story for a close friend or two, or journal it. Over time you'll need to tell it less."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_064.jpg",
+   "n": 4,
+   "q": "Why do our old spots make me so sad?",
+   "a": "Places get tied to memories and feelings, so walking past your old coffee shop can bring the whole relationship rushing back. That's normal, and it fades with time. Some people avoid those spots for a while, while others reclaim them by going with friends and making new memories there. Either is fine. Go at whatever pace feels okay for you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_032.jpg",
+   "n": 5,
+   "q": "How do I know if we should get back together?",
+   "a": "Ask yourself what would actually be different this time. If the reasons you split, like trust, values or how you treated each other, haven't changed, the same problems usually come back. Missing someone or feeling lonely isn't enough on its own. Give it some real time apart first, and talk it through with a friend who knows you both well."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_014.jpg",
+   "title": "Which one hit a little too close?",
+   "emoji": "💔",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

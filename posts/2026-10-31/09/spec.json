@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_028.jpg",
+   "kicker": "no judgement",
+   "title": "People questions you'd never ask out loud",
+   "emoji": "💬"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_019.jpg",
+   "n": 1,
+   "q": "How do I tell my partner they snore?",
+   "a": "Bring it up in the daytime, not at 3am when you're both cranky. Keep it about sleep, not blame, like 'I've been waking up a lot from the snoring, can we figure it out?' Side sleeping can help. Loud snoring with gasping or pauses in breathing can be sleep apnea, so that's worth seeing a doctor about."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_078.jpg",
+   "n": 2,
+   "q": "How do I make a good impression on my partner's parents?",
+   "a": "Ask your partner a few things about them beforehand, like their interests, so you have easy conversation starters. Show up on time, offer to help, and ask them questions. Put your phone away. You don't need to be perfect. Parents mostly want to see that you're kind and that you treat their kid well."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_019.jpg",
+   "n": 3,
+   "q": "How do I tell a friend they're always on their phone?",
+   "a": "Pick a calm moment and keep it about you, not an attack. Something like 'I love hanging out, and I feel a bit ignored when we're both on our phones. Can we try putting them away?' Suggest it for both of you so it feels fair. Most people don't even realize they're doing it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_009.jpg",
+   "n": 4,
+   "q": "How do I tell friends I'm not drinking tonight?",
+   "a": "You don't owe anyone a big explanation. A simple 'I'm not drinking tonight' or 'I'm good, thanks' works. Holding a soda or sparkling water helps people stop offering. Good friends will just roll with it and still have fun with you. If someone keeps pushing after you've said no, that's on them, not you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_027.jpg",
+   "n": 5,
+   "q": "How do I ask my roommate to clean up?",
+   "a": "Talk in person when you're both calm, not right after you find the mess. Be specific, like 'Can we keep dishes out of the sink overnight?' instead of 'You're so messy.' Ask what bugs them too, so it feels fair. A simple chore chart or schedule can stop the same argument from happening again."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_065.jpg",
+   "title": "Which one needed saying?",
+   "emoji": "💬",
+   "sub": "comment the number. no judgement"
+  }
+ ]
+}

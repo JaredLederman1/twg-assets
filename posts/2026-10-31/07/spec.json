@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_052.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_042.jpg",
+   "n": 1,
+   "q": "Why do my eyes feel so tired after staring at screens?",
+   "a": "When you focus on a screen, you blink a lot less, so your eyes dry out, and your focusing muscles work nonstop. Try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. Blinking on purpose helps too. Worth seeing an eye doctor if you get frequent headaches or blurry vision."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_065.jpg",
+   "n": 2,
+   "q": "Why do I get carsick when I read in the car?",
+   "a": "Your inner ear feels the car moving, but your eyes are locked on a still page. Your brain gets mixed signals and reacts with nausea. Looking out at the horizon helps your senses match up again, and so does sitting in the front seat or getting some fresh air. Audiobooks are a great way to read without the queasiness."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_030.jpg",
+   "n": 3,
+   "q": "Why does my scalp hurt when I take my ponytail out?",
+   "a": "A tight ponytail pulls on your hair follicles for hours. When you let it down, the hair shifts position and those stressed, sensitive spots on your scalp suddenly ache. Looser styles and switching where you tie it help. Constant tight styles can actually cause hair loss over time, so see a doctor if you notice thinning."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_035.jpg",
+   "n": 4,
+   "q": "Why do my fingernails grow faster than my toenails?",
+   "a": "Fingernails grow around 3 millimeters a month, while toenails grow about half that. Your hands get more blood flow and you use them constantly, which may help. That's also why a lost toenail can take a year or more to fully grow back. Worth seeing a doctor if your nails suddenly change color, shape or thickness."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_002.jpg",
+   "n": 5,
+   "q": "Why do I get so cranky when I'm hungry?",
+   "a": "When you haven't eaten in a while, your blood sugar drops and your body releases stress hormones like cortisol and adrenaline. That can make you more irritable and less patient. 'Hangry' is a real thing, not just an excuse. Keeping a snack with some protein around helps. Worth seeing a doctor if you often get shaky or dizzy."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_091.jpg",
+   "title": "Which one made you go 'oh'?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

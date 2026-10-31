@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_043.jpg",
+   "kicker": "be honest…",
+   "title": "Awkward questions you'd never ask out loud",
+   "emoji": "😬"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_024.jpg",
+   "n": 1,
+   "q": "Why do I feel so awkward when a conversation goes quiet?",
+   "a": "Silence can feel like a sign something went wrong, so your brain rushes to fill it. In one study, just four seconds of silence was enough to make people feel uneasy. Usually the other person is just thinking, not judging you. A short pause is normal. Try asking a follow-up about something they just said."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_003.jpg",
+   "n": 2,
+   "q": "How do I end a conversation without being rude?",
+   "a": "Wrap it up warmly instead of just drifting away. Mention something you enjoyed, then give a simple reason to go, like 'I'm going to grab a drink, but this was really fun.' You don't need a big excuse. Most people are relieved when someone ends it kindly, because they weren't sure how to either."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_058.jpg",
+   "n": 3,
+   "q": "How do I talk to people at a party where I only know the host?",
+   "a": "Start with the host, since they can introduce you to someone. The easiest opener is asking how they know the host, which gives you something to build on right away. Ask questions and listen more than you talk. Plenty of other people there feel exactly as awkward as you do, so you're in good company."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_060.jpg",
+   "n": 4,
+   "q": "Is it rude to leave a party without saying goodbye?",
+   "a": "At a big party, slipping out quietly is pretty common and most people won't notice. At a small gathering, though, the host might wonder where you went. A quick 'thank you, I'm heading out' takes ten seconds. Or text them on your way home to say thanks, which covers you either way and feels kind."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_044.jpg",
+   "n": 5,
+   "q": "How do I stop being a people pleaser?",
+   "a": "Start small. Before saying yes, pause and say 'let me check and get back to you,' so you can decide what you actually want. Practice saying no to tiny things, like a plan you're not into. People usually react way less than you fear. Feeling guilty at first is normal, and it gets easier with practice."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_093.jpg",
+   "title": "Which one is so you?",
+   "emoji": "😅",
+   "sub": "comment the number. no judgement here"
+  }
+ ]
+}

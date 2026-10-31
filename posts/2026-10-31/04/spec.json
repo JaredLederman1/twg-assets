@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_037.jpg",
+   "kicker": "no judgement",
+   "title": "Money questions you'd never ask out loud",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_007.jpg",
+   "n": 1,
+   "q": "What's a credit freeze and should I get one?",
+   "a": "A credit freeze stops lenders from pulling your credit report, so no one can open a new account in your name. In the US it's free and doesn't hurt your score. You set it up separately with Equifax, Experian and TransUnion, and can lift it anytime you apply for credit. It's one of the easiest ways to block identity theft."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_020.jpg",
+   "n": 2,
+   "q": "What does a deductible actually mean?",
+   "a": "Your deductible is how much you pay for covered care each year before your insurance starts paying its share. So with a $1,000 deductible, you cover the first $1,000 of most bills yourself. Many plans still cover preventive care like checkups before you hit it. Lower deductibles usually mean higher monthly premiums, so it's a trade-off."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_018.jpg",
+   "n": 3,
+   "q": "What is an HSA?",
+   "a": "A health savings account is a savings account for medical costs that you can open if you have a high-deductible health plan. Money goes in before taxes, can grow, and comes out tax-free for qualified medical expenses. Unlike some accounts, the money doesn't disappear at the end of the year, and it stays yours even if you change jobs."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_058.jpg",
+   "n": 4,
+   "q": "What's a CD and is it worth it?",
+   "a": "A CD, or certificate of deposit, is a savings account where you agree to leave your money alone for a set time, like six months or a year, in exchange for a fixed interest rate. Take it out early and you usually pay a penalty. It's good for money you won't need soon, not your emergency fund."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_006.jpg",
+   "n": 5,
+   "q": "Is it bad to cosign a loan for a friend?",
+   "a": "Cosigning means you're legally on the hook for the whole loan if they don't pay. Their late payments can show up on your credit too, and it can make it harder for you to borrow later. It's not always a bad idea, but only cosign if you could afford to pay it all yourself and still be okay."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_050.jpg",
+   "title": "Which one did you need to hear?",
+   "emoji": "💸",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

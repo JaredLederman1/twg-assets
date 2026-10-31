@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_037.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_019.jpg",
+   "n": 1,
+   "q": "Why do onions make me cry?",
+   "a": "Cutting an onion breaks its cells and releases a gas called syn-propanethial-S-oxide. When it reaches your eyes, it irritates them and your tear glands flush it out. That's it, totally harmless. Chilling the onion first and using a really sharp knife both help, since less gets released. Goggles look silly but work."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_023.jpg",
+   "n": 2,
+   "q": "Why do paper cuts hurt so much?",
+   "a": "Your fingertips are packed with nerve endings, more than most of your body, so they feel everything. Paper cuts are also shallow, so they barely bleed or scab over fast, leaving those nerves exposed. And you use your fingers constantly, which keeps irritating it. Wash it, cover it, and it usually heals in a few days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_017.jpg",
+   "n": 3,
+   "q": "Why does hitting my funny bone feel so weird?",
+   "a": "It's not a bone at all. It's your ulnar nerve, which runs along the inside of your elbow with barely any padding over it. Bump it and the nerve fires, sending that zingy tingle down to your ring and pinky fingers. It fades in seconds. Worth seeing a doctor if those fingers stay numb or tingly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_083.jpg",
+   "n": 4,
+   "q": "Why does my nose whistle when I breathe?",
+   "a": "A whistle usually means air is squeezing through a narrow spot, often a bit of dried mucus near the nostril. Gently blowing your nose or a saline rinse usually fixes it. Dry air makes it worse, so a humidifier can help. Worth seeing a doctor if it never goes away, since it can point to a problem with the septum."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_024.jpg",
+   "n": 5,
+   "q": "What's the little dent above my upper lip?",
+   "a": "It's called the philtrum, and almost everyone has one. Before you were born, your face formed from separate sections that grew together and fused in the middle. That groove is basically the seam where they met. It doesn't really have a job now, it's just left over from how you were built. Totally normal, and kind of cool."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_053.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

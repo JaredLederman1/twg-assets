@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_081.jpg",
+   "kicker": "asking for a friend",
+   "title": "Random things you'd never Google",
+   "emoji": "🤔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_003.jpg",
+   "n": 1,
+   "q": "Why do my ears hurt so much in the cold?",
+   "a": "Your ears stick out, have very little fat to keep them warm, and are full of nerve endings. In the cold, blood vessels there tighten to save heat for your core, so your ears get cold fast and ache. A hat or earmuffs fixes it. Get help if your ears turn white, waxy or numb, which can mean frostbite."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_079.jpg",
+   "n": 2,
+   "q": "Why do my teeth chatter when I'm cold?",
+   "a": "Teeth chattering is a form of shivering. When your body temperature drops, your muscles start contracting rapidly to make heat, and that includes the muscles that move your jaw. It's your body's built-in heater, and it stops once you warm up. If you're shivering hard and getting confused or very sleepy in the cold, get help right away."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_008.jpg",
+   "n": 3,
+   "q": "Why do I love the smell of rain?",
+   "a": "That earthy smell even has a name: petrichor. A big part of it comes from geosmin, a compound made by bacteria in soil. Rain hitting the ground releases it into the air, and humans are incredibly sensitive to it, able to detect tiny traces. Some scientists think we evolved to love it because rain meant water."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_016.jpg",
+   "n": 4,
+   "q": "Is it weird that I talk to my pet like a person?",
+   "a": "Not at all, it's incredibly common. Humans are wired to see personality and feelings in animals, and pets respond to it. Studies show dogs pay more attention to the high-pitched, sing-song voice people naturally use with them. Talking to your pet can be comforting for you too. You're not weird, you're just a pet person."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_082.jpg",
+   "n": 5,
+   "q": "Is it weird to go to the movies alone?",
+   "a": "Not at all, and lots of people do it. You get to pick the movie, the seat and the snacks, and you're sitting quietly in the dark anyway, so no one's really noticing. It's also a nice way to get comfortable doing things solo. Try a weekday matinee if you want an easy start."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_010.jpg",
+   "title": "Which one did you always wonder?",
+   "emoji": "🤔",
+   "sub": "comment the number below"
+  }
+ ]
+}

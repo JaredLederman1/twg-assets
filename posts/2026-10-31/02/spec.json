@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_052.jpg",
+   "kicker": "spooky season edition",
+   "title": "Halloween questions you'd never Google",
+   "emoji": "🎃"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_052.jpg",
+   "n": 1,
+   "q": "Why do I jump at scary scenes even when I know they're coming?",
+   "a": "That jump is your startle reflex, and it's faster than conscious thought. A sudden loud noise reaches your brain's alarm system before the thinking part can say 'it's just a movie.' Your heart speeds up and your muscles tense anyway. Knowing it's coming can soften it a bit, but it rarely switches it off completely."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_031.jpg",
+   "n": 2,
+   "q": "Why can't I sleep after a scary movie?",
+   "a": "Scary movies trigger a real stress response: adrenaline, a faster heartbeat, and your brain staying on high alert for danger. That's the opposite of what sleep needs, and your body doesn't fully know the threat was fake. Try ending the night with something light or funny, and give yourself some time to wind down before bed."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_015.jpg",
+   "n": 3,
+   "q": "Why do I see faces in random objects?",
+   "a": "It's called pareidolia, and it's completely normal. Your brain is wired to spot faces super quickly, because recognizing people mattered a lot for survival. So it would rather mistake an outlet or a car grille for a face than miss a real one. Seeing faces in clouds or toast just means your brain is doing its job."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_091.jpg",
+   "n": 4,
+   "q": "Are costume contact lenses actually safe?",
+   "a": "Not the cheap ones from costume shops. In the US, all contacts, even purely decorative ones, legally need a prescription, because a bad fit can scratch your eye and cause serious infections. If you want cat eyes, get them through an eye doctor. Take them out and see one fast if your eye gets red, painful or blurry."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_046.jpg",
+   "n": 5,
+   "q": "Is it bad to eat a ton of candy in one night?",
+   "a": "One candy night won't ruin your health. You might get a stomachache or feel sluggish, and that's about it. Your teeth care more about how long sugar sits on them, so sticky and sour candy is the bigger issue. Drink some water, brush before bed, and don't stress about it. It's Halloween."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_040.jpg",
+   "title": "Which one got you?",
+   "emoji": "🎃",
+   "sub": "comment the number. happy halloween"
+  }
+ ]
+}

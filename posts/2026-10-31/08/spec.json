@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_018.jpg",
+   "kicker": "asking for a friend",
+   "title": "Adulting questions you'd never Google",
+   "emoji": "🫠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_008.jpg",
+   "n": 1,
+   "q": "How do I know if a text is a scam?",
+   "a": "Big red flags are urgency, links, and requests for money or codes. Scam texts often pretend to be a bank, a delivery company or a toll agency. Don't click the link or reply. Instead, contact the company through its official app or website. In the US, you can forward spam texts to 7726 and report them to the FTC."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_043.jpg",
+   "n": 2,
+   "q": "What's a W-4?",
+   "a": "A W-4 is the form you fill out at a new job that tells your employer how much federal income tax to take out of each paycheck. If too little is withheld, you might owe money at tax time. Too much, and you get a bigger refund. You can update it anytime, like after a raise or getting married."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_006.jpg",
+   "n": 3,
+   "q": "Do I have to pay taxes on Venmo money from friends?",
+   "a": "Splitting dinner, paying back rent, or getting a gift isn't income, so it isn't taxed. What can count is money for goods or services, like a side gig. Apps may report those payments to the IRS on a 1099-K. Label friend payments clearly, keep simple notes, and talk to a tax pro if you earn on the side."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_004.jpg",
+   "n": 4,
+   "q": "How do I ask my landlord to fix something?",
+   "a": "Put it in writing, by email or the landlord's portal, so there's a record. Say what's broken and when it started, and include photos. Keep it polite and specific. Follow up if you don't hear back within a few days. In most places, landlords have to handle repairs that affect health and safety, like heat or water."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_009.jpg",
+   "n": 5,
+   "q": "How do I ask a friend to pay me back?",
+   "a": "Keep it light and direct, like 'Hey, can you send me the $40 from dinner when you get a sec?' Sending a payment request with a note works too. Most people just forgot, so don't assume the worst. If it keeps happening, it's okay to stop covering them. Asking for your own money back isn't rude."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_037.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "📝",
+   "sub": "comment the number. adulting is hard"
+  }
+ ]
+}

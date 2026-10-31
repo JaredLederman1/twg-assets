@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_035.jpg",
+   "kicker": "asking for a friend",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_005.jpg",
+   "n": 1,
+   "q": "Why do I keep breaking out on my jawline?",
+   "a": "Breakouts along the jaw and chin are often linked to hormones, which is why they can flare around your period or during stress. It's really common in adults, not just teens. Gentle cleansing and not picking help a lot. Worth seeing a dermatologist if the bumps are deep, painful or leave scars, since there are treatments that work."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_050.jpg",
+   "n": 2,
+   "q": "Why do beans make me so gassy?",
+   "a": "Beans contain sugars called oligosaccharides that your body can't fully digest. They travel to your large intestine, where gut bacteria eat them and release gas. Soaking dried beans and rinsing canned ones helps, and so does adding beans to your diet slowly so your gut can adjust. Gas is normal, and beans are still really good for you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_062.jpg",
+   "n": 3,
+   "q": "What are those painful little bumps on my tongue?",
+   "a": "Those are often called lie bumps. They're tiny swollen taste buds, usually from irritation like hot food, acidic snacks, biting your tongue or stress. Despite the name, lying has nothing to do with it. They're harmless and usually go away on their own in a few days. Worth seeing a doctor if a bump lasts longer than two weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_072.jpg",
+   "n": 4,
+   "q": "Why does my skin peel after a sunburn?",
+   "a": "A sunburn damages skin cells, and peeling is your body shedding the damaged layer so healthy skin can replace it. Resist pulling it off, since that can irritate the new skin underneath. Moisturize, drink water, and keep it out of the sun while it heals. See a doctor if you have large blisters, a fever, chills or feel faint."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_015.jpg",
+   "n": 5,
+   "q": "Why do my legs itch when I start running?",
+   "a": "When you start running, your heart pumps harder and tiny blood vessels in your legs widen, which can stimulate nearby nerves and feel itchy. It's especially common if you're new to running or coming back after a break, and it usually fades as you run more regularly. Get help right away if you get hives with swelling or trouble breathing."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_088.jpg",
+   "title": "Which one were you too scared to ask?",
+   "emoji": "🫣",
+   "sub": "drop the number below"
+  }
+ ]
+}

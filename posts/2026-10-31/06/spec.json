@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_063.jpg",
+   "kicker": "can't sleep either?",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_087.jpg",
+   "n": 1,
+   "q": "Why do I sleep better in a cold room?",
+   "a": "Your body temperature naturally dips as you fall asleep, and a cool room helps that happen. Sleep experts often suggest keeping your bedroom somewhere in the 60s Fahrenheit, around 65 degrees. When it's too warm, you're more likely to toss, turn and wake up. Light layers you can kick off help you find your sweet spot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_002.jpg",
+   "n": 2,
+   "q": "Why do I feel guilty when I'm not being productive?",
+   "a": "A lot of us learned that our worth is tied to getting things done, so rest starts to feel like slacking. But rest is part of being productive, not the opposite of it. It's how your body and brain recharge. Try planning rest like you'd plan anything else. You're allowed to do nothing and still be doing fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_006.jpg",
+   "n": 3,
+   "q": "Why do I panic when my phone battery is about to die?",
+   "a": "Your phone holds your maps, money, plans and people, so losing it can feel like losing a safety net. That jolt of stress is really common, and researchers even have a name for it: nomophobia, the fear of being without your phone. Carrying a small charger helps. So does practicing short phone-free stretches on purpose."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_012.jpg",
+   "n": 4,
+   "q": "Why do I feel like someone's watching me in the dark?",
+   "a": "In the dark, your brain gets less information, so it fills in the gaps and leans toward assuming danger. Shadows and small sounds get read as threats, which helped our ancestors survive. That creepy feeling is your alarm system being extra cautious, not a sign anything's there. A night light or some background noise can help you relax."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_006.jpg",
+   "n": 5,
+   "q": "Why do I look different in photos than in the mirror?",
+   "a": "The mirror shows you flipped, and that's the version you see every day. Your brain likes what's familiar, so the unflipped face in photos can look slightly off to you, even though it's how everyone else sees you. Camera lenses and angles can also distort features. Your friends think the photo looks normal, promise."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_031.jpg",
+   "title": "Still awake? Which one was you?",
+   "emoji": "🌙",
+   "sub": "comment the number, night owls"
+  }
+ ]
+}

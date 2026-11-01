@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_022.jpg",
+   "kicker": "no judgement",
+   "title": "Cold-weather questions you'd never Google",
+   "emoji": "🥶"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_085.jpg",
+   "n": 1,
+   "q": "Why do my hands get so dry in winter?",
+   "a": "Cold air outside and heating inside both hold very little moisture, so your skin dries out faster. Washing your hands a lot, especially with hot water, strips away even more of the natural oils. Use lukewarm water, moisturize right after washing, and wear gloves outside. Worth seeing a doctor if your skin cracks, bleeds, or won't heal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_020.jpg",
+   "n": 2,
+   "q": "Why do my cheeks get so red in the cold?",
+   "a": "When you're out in the cold, blood vessels near your skin tighten to keep heat in. When you warm up again, they widen and blood rushes back, so your cheeks look flushed. Your face is extra prone because it's always exposed. It's totally normal and fades quickly. Worth seeing a doctor if the redness becomes constant."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_086.jpg",
+   "n": 3,
+   "q": "How often should I wash my winter coat?",
+   "a": "Way less often than you'd think. For most coats, cleaning it a couple of times per season is plenty, plus once before you store it for the year. Spot clean spills as they happen. Always check the care label, since wool and down coats often need special care. Scarves, hats and gloves need washing more often."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_056.jpg",
+   "n": 4,
+   "q": "Why do I get so bloated on a plane?",
+   "a": "Planes are pressurized to roughly the air pressure you'd find on a mountain around 6,000 to 8,000 feet up. At lower pressure, the gas already in your gut expands, so you feel puffy and gassy. It's harmless and goes away after landing. Skipping fizzy drinks before and during the flight, and walking the aisle, can help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_091.jpg",
+   "n": 5,
+   "q": "Why do the corners of my lips crack?",
+   "a": "Cracks at the corners of your mouth are called angular cheilitis. Saliva collects there, especially when your lips are dry or you lick them a lot, and the skin breaks down. Sometimes yeast or bacteria get involved. A thick lip balm or petroleum jelly helps. Worth seeing a doctor if it doesn't heal in a couple of weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_001.jpg",
+   "title": "Which one is happening to you rn?",
+   "emoji": "🙃",
+   "sub": "comment the number"
+  }
+ ]
+}

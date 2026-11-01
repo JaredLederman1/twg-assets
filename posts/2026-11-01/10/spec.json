@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_096.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never say out loud",
+   "emoji": "🤫"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_092.jpg",
+   "n": 1,
+   "q": "Is it normal to bleed a little between periods?",
+   "a": "A little spotting between periods can be normal, especially around ovulation or in the first few months of starting or changing hormonal birth control. Stress can play a role too. Worth seeing a doctor if it keeps happening, is heavy, happens after sex, comes with pain, or if there's any chance you could be pregnant."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_022.jpg",
+   "n": 2,
+   "q": "Is it bad to hold in a sneeze?",
+   "a": "It's better to let it out. A sneeze blasts air out at high pressure, and holding it in traps that pressure inside your head and throat. Injuries are rare, but doctors have reported cases of damaged eardrums and even a torn windpipe. Sneeze into a tissue or your elbow instead. It's safer for you and everyone around you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_070.jpg",
+   "n": 3,
+   "q": "Why am I getting more wrinkles around my eyes?",
+   "a": "The skin around your eyes is some of the thinnest on your body, and it moves constantly when you smile, squint and blink. Over time, your skin makes less collagen, so those creases start to stick around. Sun exposure speeds it up the most. Daily sunscreen and sunglasses help. And smile lines just mean you've laughed a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_061.jpg",
+   "n": 4,
+   "q": "Why does my hair feel thinner as I get older?",
+   "a": "It's really common. As you get older, hair follicles can shrink, each hair grows for a shorter time, and strands often come in finer. Hormones and genetics play a big role, for everyone. Worth seeing a doctor if it happens suddenly, falls out in patches, or comes with other symptoms, since thyroid issues or low iron can cause it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_061.jpg",
+   "n": 5,
+   "q": "Do I need to wash my hands after touching money?",
+   "a": "It's a good idea, mostly before you eat. Cash passes through tons of hands, and studies have found all kinds of bacteria on bills and coins. Most of it won't make a healthy person sick, but there's no reason to eat it with your lunch. No need to panic, just wash up before eating."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_067.jpg",
+   "title": "Which one did you secretly wonder?",
+   "emoji": "👀",
+   "sub": "comment the number. zero judgement"
+  }
+ ]
+}

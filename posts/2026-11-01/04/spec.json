@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_070.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_063.jpg",
+   "n": 1,
+   "q": "Why do I wake up with numb hands?",
+   "a": "Usually it's how you sleep. Bending your wrists or lying on your arms puts pressure on the nerves, and your hand goes numb or tingly until you shake it out. Try keeping your wrists straight. Worth seeing a doctor if it happens most nights, lasts after waking, or comes with weakness, since it can point to carpal tunnel."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_073.jpg",
+   "n": 2,
+   "q": "Why do my eyes get blurry when I'm tired?",
+   "a": "When you're tired, you blink less, so the surface of your eyes dries out and vision gets a little smudgy. The tiny muscles that help you focus also get worn out after a long day. Rest, blinking and looking far away usually fix it. Worth seeing a doctor if blurriness comes on suddenly or doesn't go away."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_097.jpg",
+   "n": 3,
+   "q": "Why does my throat tickle when I lie down?",
+   "a": "Often it's postnasal drip. Mucus from your nose normally slides down your throat without you noticing, but when you lie flat it pools and tickles. Allergies, colds and dry air make it worse. Propping your head up a bit and running a humidifier can help. Worth seeing a doctor if the cough lasts more than three weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_025.jpg",
+   "n": 4,
+   "q": "Why do the edges of my teeth look see-through?",
+   "a": "The edges of your front teeth are mostly enamel, which is naturally a bit translucent. Further up, there's yellowish dentin behind it, so the tooth looks solid. At the thin tips, light shines through, giving that see-through look. It's normal for lots of people. Worth seeing a dentist if it's getting more noticeable, since that can mean enamel wear."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_029.jpg",
+   "n": 5,
+   "q": "Why does my skin look orange after eating lots of carrots?",
+   "a": "It's called carotenemia, and it's harmless. Carrots, sweet potatoes and pumpkin are loaded with beta-carotene, a pigment that can build up in your skin, especially on your palms and soles. It fades once you eat a bit less of it. Worth seeing a doctor if the whites of your eyes turn yellow, since that's something different."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_050.jpg",
+   "title": "Which one did you need today?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_015.jpg",
+   "kicker": "asking for a friend",
+   "title": "Relationship questions you'd never say out loud",
+   "emoji": "💭"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_036.jpg",
+   "n": 1,
+   "q": "Is it normal to not like my partner's family?",
+   "a": "It's more common than people admit. You didn't choose them, and families have very different styles. You don't have to love them, just be respectful and polite. Talk to your partner about it gently, focusing on specific situations rather than attacking their family. Worth taking seriously if they treat you badly and your partner never has your back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_039.jpg",
+   "n": 2,
+   "q": "How do I tell my partner I'm not ready for marriage?",
+   "a": "Be honest, and soon. Say it kindly and clearly: you love them, and you're not ready yet. Explain what 'not ready' means for you, whether that's timing, money, or needing more time together. Ask what they're hoping for too. It might be an uncomfortable talk, but it's way better than letting them guess or wait."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_004.jpg",
+   "n": 3,
+   "q": "How do I deal with a partner who never says sorry?",
+   "a": "Some people grew up in homes where apologizing felt like losing, so it's really hard for them. Bring it up when things are calm, not mid-fight. Say what you need, like 'it helps me move on when you acknowledge it.' Notice if they show it in other ways. If they never take responsibility for anything, that's worth taking seriously."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_022.jpg",
+   "n": 4,
+   "q": "How do I bring up birth control with my partner?",
+   "a": "Bring it up early, ideally before things get physical, and somewhere relaxed rather than in the moment. Keep it simple: 'What are we doing for birth control?' It's a shared responsibility, not one person's job. A doctor or clinic can walk you both through the options. Someone who gets annoyed by this conversation is telling you something important."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_040.jpg",
+   "n": 5,
+   "q": "Is it okay to have separate bank accounts as a couple?",
+   "a": "Totally okay, and lots of couples do it. Some keep everything separate, some merge everything, and plenty do a mix, like a joint account for rent and bills plus their own accounts for personal spending. There's no right setup. What matters is that you both agree, talk openly about money, and nobody feels kept in the dark."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_013.jpg",
+   "title": "Which one is about you?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

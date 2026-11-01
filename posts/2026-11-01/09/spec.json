@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_026.jpg",
+   "kicker": "asking for a friend",
+   "title": "Sleep questions you'd never Google",
+   "emoji": "😴"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_089.jpg",
+   "n": 1,
+   "q": "Why can't I nap even when I'm exhausted?",
+   "a": "Being exhausted doesn't always mean your brain is ready to switch off. Stress, caffeine, bright light or napping too close to bedtime can keep you wired. Some people just aren't natural nappers. Try a dark, quiet spot in the early afternoon, for 20 minutes max. Even resting with your eyes closed helps. You don't have to fall asleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_014.jpg",
+   "n": 2,
+   "q": "Why do I sleep better after a workout?",
+   "a": "Regular exercise helps you fall asleep faster and sleep more deeply. It builds up your body's need for sleep, can ease stress, and the drop in body temperature after a workout may also help signal it's time to rest. Morning or afternoon workouts are easiest. Super intense late-night workouts keep some people up, so notice what works for you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_043.jpg",
+   "n": 3,
+   "q": "How long before bed should I stop eating?",
+   "a": "A common guideline is to finish big meals about two to three hours before bed. Lying down on a full stomach can cause heartburn and make it harder to sleep well. That doesn't mean going to bed hungry, though, which can keep you awake too. A small, light snack is fine if your stomach is growling."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_023.jpg",
+   "n": 4,
+   "q": "Why do I feel so tired after crying?",
+   "a": "Crying takes more out of you than it looks. Strong emotions fire up your stress response, raising your heart rate and stress hormones. When it passes, your body comes down from that, which can leave you wiped out. Crying hard also means quick breathing and tense muscles. Drink some water, rest, and be gentle with yourself."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_081.jpg",
+   "n": 5,
+   "q": "Why do I feel anxious when I have nothing to do?",
+   "a": "When you're busy, your brain has a job. When things go quiet, all the worries you've been pushing aside finally get room to show up. If you're used to being productive, rest can also feel wrong at first. It gets easier with practice. Worth talking to a professional if the anxiety is constant or getting in your way."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_027.jpg",
+   "title": "Which one is so you?",
+   "emoji": "🛌",
+   "sub": "comment before you fall asleep"
+  }
+ ]
+}

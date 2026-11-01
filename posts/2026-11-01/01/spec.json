@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_072.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_030.jpg",
+   "n": 1,
+   "q": "Why do I have a hard bump on the roof of my mouth?",
+   "a": "If it's hard, painless and right in the middle, it's probably a torus palatinus, a harmless bony growth lots of people have. It's often been there for years and you just noticed it. A tender bump is more likely a burn or irritation that heals in days. Worth seeing a dentist if it grows, bleeds, or hurts for weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_069.jpg",
+   "n": 2,
+   "q": "Why do I have little red dots on my skin?",
+   "a": "Small, bright red, slightly raised dots are usually cherry angiomas, tiny clusters of blood vessels. They're super common, especially after 30, and harmless. Nobody fully knows why they appear, but genetics plays a role. Worth seeing a doctor if one bleeds a lot or changes, or if lots of flat, pinpoint red dots appear suddenly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_003.jpg",
+   "n": 3,
+   "q": "Why do my eyes close when I sneeze?",
+   "a": "Closing your eyes when you sneeze is an automatic reflex. The same nerve signals that set off the sneeze also trigger your eyelids, and it happens too fast to control. And no, your eyes wouldn't pop out if you kept them open, that's a myth. It's just your body doing its thing, totally normal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_100.jpg",
+   "n": 4,
+   "q": "Why do I feel dizzy after spinning around?",
+   "a": "Your inner ear has tiny canals filled with fluid that sense movement. When you spin, the fluid starts swirling. When you stop, it keeps moving for a moment, so your brain thinks you're still turning while your eyes say you're not. That mismatch is the dizziness. Worth seeing a doctor if you get dizzy without spinning."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_045.jpg",
+   "n": 5,
+   "q": "Why do I keep biting the same spot inside my cheek?",
+   "a": "Once you bite your cheek, the spot swells a little and sticks out, so your teeth are more likely to catch it again. It's an annoying loop, not a sign anything's wrong. Chew slowly and give it a week to heal. Worth seeing a dentist if it keeps happening, since your bite or a sharp tooth might be the cause."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_002.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

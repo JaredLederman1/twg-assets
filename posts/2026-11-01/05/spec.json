@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_026.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions nobody taught you",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_075.jpg",
+   "n": 1,
+   "q": "What does \"vested\" mean for my 401(k)?",
+   "a": "Vested means the money is officially yours to keep. What you put into your 401(k) from your paycheck is always yours. But your employer's matching money might vest over time, say a little more each year. If you leave before you're fully vested, you could lose part of the match. Your plan documents show the exact schedule."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_039.jpg",
+   "n": 2,
+   "q": "What's a balance transfer?",
+   "a": "It's moving debt from one credit card to another, usually one offering a 0% intro interest rate for a set time. It can save a lot on interest, but there's usually a fee of around 3 to 5% of what you move. The real trick is paying it off before the promo ends, when the rate jumps."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_027.jpg",
+   "n": 3,
+   "q": "What's an escrow account?",
+   "a": "Escrow is an account where money is held by a neutral party until it's needed. With a mortgage, part of each monthly payment often goes into escrow, and your lender uses it to pay your property taxes and home insurance for you. It's why your payment can change even with a fixed rate: taxes or insurance went up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_069.jpg",
+   "n": 4,
+   "q": "What is lifestyle creep?",
+   "a": "It's when your spending quietly rises every time your income does. You get a raise, and suddenly the nicer apartment, takeout and subscriptions feel normal, so you never actually feel richer. It's super common. One easy fix: when you get a raise, send part of it straight to savings before you get used to having it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_012.jpg",
+   "n": 5,
+   "q": "What does \"pay yourself first\" mean?",
+   "a": "It means saving first instead of saving whatever's left. When you get paid, a set amount goes straight to savings or investing, ideally automatically, before you spend on anything else. Even a small amount counts. Since it disappears before you see it, you adjust your spending around it and barely notice. It's one of the easiest habits to keep."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_028.jpg",
+   "title": "Which one did you not know?",
+   "emoji": "🤫",
+   "sub": "no shame. comment the number"
+  }
+ ]
+}

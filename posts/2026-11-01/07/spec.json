@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_087.jpg",
+   "kicker": "be honest…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_040.jpg",
+   "n": 1,
+   "q": "Why does a friendship breakup hurt so much?",
+   "a": "Because it's a real loss. A close friend often knows you as well as any partner, and your routines, jokes and memories are tied up with them. There's also no script for it, so people rarely treat it like a real breakup, and you end up grieving quietly. Let yourself be sad about it. It does get easier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_007.jpg",
+   "n": 2,
+   "q": "How do I make friends at work?",
+   "a": "Start small. Say yes to the lunch invite, ask people how their weekend was, and actually remember what they told you. Friendships grow from lots of little repeated moments, not big gestures. Offering help on something is an easy way in. Look for the person who seems just as new or quiet. They're probably hoping someone says hi."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_004.jpg",
+   "n": 3,
+   "q": "How do I tell a friend I'm busy without it sounding like rejection?",
+   "a": "Be warm and specific. Instead of just 'can't, sorry,' try 'I'm slammed this week but I really want to see you. Are you free next Thursday?' Offering another time shows it's about your schedule, not them. A quick check-in text later helps too. Good friends understand that life gets busy sometimes, and they'll be glad you asked."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_021.jpg",
+   "n": 4,
+   "q": "Is it normal to feel homesick as an adult?",
+   "a": "Very normal. Homesickness isn't about age, it's about missing familiar places, people, and feeling known. It often hits around holidays, big changes, or when you're stressed or tired. Calling home, keeping small rituals from home, and building routines where you are now all help. Worth talking to someone if it makes it hard to get through the day."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_017.jpg",
+   "n": 5,
+   "q": "Why do I feel embarrassed for other people?",
+   "a": "That cringe is called vicarious embarrassment, and it's tied to empathy. When you watch someone mess up, your brain partly imagines being in their shoes, so you feel a bit of what they'd feel. Research links it to the same brain areas involved in feeling others' pain. It's why some reality TV is so hard to watch."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_068.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "🫠",
+   "sub": "tell us in the comments"
+  }
+ ]
+}

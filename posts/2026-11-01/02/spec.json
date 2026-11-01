@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_083.jpg",
+   "kicker": "no judgement",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😬"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_041.jpg",
+   "n": 1,
+   "q": "How long can I keep leftovers in the fridge?",
+   "a": "The usual food safety rule is three to four days in the fridge for most cooked leftovers. After that, bacteria can build up even if it looks and smells fine, so the sniff test isn't reliable. Get leftovers into the fridge within two hours of cooking. If you won't eat them in time, freezing buys you months."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_067.jpg",
+   "n": 2,
+   "q": "Is it bad to leave food out overnight?",
+   "a": "Unfortunately, yes. Food safety experts say perishable food shouldn't sit out longer than two hours, or one hour if it's really hot. Bacteria multiply fastest at room temperature, and reheating doesn't always undo it, since some make toxins heat can't destroy. So that pizza left out all night is a gamble. Toss it, sadly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_041.jpg",
+   "n": 3,
+   "q": "Is the five-second rule real?",
+   "a": "Sadly, no. Researchers at Rutgers found bacteria can jump onto dropped food in under a second. Wet foods like watermelon pick up more than dry ones like candy, and carpet transfers less than tile. So it's less about the seconds and more about the food and the floor. A dry cracker on a clean floor is low risk."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_005.jpg",
+   "n": 4,
+   "q": "Should I wash raw chicken before cooking it?",
+   "a": "No, skip it. Food safety experts say rinsing raw chicken doesn't remove bacteria. It just splashes them onto your sink, counter and nearby food. Cooking is what makes it safe, so cook chicken to an internal temperature of 165°F, checked with a thermometer. Then wash your hands and anything the raw chicken touched with hot, soapy water."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_042.jpg",
+   "n": 5,
+   "q": "Do I need to wash fruit if I don't eat the peel?",
+   "a": "Yes, rinse it anyway. When you cut a melon, avocado or orange, the knife drags whatever is on the peel into the part you eat. Just rinse it under running water and rub or scrub it before cutting. You don't need soap or special fruit washes. Then dry it with a clean towel and you're good."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_008.jpg",
+   "title": "Which one have you been doing wrong?",
+   "emoji": "🙈",
+   "sub": "be honest in the comments"
+  }
+ ]
+}

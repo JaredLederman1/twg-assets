@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_061.jpg",
+   "kicker": "asking for a friend",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_027.jpg",
+   "n": 1,
+   "q": "How do I ask a coworker to stop interrupting me?",
+   "a": "Try saying it in the moment, calmly: 'Hold on, let me finish this thought.' Most people don't realize they do it. If it keeps happening, talk to them privately and keep it about the behavior, not their personality. Something like 'I've noticed I get cut off in meetings, can you help me with that?' works surprisingly well."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_010.jpg",
+   "n": 2,
+   "q": "How do I write an out-of-office message?",
+   "a": "Keep it short. Say you're away, give the date you're back, and name who to contact for anything urgent. Something like 'I'm out until Monday the 10th with limited email. For anything urgent, reach Sam.' You don't need to explain where you're going or apologize. Nobody reads more than two lines anyway."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_019.jpg",
+   "n": 3,
+   "q": "Is it weird to ask an old boss for a reference?",
+   "a": "Not weird at all, it's how references work. Most managers expect to be asked and are happy to help someone they liked working with. Reach out first, remind them what you worked on together, and say what job it's for. Give them a heads-up before a recruiter calls. A short thank-you afterward goes a long way."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_060.jpg",
+   "n": 4,
+   "q": "How do I stop zoning out in meetings?",
+   "a": "Your brain isn't built to stay locked in for an hour of mostly listening, so drifting off is normal. Taking notes by hand, even messy ones, keeps you engaged. Sitting where you can see the speaker helps, and so does asking one question early. If every meeting feels pointless, it might be the meeting, not you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_044.jpg",
+   "n": 5,
+   "q": "Is it normal to be nervous before starting a new job?",
+   "a": "Totally normal, almost everyone feels it. You're walking into new people, new rules, and you want to make a good first impression. Nobody expects you to know everything on day one. Get there a bit early, write down names, and ask questions freely. Most people remember being new and are happy to help. The nerves fade fast."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_017.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "😅",
+   "sub": "drop the number below"
+  }
+ ]
+}

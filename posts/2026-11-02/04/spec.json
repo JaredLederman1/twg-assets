@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_057.jpg",
+   "kicker": "be honest…",
+   "title": "Dating questions you'd never ask out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_044.jpg",
+   "n": 1,
+   "q": "How do I know if I'm being breadcrumbed?",
+   "a": "Breadcrumbing is when someone gives you just enough attention to keep you interested but never follows through. Think likes on your stories, late night \"hey\" texts, and vague plans that never happen. Try suggesting a specific day and time. If they keep dodging, you have your answer, and you deserve someone who shows up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_038.jpg",
+   "n": 2,
+   "q": "Is it okay to date two people at once early on?",
+   "a": "Early on, before you've talked about being exclusive, dating more than one person is pretty common. The key is honesty. Don't promise things you can't keep, and if someone asks whether you're seeing other people, tell the truth. Once you agree to be exclusive, that changes, so have that conversation clearly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_052.jpg",
+   "n": 3,
+   "q": "Is it weird to set a time limit on a first date?",
+   "a": "Not at all, it's actually smart. A coffee or a drink with a loose end time takes the pressure off both of you and makes leaving easy if there's no spark. Something like \"I've got about an hour\" is totally normal. And if it's going great, you can always stay longer or plan round two."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_025.jpg",
+   "n": 4,
+   "q": "Is it a red flag if they call all their exes crazy?",
+   "a": "One bad breakup happens to everyone. But if every ex was the problem, notice that pattern. Listen for whether they can say what they learned or what they'd do differently. Someone who takes zero responsibility for any past relationship may treat you the same way someday. Curiosity is fine, just keep your eyes open."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_080.jpg",
+   "n": 5,
+   "q": "How do I stop getting attached so fast?",
+   "a": "Early attraction floods your brain with feel-good chemicals, so getting hooked fast is really common. Slow things down by keeping your own routines, friends, and plans, and try not to text all day. Remind yourself you're still getting to know them. Let their actions over a few weeks, not your hopes, decide how invested you get."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_016.jpg",
+   "title": "Which one is too real?",
+   "emoji": "🙈",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

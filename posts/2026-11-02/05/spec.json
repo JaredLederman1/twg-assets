@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_023.jpg",
+   "kicker": "no judgement",
+   "title": "Work questions you're scared to ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_029.jpg",
+   "n": 1,
+   "q": "Is it bad to ask for a deadline extension?",
+   "a": "No, as long as you ask early. Telling your boss a few days ahead shows you're on top of things, while missing the deadline quietly doesn't. Explain briefly why, suggest a new date, and mention what you can deliver by the original one. Most managers would much rather adjust a plan than get a surprise."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_037.jpg",
+   "n": 2,
+   "q": "How do I find a mentor at work?",
+   "a": "Skip the big \"will you be my mentor?\" ask. Instead, pick someone whose work you admire and ask for a 20-minute chat about one specific thing. Come with questions, follow up later to say how their advice helped, and keep in touch. Most mentorships grow naturally from a few good conversations like that."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_027.jpg",
+   "n": 3,
+   "q": "Is it okay to not answer Slack right away?",
+   "a": "Yes. Constant interruptions make it really hard to focus, and most messages aren't urgent. Checking at set times, like every hour, is reasonable for most jobs. Set a status so people know you're heads-down. If your team expects faster replies, ask your manager what's actually urgent so you know when to jump."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_036.jpg",
+   "n": 4,
+   "q": "Is it bad to take a real lunch break?",
+   "a": "Not at all. Stepping away from your desk gives your brain a reset, and breaks are linked to better focus and less burnout. Eating while answering emails isn't really a break. Even 20 minutes outside or away from screens helps. Good managers know rested people do better work, so take it without guilt."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_046.jpg",
+   "n": 5,
+   "q": "How do I disagree with my boss without getting in trouble?",
+   "a": "Pick a private moment, not a big meeting. Start with the shared goal, like \"I want this launch to go well too,\" then share your concern and the facts behind it. Offer an alternative instead of just saying no. If they still decide differently, accept it gracefully. You'll be seen as thoughtful, not difficult."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_090.jpg",
+   "title": "Which one would you never ask?",
+   "emoji": "😬",
+   "sub": "comment the number. we won't tell your boss"
+  }
+ ]
+}

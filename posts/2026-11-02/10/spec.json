@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_034.jpg",
+   "kicker": "asking for a friend",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😶"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_048.jpg",
+   "n": 1,
+   "q": "Why am I so tired after a day of doing nothing?",
+   "a": "Low-energy days can actually make you feel more drained. Without movement, daylight, and some stimulation, your body and brain stay in low gear, and scrolling or long naps can mess with your rhythm. A short walk outside, some water, and a real meal can help a lot. Rest days are still good, though."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_066.jpg",
+   "n": 2,
+   "q": "Why do I cry at commercials?",
+   "a": "Ads are built to hit emotions fast with music, faces, and stories about family or pets. If you're tired, stressed, or already holding a lot in, it takes even less to tip you over. Crying at a commercial usually just means you're empathetic and a bit run down. It's very normal, and kind of sweet."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_003.jpg",
+   "n": 3,
+   "q": "Why do I keep checking if I locked the door?",
+   "a": "Locking up is so automatic that your brain often doesn't save the memory, so you're left unsure. Try saying \"door's locked\" out loud as you do it, or snap a quick photo. Occasional checking is super common. Worth talking to a doctor or therapist if checking takes up a lot of time or causes real distress."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_012.jpg",
+   "n": 4,
+   "q": "Why do I hate asking for help?",
+   "a": "A lot of people worry that asking makes them look weak, or that they'll be a burden. Usually, it's the opposite. Most people like helping, and asking builds trust and connection. Start small, like asking a coworker a quick question or a friend for a recommendation. It gets easier each time you do it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_078.jpg",
+   "n": 5,
+   "q": "Why do I focus better with music on?",
+   "a": "For some people, background music blocks out distractions and keeps their mood up, which makes it easier to stick with a task. Music without lyrics often works best for reading or writing, since words can compete with the words in your head. Everyone's different, so if it helps you, keep the playlist going."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_044.jpg",
+   "title": "Which one are you?",
+   "emoji": "🫠",
+   "sub": "comment the number. it's a safe space"
+  }
+ ]
+}

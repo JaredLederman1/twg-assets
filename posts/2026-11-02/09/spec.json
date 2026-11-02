@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_064.jpg",
+   "kicker": "be honest…",
+   "title": "Family questions you'd never ask at dinner",
+   "emoji": "🏡"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_008.jpg",
+   "n": 1,
+   "q": "How do I tell my parents I'm changing careers?",
+   "a": "Go in with a plan, not just the news. Explain why you're making the change, what steps you've already taken, and how you'll handle money in the meantime. Expect some worry, since that's often how parents show they care. You don't need their approval, but showing you've thought it through makes the talk much easier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_023.jpg",
+   "n": 2,
+   "q": "Is it okay to not want to host the holidays?",
+   "a": "Totally. Hosting is a ton of work, money, and stress, and it's fine to say it's not your year. Let family know early so someone else can step in, and offer something smaller instead, like bringing dessert or helping clean up. You can love the holidays and still not want them in your home."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_002.jpg",
+   "n": 3,
+   "q": "How do I deal with a parent who gives unsolicited advice?",
+   "a": "Most of the time it comes from love and worry, even when it feels like criticism. Try a calm \"thanks, I'll think about it\" and move on. If it keeps happening, set a gentle boundary: \"I know you care, but I'd like to figure this one out myself.\" Saying it kindly and consistently usually works best."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_057.jpg",
+   "n": 4,
+   "q": "How do I connect with my dad when we have nothing in common?",
+   "a": "Shared activities often work better than big talks. Ask him to teach you something he knows, watch a game or show together, or grab a meal with no agenda. Ask about his life before you were born, people love telling those stories. Small, regular moments add up to a much closer relationship over time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_084.jpg",
+   "n": 5,
+   "q": "How do I avoid political fights at family dinner?",
+   "a": "Decide ahead of time what you're willing to discuss. If things get heated, try \"let's agree to disagree, how's work going?\" and change the subject. You don't have to win or convince anyone at the table. Stepping out to help in the kitchen is a perfectly good escape. Protecting the peace is a valid choice."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_025.jpg",
+   "title": "Which one is your family?",
+   "emoji": "😅",
+   "sub": "comment the number. we won't tell them"
+  }
+ ]
+}

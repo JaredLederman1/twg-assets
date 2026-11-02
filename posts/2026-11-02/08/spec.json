@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_063.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_064.jpg",
+   "n": 1,
+   "q": "Why do my ankles swell on long flights?",
+   "a": "Sitting still for hours lets fluid pool in your lower legs, and your calf muscles aren't pumping it back up. Get up and walk when you can, flex your ankles while seated, and drink water. Mild swelling usually goes down within a day. Get checked right away if one leg is swollen, painful, warm, or red."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_083.jpg",
+   "n": 2,
+   "q": "Why am I more sore two days after a workout?",
+   "a": "That's delayed onset muscle soreness. New or harder exercise causes tiny strains in muscle fibers, and the repair process causes soreness that usually peaks one to three days later. It's not lactic acid. Gentle movement helps, and it fades as your body adapts. Worth seeing a doctor if the pain is severe or your pee turns dark."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_068.jpg",
+   "n": 3,
+   "q": "What's this squishy bump on my wrist?",
+   "a": "A soft, round bump on the wrist is often a ganglion cyst, a sac of jelly-like fluid near a joint or tendon. They're harmless, can come and go, and often need no treatment. Don't try smacking it with a book, that old trick can hurt you. Worth seeing a doctor to confirm what it is, especially if it's painful."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_059.jpg",
+   "n": 4,
+   "q": "Why do I have to pee so much after coffee?",
+   "a": "Caffeine is a mild diuretic, meaning it nudges your kidneys to make more urine. Plus, a big coffee is a lot of liquid. Regular coffee drinkers build up some tolerance, so the effect is often smaller over time. Worth seeing a doctor if you're peeing a lot even without coffee, or it burns or hurts."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_004.jpg",
+   "n": 5,
+   "q": "Why does my tooth hurt when I eat something sweet?",
+   "a": "A quick zing from sugar can mean worn enamel or gums pulling back, which exposes the sensitive layer underneath. But it's also a classic early sign of a cavity. A soft brush and sensitivity toothpaste can help. Worth seeing a dentist soon, since a cavity caught early is a quick, small fix."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_048.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "🤭",
+   "sub": "comment the number. no judgement here"
+  }
+ ]
+}

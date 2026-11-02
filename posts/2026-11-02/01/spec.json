@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_022.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_088.jpg",
+   "n": 1,
+   "q": "Why do I have a white line inside my cheek?",
+   "a": "That's usually linea alba, a slightly raised white line right where your upper and lower teeth meet. It forms from everyday friction and pressure on the cheek, and lots of people have one. It's harmless and doesn't need treatment. Worth seeing a dentist if a white patch is thick, spreading, or still sore after two weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_034.jpg",
+   "n": 2,
+   "q": "Why do I have tiny white bumps on my face that won't pop?",
+   "a": "Those are often milia, tiny cysts filled with keratin, a skin protein, trapped just under the surface. They're not pimples, so squeezing won't work and can scar. They're harmless and often clear on their own over a few weeks or months. If they bug you, a dermatologist can remove them safely in a quick visit."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_069.jpg",
+   "n": 3,
+   "q": "Why does my ear feel full for days after a cold?",
+   "a": "A cold can swell the tiny tube that connects your ear to the back of your nose. When it's blocked, pressure can't even out, so your ear feels plugged. Yawning and swallowing can help it open, and it usually clears in a week or two. Worth seeing a doctor if there's pain, discharge, or hearing loss."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_084.jpg",
+   "n": 4,
+   "q": "Why is there a hard bump on the back of my head?",
+   "a": "Most people can feel a bony ridge at the lower back of the skull. It's a normal part of your skull where neck muscles attach, and its size varies a lot from person to person. Some are just more noticeable. Worth seeing a doctor if a bump is new, growing, soft, or painful."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_005.jpg",
+   "n": 5,
+   "q": "Why is the skin on my elbows darker?",
+   "a": "Elbows take a lot of friction and pressure, and skin there is thicker and can make more pigment, so slightly darker elbows are really common, especially with deeper skin tones. Moisturizing and gentle exfoliation can soften the look. Worth seeing a doctor if dark, velvety patches also show up on your neck or armpits."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_021.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

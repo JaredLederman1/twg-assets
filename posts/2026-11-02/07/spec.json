@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_099.jpg",
+   "kicker": "be honest…",
+   "title": "Friendship questions you'd never say out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_060.jpg",
+   "n": 1,
+   "q": "How do I stop feeling like the third wheel?",
+   "a": "First, know it's often more about your nerves than how they see you. Join in instead of hanging back, and ask them questions. It also helps to invite another friend along or plan one-on-one time with each of them. If it keeps happening, it's fine to say you'd like some time without the couple."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_020.jpg",
+   "n": 2,
+   "q": "Is it okay to date my friend's ex?",
+   "a": "It depends a lot on your friend. Talk to them before anything happens, not after, and really listen to how they feel. How long ago it ended and how serious it was matter too. If they say it would hurt, think hard about which relationship matters more to you. Honesty first is what keeps friendships intact."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_090.jpg",
+   "n": 3,
+   "q": "How do I make up with a friend after a big fight?",
+   "a": "Reach out first, even if you're not sure who was more wrong. Keep it simple: say you miss them and own your part without adding a \"but.\" Give them space to share their side and really listen. Don't try to win the argument again. Most friendships can bounce back from one bad fight."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_031.jpg",
+   "n": 4,
+   "q": "How do I stop gossiping about my friends?",
+   "a": "Gossip usually comes from wanting to bond or feeling anxious, not from being a bad person. Before you share, ask yourself if you'd say it with them in the room. Change the subject or say something kind when it starts. If something really bothers you about a friend, talk to them instead of about them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_024.jpg",
+   "n": 5,
+   "q": "How do I keep a friendship going long distance?",
+   "a": "Small, regular contact beats rare long catch-ups. Send a voice note, share a funny video, or set a recurring call every couple of weeks. Do things together from afar, like watching the same show. Plan a visit when you can, even if it's months away. Having something on the calendar keeps you both connected."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_033.jpg",
+   "title": "Which one hit home?",
+   "emoji": "💛",
+   "sub": "comment the number, then text your friend"
+  }
+ ]
+}

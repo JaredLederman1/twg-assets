@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_082.jpg",
+   "kicker": "no judgement",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_018.jpg",
+   "n": 1,
+   "q": "Is it bad to sleep with the lights on?",
+   "a": "Light tells your brain it's daytime and holds back melatonin, the hormone that helps you sleep. Sleeping with a bright light on can make your sleep lighter and more broken up, even if you don't notice. If you need some light, a dim, warm nightlight far from your face is a much better choice. Darker is usually better."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_093.jpg",
+   "n": 2,
+   "q": "Why do I wake up hungry in the middle of the night?",
+   "a": "Often it's an early or light dinner, not enough protein, or alcohol before bed messing with your blood sugar and sleep. Habit plays a part too. Try a balanced dinner and a small snack if there's a long gap. Worth seeing a doctor if it comes with big thirst, peeing a lot, or weight loss you can't explain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_040.jpg",
+   "n": 3,
+   "q": "Why is my heart pounding after a nightmare?",
+   "a": "Your brain reacts to a scary dream like it's real and releases adrenaline, the fight-or-flight hormone. That's why you wake up with a racing heart and maybe sweaty. It usually settles within a few minutes. Slow breathing helps. Worth seeing a doctor if nightmares happen a lot, or your heart races with no dream at all."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_078.jpg",
+   "n": 4,
+   "q": "Why do I sleep with my mouth open?",
+   "a": "Usually your nose is the problem. A stuffy nose from colds or allergies, or how your nose is shaped, makes your body switch to mouth breathing, which is why you wake up dry. Treating congestion can help a lot. Worth seeing a doctor if you also snore loudly, gasp at night, or feel sleepy all day."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_012.jpg",
+   "n": 5,
+   "q": "Why is it so hard to get out of bed when it's cold?",
+   "a": "Your warm bed feels amazing compared to cold air, and on dark mornings your body is still in sleep mode. Waking up groggy is called sleep inertia, and it's worse when it's dark. Opening the curtains or turning on a bright light right away helps. So does leaving a hoodie by the bed."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_037.jpg",
+   "title": "Which one keeps you up?",
+   "emoji": "😴",
+   "sub": "drop the number in the comments"
+  }
+ ]
+}

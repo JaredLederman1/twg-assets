@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_007.jpg",
+   "kicker": "asking for a friend",
+   "title": "Hygiene questions you'd never ask out loud",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_089.jpg",
+   "n": 1,
+   "q": "Is it bad to use the same towel for my face and body?",
+   "a": "It's not dangerous, but if you get breakouts, a separate face towel can help. Body towels pick up sweat, product, and bacteria that you then rub on your face. Hang towels to dry fully between uses so they don't get musty, and use a fresh face towel every couple of days. Simple swap, clearer skin for some people."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_045.jpg",
+   "n": 2,
+   "q": "Is it gross to not shower right after the gym?",
+   "a": "Sweat itself is mostly water, but sitting in it lets bacteria build up, which causes odor and can lead to body acne or itchy rashes. If you can't shower right away, at least change into dry clothes and wipe down sweaty areas. A quick rinse later that day is fine. Just don't stay in damp gym clothes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_056.jpg",
+   "n": 3,
+   "q": "How often should I clip my toenails?",
+   "a": "Toenails grow a lot slower than fingernails, so every six to eight weeks is often enough for many people. Cut them straight across and not too short, and don't round the corners deep into the skin, since that's how ingrown toenails happen. Worth seeing a doctor if a toe gets red, swollen, or painful."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_023.jpg",
+   "n": 4,
+   "q": "Is it bad to share a razor?",
+   "a": "Yes, skip it. Razors make tiny nicks you can't always see, so sharing one can spread bacteria, skin infections, and even viruses carried in blood. It also dulls the blade faster. Even with your partner or sibling, everyone should have their own. Razors are cheap, infections aren't."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_086.jpg",
+   "n": 5,
+   "q": "How often should I replace my pillow?",
+   "a": "A common guideline is every one to two years. Over time pillows collect sweat, oil, dead skin, and dust mites, and they lose their shape, so your neck gets less support. Fold it in half: if it doesn't spring back, or it's lumpy and stained, it's time. Washable pillow protectors help them last longer."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_054.jpg",
+   "title": "Which one were you wondering?",
+   "emoji": "🫧",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_071.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_066.jpg",
+   "n": 1,
+   "q": "Why did my poop turn red after eating beets?",
+   "a": "Beets contain a deep red pigment that some people don't fully break down, so poop or pee can turn pink or red for a day or two. It's harmless, and when it shows up in pee it's called beeturia. Worth seeing a doctor if you see red without eating beets, or stool looks black or tarry."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_010.jpg",
+   "n": 2,
+   "q": "Why do I get a headache after sitting at my desk all day?",
+   "a": "Hours hunched over a screen can tighten the muscles in your neck, shoulders, and scalp, causing tension headaches. Eye strain, not drinking enough water, and stress add to it. Short breaks, a screen at eye level, and stretching can help. Worth seeing a doctor if headaches are severe, sudden, or happening most days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_065.jpg",
+   "n": 3,
+   "q": "Why do my ears suddenly feel hot?",
+   "a": "Your ears have lots of tiny blood vessels close to the skin, so they flush easily when you're embarrassed, angry, warm, or have had a drink. That rush of blood makes them feel hot and look red. It's usually harmless and fades quickly. Worth seeing a doctor if it comes with pain, swelling, or keeps coming back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_046.jpg",
+   "n": 4,
+   "q": "Is it bad to hold in a fart?",
+   "a": "Holding one in now and then won't hurt you, but the gas doesn't disappear. Some gets reabsorbed, and the rest usually comes out later anyway. Holding it in a lot can cause bloating and cramps, so letting it out when you can is the comfiest option. Worth seeing a doctor if gas comes with ongoing pain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_068.jpg",
+   "n": 5,
+   "q": "Why do my nipples get hard when I'm cold?",
+   "a": "Nipples have tiny muscles that contract with cold, touch, or even a sudden rush of emotion, the same kind of reflex behind goosebumps. It happens to everyone, any gender, and it's completely normal. Worth seeing a doctor if you notice discharge, a new lump, skin changes, or a nipple that starts turning inward."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_038.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "🤭",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

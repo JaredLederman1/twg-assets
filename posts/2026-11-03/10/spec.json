@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_087.jpg",
+   "kicker": "no judgement",
+   "title": "Brain questions you'd never say out loud",
+   "emoji": "🧠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_035.jpg",
+   "n": 1,
+   "q": "Why do unread messages make me anxious?",
+   "a": "Unread messages feel like tiny unfinished tasks, and your brain hates open loops. Each red badge is a little reminder that someone is waiting on you. It's really common. Turning off badge counts, picking set times to reply, and remembering that most messages aren't urgent can take a lot of the pressure off."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_024.jpg",
+   "n": 2,
+   "q": "Why do I zone out while reading and have to start over?",
+   "a": "That's mind-wandering, and it happens most when you're tired, stressed, or the text isn't grabbing you. Your eyes keep moving while your attention drifts somewhere else. It's very normal. Reading in shorter chunks, taking notes, or reading out loud can help. Worth talking to a doctor if focus problems affect your daily life."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_041.jpg",
+   "n": 3,
+   "q": "Why do I feel so much better after cleaning?",
+   "a": "Tidying gives you a quick sense of control and a visible result, which feels rewarding. Clutter can also keep your brain subtly busy, so clearing it can feel calming. Even ten minutes of tidying can lift your mood. It's a simple, healthy reset when you're feeling stressed or stuck."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_058.jpg",
+   "n": 4,
+   "q": "Why do I feel calmer after a walk?",
+   "a": "Walking gets your body moving, which helps burn off stress and releases mood-lifting chemicals. Spending time outside, especially around trees or green space, has also been linked to lower stress. Even a ten-minute walk can help clear your head. It's one of the simplest mood boosts there is, and it's free."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_086.jpg",
+   "n": 5,
+   "q": "Why do I talk so fast when I'm nervous?",
+   "a": "Nerves trigger your body's stress response, speeding up your heart and breathing, and that rush often speeds up your speech too. Some people also hurry just to get through the moment. It's very common. Pausing, taking one slow breath, and deliberately slowing down your first sentence can help you settle in."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_027.jpg",
+   "title": "Which one is so you?",
+   "emoji": "👀",
+   "sub": "comment the number. your brain is normal"
+  }
+ ]
+}

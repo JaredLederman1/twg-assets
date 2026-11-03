@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_010.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions nobody taught you",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_003.jpg",
+   "n": 1,
+   "q": "What's the actual difference between checking and savings?",
+   "a": "A checking account is for everyday money: your debit card, bills, and frequent transfers. A savings account is for money you're setting aside, and it usually pays more interest. Keeping them separate makes savings less tempting to spend. High-yield savings accounts at online banks often pay much more than big banks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_009.jpg",
+   "n": 2,
+   "q": "Is it bad to use my savings for a vacation?",
+   "a": "Not if you planned for it. Saving up specifically for a trip is smart, as long as your emergency fund stays separate and untouched. The trouble is dipping into money meant for surprises, like car repairs or losing a job. Try a separate savings bucket just for travel so fun money and safety money don't mix."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_015.jpg",
+   "n": 3,
+   "q": "Is a tax refund free money?",
+   "a": "Not exactly. A tax refund is money you overpaid during the year. Your employer withholds tax from each paycheck based on your W-4, and if more was taken than you actually owed, the government sends the extra back. It's your own money returning. A really big refund can mean too much was withheld."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_073.jpg",
+   "n": 4,
+   "q": "Why is my check deposit on hold?",
+   "a": "Banks sometimes hold part of a check deposit for a few business days while they make sure the money will actually clear. It protects both you and the bank from bounced or fake checks. New accounts, large checks, and unusual deposits are more likely to be held. Your bank has to tell you when the money will be available."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_076.jpg",
+   "n": 5,
+   "q": "Is it bad to keep cash at home?",
+   "a": "A small stash for emergencies, like a power outage when cards don't work, is reasonable. But large amounts at home can be lost, stolen, or destroyed, and they earn no interest. Money in a bank is usually FDIC insured up to $250,000 per depositor, per bank, per account type, so big savings are safer there."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_045.jpg",
+   "title": "Which one did you not know?",
+   "emoji": "🤫",
+   "sub": "no shame. comment the number"
+  }
+ ]
+}

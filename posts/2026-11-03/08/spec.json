@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_020.jpg",
+   "kicker": "be honest…",
+   "title": "Dating questions you'd never ask out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_031.jpg",
+   "n": 1,
+   "q": "How do I know if I'm being love bombed?",
+   "a": "Love bombing is intense flattery, gifts, and nonstop attention really early, like talking about forever after a week. It can feel amazing, but it often comes with pressure to commit fast or guilt when you want space. Healthy interest grows at a pace you're comfortable with. If it feels like too much, too soon, trust that."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_014.jpg",
+   "n": 2,
+   "q": "What should I talk about on a first date?",
+   "a": "Ask open questions that let them tell stories: what they're excited about lately, a favorite trip, how they ended up in their job or city. Share your own answers too. Follow-ups like \"wait, how did that happen?\" show you're listening. Try not to make it feel like an interview, and remember small silences are normal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_004.jpg",
+   "n": 3,
+   "q": "How do I know if I'm ready to date again?",
+   "a": "Good signs: you can think about your ex without a big wave of pain, you're curious about meeting someone rather than trying to fill a gap, and you'd be fine if a date went nowhere. There's no set timeline. If you mostly want to prove something or distract yourself, it might be worth waiting a bit longer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_071.jpg",
+   "n": 4,
+   "q": "When should I delete the dating apps?",
+   "a": "There's no universal rule, so it helps to just ask. Many people keep the apps until they've agreed to be exclusive, while others delete them once things start feeling serious. Talking about it openly prevents hurt feelings. Something simple like, \"I'm not seeing anyone else, are you?\" usually clears it right up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_002.jpg",
+   "n": 5,
+   "q": "How do I make a dating profile that isn't cringe?",
+   "a": "Be specific instead of generic: \"I make a mean Sunday lasagna\" says more than \"I love food.\" Use recent photos where your face is clear, including one smiling and one doing something you enjoy. Add a prompt that's easy to reply to. Keep it upbeat and skip the list of things you don't want."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_088.jpg",
+   "title": "Which one is too real?",
+   "emoji": "🙈",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

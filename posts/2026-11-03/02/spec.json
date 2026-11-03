@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_094.jpg",
+   "kicker": "no judgement",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_001.jpg",
+   "n": 1,
+   "q": "Why do I feel hungrier when I'm bored?",
+   "a": "Boredom makes your brain hunt for a quick hit of stimulation and reward, and food is an easy one. That's why snacks call your name while you're scrolling or waiting around. It's really common. Checking in with yourself, drinking some water, or taking a short walk can help you tell boredom from real hunger."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_027.jpg",
+   "n": 2,
+   "q": "Why do I feel more anxious when I'm tired?",
+   "a": "Sleep loss makes your brain's alarm center more reactive and weakens the calmer, planning part that usually keeps worry in check. So small problems feel bigger when you're exhausted, which is why things often look better in the morning. Worth talking to a doctor if anxiety or poor sleep goes on for weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_078.jpg",
+   "n": 3,
+   "q": "Why do I check the fridge when I know nothing's in there?",
+   "a": "Opening the fridge is often less about hunger and more about habit, boredom, or wanting a tiny break. Your brain has learned the fridge sometimes holds a reward, so it keeps checking just in case. It's super common and harmless. If you're actually hungry, a planned snack can break the loop."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_007.jpg",
+   "n": 4,
+   "q": "Why do I feel nostalgic for times I never lived through?",
+   "a": "There's even a made-up word for it: anemoia. Old music, films, and photos show you a polished version of a past era, without the boring or hard parts, and your brain fills the gaps with warmth. It's a really common feeling, and it often just means you're drawn to slower, simpler vibes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_006.jpg",
+   "n": 5,
+   "q": "Why does my mind go blank when someone asks my favorite movie?",
+   "a": "Being put on the spot creates a little pressure, and pressure makes it harder to pull up specific memories, even ones you know well. With so many options, your brain freezes trying to pick one. It's totally normal. Having a go-to answer ready, or saying \"ooh, let me think,\" buys you time."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_024.jpg",
+   "title": "Which one is keeping you up?",
+   "emoji": "🫠",
+   "sub": "drop the number in the comments"
+  }
+ ]
+}

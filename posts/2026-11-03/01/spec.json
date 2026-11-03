@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_008.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_055.jpg",
+   "n": 1,
+   "q": "Why do I get a bump on my finger from writing?",
+   "a": "That's a writer's callus. Pressing a pen against the same spot day after day makes your skin thicken to protect itself. It's harmless and usually softens within a few weeks if you grip more loosely or use a cushioned pen. Worth seeing a doctor if it's painful, red, or turns into an open sore."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_080.jpg",
+   "n": 2,
+   "q": "Why do I get lint in my belly button?",
+   "a": "Fibers from your clothes get rubbed loose, and the hair around your navel acts like a funnel, guiding them inward. That's why it's more common with hairier stomachs and deeper belly buttons. It's completely harmless, so just wipe it out in the shower. Worth seeing a doctor if there's redness, discharge, or pain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_011.jpg",
+   "n": 3,
+   "q": "Why is there a bright red spot on the white of my eye?",
+   "a": "That's often a subconjunctival hemorrhage, a tiny broken blood vessel under the clear surface of your eye. Coughing, sneezing, straining, or rubbing can cause it, and it's usually painless. It looks scary but typically fades in one to two weeks. Worth seeing a doctor if it hurts, affects your vision, or keeps happening."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_099.jpg",
+   "n": 4,
+   "q": "Why do my glasses leave dents on my nose?",
+   "a": "Glasses rest their weight on two small nose pads, and steady pressure on the same spot can leave red marks or a shallow dent. Lighter frames, a proper fitting, or adjusted nose pads usually help a lot, and marks fade with breaks. Worth seeing a doctor if a spot becomes a sore or bump that won't heal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_031.jpg",
+   "n": 5,
+   "q": "Why do I sneeze after a big meal?",
+   "a": "Some people sneeze when their stomach gets really full, a quirk researchers jokingly named snatiation. It seems to run in families and isn't caused by allergies or illness. It's harmless, just a little funny, and smaller portions may help. Worth seeing a doctor if sneezing after eating comes with hives, swelling, or trouble breathing."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_069.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

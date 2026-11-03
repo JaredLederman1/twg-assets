@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_018.jpg",
+   "kicker": "no judgement",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_002.jpg",
+   "n": 1,
+   "q": "How do I ask my manager for more responsibility?",
+   "a": "Be specific and positive. Ask for a short chat and say something like, \"I'd love to grow here. Is there a project I could take on?\" Point to something you've done well and name an area you're curious about. Most managers love hearing this. Then follow through, and check in again in a few weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_049.jpg",
+   "n": 2,
+   "q": "How do I stop a coworker from always asking me to cover for them?",
+   "a": "Be friendly but clear: \"I can't take that on this time, I've got my own deadlines.\" You don't need a long excuse. If it keeps happening and affects your work, it's fair to mention your workload to your manager without making it personal. Helping sometimes is kind, but being the default isn't required."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_005.jpg",
+   "n": 3,
+   "q": "How do I email someone I've never met at work?",
+   "a": "Keep it short and clear. Start with a friendly greeting, say who you are in one line, then get to the point: what you need and by when. Make it easy to answer by ending with one clear question and a thank you. Reread it once for typos, and hit send."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_032.jpg",
+   "n": 4,
+   "q": "What do I do if I accidentally hit reply all?",
+   "a": "Don't panic, most people barely notice. If it was harmless, do nothing. If it included something private or wrong, send one short follow-up like, \"Apologies, that was meant for one person.\" Some email apps let you undo a send for a few seconds, so it's worth turning that on. Next time, add recipients last."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_018.jpg",
+   "n": 5,
+   "q": "How do I ask for a better job title?",
+   "a": "Gather proof first: list your current responsibilities and how they match the title you want, inside or outside the company. Then ask your manager for a meeting and frame it around the work you already do. If they say not yet, ask what you'd need to show and when you can revisit it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_026.jpg",
+   "title": "Which one would you never ask?",
+   "emoji": "😅",
+   "sub": "comment the number. we won't tell your boss"
+  }
+ ]
+}

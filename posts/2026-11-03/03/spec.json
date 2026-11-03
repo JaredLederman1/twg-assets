@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_010.jpg",
+   "kicker": "asking for a friend",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_071.jpg",
+   "n": 1,
+   "q": "Is it normal to feel like I don't know who I am after a breakup?",
+   "a": "Yes. In a relationship, your routines, plans, and even your sense of self get tangled up with another person, so losing them can leave you unsure who you are alone. Research links that feeling to breakup sadness. Trying new things, reconnecting with old hobbies, and giving it time all help you rebuild."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_016.jpg",
+   "n": 2,
+   "q": "How do I stop myself from texting my ex?",
+   "a": "Make it harder in the moment: mute or archive the chat, delete the thread, or hand your phone to a friend on nights out. Write the text in your notes app instead, then reread it the next morning. The urge usually passes within minutes. Having a friend to text instead helps a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_054.jpg",
+   "n": 3,
+   "q": "Should I ask for closure or just move on?",
+   "a": "You can ask for one honest conversation, but go in knowing they might not give you the answers you want. Often closure comes from you, not them: writing down what happened, what you learned, and what you need next. If talking would reopen wounds or they've been unkind, it's okay to skip it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_062.jpg",
+   "n": 4,
+   "q": "Why do I feel worse weeks after the breakup than on day one?",
+   "a": "At first, shock can numb things, and friends rally around you. A few weeks in, the support fades, routines feel empty, and reality sinks in. That delayed wave is really common and doesn't mean you're going backwards. Keep leaning on people. Worth talking to a professional if the sadness stays heavy for weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_021.jpg",
+   "n": 5,
+   "q": "What do I do with the gifts they gave me?",
+   "a": "There's no rule, and gifts are generally yours to keep. If seeing them hurts, box them up and put them out of sight for a few months, then decide. Later you can keep, donate, or sell them. Family heirlooms are the one thing it's usually kind to give back."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_007.jpg",
+   "title": "Which one are you going through?",
+   "emoji": "🫂",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_082.jpg",
+   "kicker": "asking for a friend",
+   "title": "Aging questions nobody warns you about",
+   "emoji": "⏳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_017.jpg",
+   "n": 1,
+   "q": "Why does my skin take longer to heal now?",
+   "a": "As we age, skin cells renew more slowly, blood flow to the skin drops a little, and collagen production declines, so cuts, scrapes, and even pimple marks take longer to fade. Staying moisturized, wearing sunscreen, and keeping wounds covered helps. Worth seeing a doctor if a sore still hasn't healed after a few weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_085.jpg",
+   "n": 2,
+   "q": "Does metabolism really slow down in your 30s?",
+   "a": "Surprisingly, not much. A big 2021 study of over 6,000 people found metabolism stays fairly steady from about age 20 to 60, then slowly declines. Changes in your 30s are more often about moving less, losing muscle, sleep, and stress. Staying active and doing some strength training helps you keep muscle as you age."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_044.jpg",
+   "n": 3,
+   "q": "Why are my nails getting more brittle?",
+   "a": "Nails often get drier and more brittle with age, and frequent hand washing, cleaning products, and cold weather make it worse. Wearing gloves for chores, moisturizing your hands and cuticles, and keeping nails short can help a lot. Worth seeing a doctor if nails change color, lift off the skin, or crack along with other symptoms."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_006.jpg",
+   "n": 4,
+   "q": "Why are my eyebrows getting thinner?",
+   "a": "Eyebrow hair naturally thins with age as follicles slow down and hormones shift. Years of plucking or waxing can also damage follicles so some hairs don't grow back. A brow pencil fills gaps easily. Worth seeing a doctor if thinning is sudden or patchy, or comes with tiredness or other hair loss, since thyroid issues can cause it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_038.jpg",
+   "n": 5,
+   "q": "Why does my voice sound different as I get older?",
+   "a": "Your vocal cords change with age. They can lose some muscle and moisture, and hormone shifts change pitch, so women's voices often get a bit lower and men's a bit higher. Staying hydrated and using your voice, like singing or chatting, helps keep it strong. Worth seeing a doctor if hoarseness lasts more than a few weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_001.jpg",
+   "title": "Which one is happening to you?",
+   "emoji": "🫠",
+   "sub": "comment the number. we're all getting older"
+  }
+ ]
+}

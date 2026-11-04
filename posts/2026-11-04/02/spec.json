@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_077.jpg",
+   "kicker": "no judgement",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_042.jpg",
+   "n": 1,
+   "q": "Why do I stay up late even when I'm exhausted?",
+   "a": "There's a name for it: revenge bedtime procrastination. When your day feels packed with obligations, late night can feel like the only time that's really yours, so you stretch it out. It's common, not a character flaw. Building a little free time into your evening often makes it easier to finally put the phone down."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_002.jpg",
+   "n": 2,
+   "q": "Why do I feel cold right as I'm falling asleep?",
+   "a": "Your core body temperature naturally drops in the evening as part of getting ready for sleep, and heat gets released through your hands and feet. That can leave you feeling chilly as you drift off. It's normal and a sign your sleep system is doing its job. Warm socks or an extra blanket can help you settle."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_022.jpg",
+   "n": 3,
+   "q": "Why do I dream about my teeth falling out?",
+   "a": "It's one of the most common dreams people report around the world, so you're in good company. There's no proven meaning behind it, but many people notice it during stressful or uncertain stretches. It doesn't predict anything about your health. If it comes with a sore jaw or grinding your teeth, mention it to your dentist."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_067.jpg",
+   "n": 4,
+   "q": "Why does my nose get stuffy as soon as I lie down?",
+   "a": "When you lie flat, gravity stops helping blood drain from your head, so the tissue inside your nose can swell a little. Allergies, dust, or a dry bedroom can make it worse. Propping your head up slightly or rinsing with saline may help. Worth seeing a doctor if it's constant, one-sided, or ruining your sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_018.jpg",
+   "n": 5,
+   "q": "Why do I always Google my symptoms at night?",
+   "a": "At night there are fewer distractions, so small worries feel louder, and searching seems like a quick fix. The problem is that search results tend to surface the scariest possibilities first, which spikes anxiety. Try jotting the symptom down and checking with a doctor or pharmacist in the morning. Get urgent help right away if something feels severe."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_009.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "🌙",
+   "sub": "comment the number. it's 2am, we get it"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_026.jpg",
+   "kicker": "asking for a friend",
+   "title": "Relationship questions you'd never ask out loud",
+   "emoji": "🫶"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_074.jpg",
+   "n": 1,
+   "q": "How do I tell my partner I need more reassurance?",
+   "a": "Say it simply and without blame: 'I've been feeling a little insecure lately, and it really helps when you tell me how you feel.' Give a specific example, like a check-in text or a compliment. Needing reassurance doesn't make you needy. A caring partner will want to know what helps, and you can ask what they need too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_052.jpg",
+   "n": 2,
+   "q": "Is it bad to check my partner's phone?",
+   "a": "Usually, yes. Going through someone's phone without permission tends to damage trust, and it rarely gives you the peace you're hoping for. The urge itself is worth listening to, though. Ask yourself what you're worried about and bring it up directly. If you can't trust them without checking, that's a bigger conversation worth having."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_022.jpg",
+   "n": 3,
+   "q": "Is it normal to feel insecure about my partner's ex?",
+   "a": "Very normal, especially early on or if the ex is still around. Your brain is just looking for reassurance that you matter. Try not to compare yourself to someone who isn't in the relationship anymore. If it's eating at you, share the feeling honestly instead of grilling your partner, and notice whether they make you feel chosen."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_046.jpg",
+   "n": 4,
+   "q": "Is it okay to not want to meet their family yet?",
+   "a": "Yes. There's no set timeline, and meeting family can feel like a big step. Explain that it's about pacing, not about them, so your partner doesn't feel rejected, and give a rough idea of when you might be ready. If you never want to meet them, that's worth thinking about, but early on, taking your time is fine."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_075.jpg",
+   "n": 5,
+   "q": "Is it bad if we don't say I love you every day?",
+   "a": "Not at all. Some couples say it constantly, while others show it through actions like making coffee, checking in, or showing up when it counts. What matters is that you both feel loved. If you'd like to hear it more, just say so. Small asks like that are a normal part of learning how you each like affection."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_067.jpg",
+   "title": "Which one is you and your person?",
+   "emoji": "🫶",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_066.jpg",
+   "kicker": "be honest…",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_026.jpg",
+   "n": 1,
+   "q": "Is it okay to wear headphones at work?",
+   "a": "Often, yes, but it depends on your workplace. Many people focus better with headphones, especially in open offices. Watch how your coworkers handle it, keep one ear free if people need to reach you, and take them off for conversations. If you're unsure, just ask your manager. A quick question beats guessing at unwritten rules."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_003.jpg",
+   "n": 2,
+   "q": "How do I ask my boss for clearer instructions?",
+   "a": "Frame it as wanting to get it right: 'Before I start, can I check what a great result looks like and when you need it?' Then repeat back what you heard in a quick summary or follow-up message. Asking good questions upfront shows care, not incompetence. Most managers would much rather clarify early than fix something later."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_039.jpg",
+   "n": 3,
+   "q": "Is it normal to regret taking a new job?",
+   "a": "Very normal, especially in the first few weeks. Everything is unfamiliar, you don't have your routines or work friends yet, and you might miss what felt easy. Give it a couple of months before making big decisions, and notice whether the feeling is about the job itself or just the adjustment. If it's still miserable later, rethinking is okay."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_010.jpg",
+   "n": 4,
+   "q": "How do I fix a typo after I hit send?",
+   "a": "Most of the time, you don't need to. Small typos rarely matter, and people read right past them. If the mistake changes the meaning, like a wrong date, number, or name, send a quick correction: 'Quick fix: the meeting is Thursday, not Tuesday.' No long apology needed. Many email apps also have an undo send setting worth turning on."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_079.jpg",
+   "n": 5,
+   "q": "How do I handle being the youngest on my team?",
+   "a": "Lean into what you bring, like fresh ideas and eagerness to learn, while staying curious about what others know. Ask questions, follow through on what you promise, and come to meetings with a point or two prepared. Being reliable matters far more than your age. If someone keeps dismissing you because of it, a calm, direct conversation is fair."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_054.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "💼",
+   "sub": "comment the number. your boss isn't here"
+  }
+ ]
+}

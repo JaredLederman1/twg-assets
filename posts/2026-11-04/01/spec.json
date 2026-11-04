@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_045.jpg",
+   "kicker": "asking for a friend",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_080.jpg",
+   "n": 1,
+   "q": "Why does cilantro taste like soap to me?",
+   "a": "You're not being dramatic. Some people carry a variation in a smell receptor gene called OR6A2 that makes them extra sensitive to aldehydes, compounds also found in soap. So cilantro really does taste soapy to you. Crushing or cooking it breaks down some of those compounds, which can make it more tolerable."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_087.jpg",
+   "n": 2,
+   "q": "Why do my freckles only show up in summer?",
+   "a": "Freckles are spots where your skin makes extra melanin when sunlight hits it. More sun in summer means they darken and seem to multiply, then they fade again in winter. It's a sign your skin is reacting to UV, so sunscreen helps keep them lighter. Worth seeing a doctor if a spot changes shape, grows, or bleeds."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_019.jpg",
+   "n": 3,
+   "q": "Why do my teeth feel fuzzy when I wake up?",
+   "a": "That fuzzy feeling is plaque, a soft film of bacteria that builds up on your teeth. Overnight you make much less saliva, which normally helps rinse it away, so it piles up faster. Brushing before bed and again in the morning clears it. Worth seeing a dentist if your gums bleed a lot or feel sore."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_069.jpg",
+   "n": 4,
+   "q": "Why do I only have one dimple?",
+   "a": "Dimples usually come from a small variation in a cheek muscle, and that variation doesn't have to happen on both sides. Having just one is common and completely normal. They often seem to run in families, though the genetics aren't simple, and some dimples even fade or appear as your face changes with age."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_096.jpg",
+   "n": 5,
+   "q": "Why do my fingers smell like garlic for hours?",
+   "a": "Garlic is packed with sulfur compounds that cling to your skin, so the smell hangs around long after you rinse. Washing with soap and cool water helps, and rubbing your hands on stainless steel is a kitchen trick plenty of people swear by. It's completely harmless and usually fades within a day."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_082.jpg",
+   "title": "Which one was secretly you?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

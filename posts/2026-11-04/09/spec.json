@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_012.jpg",
+   "kicker": "be honest…",
+   "title": "Friendship questions nobody talks about",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_007.jpg",
+   "n": 1,
+   "q": "What do I do when my friend group splits up?",
+   "a": "It can feel like losing a whole world at once. You don't have to pick a side unless something serious happened. Keep seeing friends one-on-one, be honest about wanting to stay neutral, and avoid passing messages between people. Some friendships may fade, and that's okay. Invest in the people who feel easiest to be around."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_047.jpg",
+   "n": 2,
+   "q": "How do I support a friend going through a breakup?",
+   "a": "Show up more than you advise. Check in with a text, invite them out without pressure, and let them tell the story as many times as they need. Go easy on trashing their ex, since they might get back together. Food, a walk, or a movie night all help. Gently encourage extra support if they're struggling for weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_025.jpg",
+   "n": 3,
+   "q": "How do I tell a friend I want to see them more?",
+   "a": "Say it warmly and make it easy: 'I miss you and I'd love to see you more. Want to make a standing plan, like coffee every other Sunday?' A specific idea beats a vague 'we should hang.' Most people feel flattered, not pressured. If their schedule is packed, suggest something low effort, like a call while you both run errands."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_080.jpg",
+   "n": 4,
+   "q": "How do I handle a friend who earns way more than me?",
+   "a": "Be upfront about your budget before plans get made: 'I'm keeping things cheap this month, can we do something low key?' Good friends will adjust. Suggest free or cheaper plans you'd both enjoy, and know it's okay to say no to pricey trips. If they offer to cover something, you can accept graciously or return the favor in other ways."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_049.jpg",
+   "n": 5,
+   "q": "How do I get a friend to return something they borrowed?",
+   "a": "Keep it casual and specific: 'Hey, could I grab my blue jacket next time we hang out? I want to wear it this weekend.' Giving a reason and a time makes it easy to say yes, and most people just forgot. If it keeps happening, it's fair to stop lending things, or to only lend what you wouldn't miss."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_070.jpg",
+   "title": "Which friend are you?",
+   "emoji": "🫂",
+   "sub": "comment the number. tag the friend if you dare"
+  }
+ ]
+}

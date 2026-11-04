@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_033.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions you'd never ask out loud",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_029.jpg",
+   "n": 1,
+   "q": "Should I floss before or after brushing?",
+   "a": "Either works. Dental experts say the most important thing is cleaning between your teeth once a day. Some people like flossing first so loosened bits get brushed away and toothpaste reaches more surfaces. Pick the order you'll actually stick with. Worth seeing a dentist if flossing is painful or your gums stay swollen."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_045.jpg",
+   "n": 2,
+   "q": "Is it better to shower in the morning or at night?",
+   "a": "Both are fine, so it comes down to what you need. A morning shower can help you wake up and feel fresh. A night shower washes off the day's sweat and grime before you get into bed, and the cool-down afterward may help some people fall asleep. If you sweat a lot during the day, rinsing before bed helps."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_071.jpg",
+   "n": 3,
+   "q": "Is it gross to share a bar of soap?",
+   "a": "It sounds gross, but research suggests germs don't easily spread from bar soap to the next person, since lathering and rinsing wash most of them away. Letting the bar dry out between uses on a draining dish helps too. If someone in your home has a skin infection, or it just feels weird to you, switch to liquid soap."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_013.jpg",
+   "n": 4,
+   "q": "How often should I clean my yoga mat?",
+   "a": "A quick wipe after sweaty sessions is a good habit, since sweat and skin oils build up fast. Give it a deeper clean every few weeks, or more often if you use it daily, with mild soap and water or whatever your mat's maker recommends. Let it dry completely before rolling it up so it doesn't get musty."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_063.jpg",
+   "n": 5,
+   "q": "Is it gross to wear socks two days in a row?",
+   "a": "A little, yes. Your feet have loads of sweat glands, and socks soak up that sweat, giving bacteria a cozy place to grow and smell. That's how foot odor builds up. A fresh pair each day is best, especially if you work out. Worth seeing a doctor if you notice itching, peeling, or a rash between your toes."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_066.jpg",
+   "title": "Which one were you guilty of?",
+   "emoji": "🧼",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

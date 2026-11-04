@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_040.jpg",
+   "kicker": "asking for a friend",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_065.jpg",
+   "n": 1,
+   "q": "How do I handle a breakup when we still work together?",
+   "a": "Keep it simple and professional: be polite, stick to work topics, and skip the hallway debriefs with coworkers. Vent to friends outside the office instead. Give yourself permission to take breaks, eat lunch elsewhere, or mute their status for a while. If things turn hostile or uncomfortable, it's reasonable to loop in your manager or HR."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_009.jpg",
+   "n": 2,
+   "q": "Why do I want to change my hair after a breakup?",
+   "a": "A breakup can make so much feel out of your control, and your hair is one thing you can change right now. It's a quick, visible way to mark a fresh start and feel like yourself again. Totally normal. If you're tempted by something drastic, try a smaller change first and see how it feels."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_076.jpg",
+   "n": 3,
+   "q": "Why do I miss the routine more than the person?",
+   "a": "Relationships build habits: the good morning text, the Sunday plans, someone to tell about your day. When that disappears, the empty spaces can hurt even if you know the breakup was right. Missing the routine doesn't mean you should go back. Try filling those familiar time slots with new rituals, friends, or plans that feel like yours."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_075.jpg",
+   "n": 4,
+   "q": "Is it okay to stay in touch with my ex's family?",
+   "a": "It can be, especially if you were close for years. Just check your motives and keep things light at first, so it's about those relationships and not a back door to your ex. Giving your ex a heads up is kind. If staying in touch keeps reopening the wound, it's okay to step back for a while."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_041.jpg",
+   "n": 5,
+   "q": "How do I move out when we still live together?",
+   "a": "Start by agreeing on a move-out date and who's staying, ideally in writing if there's a lease involved. Split shared things fairly and quickly so it doesn't drag on. Spend time with friends while you pack so home feels less heavy. If things get tense, ask a friend to be there on moving day for support."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_085.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "💔",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

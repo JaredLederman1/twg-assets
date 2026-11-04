@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_094.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_050.jpg",
+   "n": 1,
+   "q": "Why do I get a sharp pain in the middle of my cycle?",
+   "a": "That's often mittelschmerz, German for middle pain. Around ovulation, some people feel a twinge or cramp on one side of the lower belly that lasts from a few minutes to a day or two. It's common and usually harmless. Worth seeing a doctor if the pain is severe, lasts longer, or comes with fever or vomiting."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_074.jpg",
+   "n": 2,
+   "q": "Why do I poop more on my period?",
+   "a": "Your body releases chemicals called prostaglandins to help your uterus contract, and they can make your bowels contract too. That's why so many people get looser or more frequent poops during their period. It's very common. Worth seeing a doctor if you have severe pain, blood in your stool, or changes that last beyond your period."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_039.jpg",
+   "n": 3,
+   "q": "Why do I get dizzy in a hot shower?",
+   "a": "Heat widens your blood vessels, which can make your blood pressure dip, especially if you're dehydrated, haven't eaten, or are standing still for a while. Less blood reaches your brain for a moment, so you feel lightheaded. Try slightly cooler water and sit down if it hits. Worth seeing a doctor if you faint or it happens often."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_051.jpg",
+   "n": 4,
+   "q": "Is it bad that I haven't been to the doctor in years?",
+   "a": "You're definitely not alone, and it's never too late to go. Regular checkups can catch things like high blood pressure or high cholesterol, which often have no symptoms at all. A good doctor won't scold you for the gap. Book a routine physical, be honest about how long it's been, and bring the questions you've been saving."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_006.jpg",
+   "n": 5,
+   "q": "How often should I actually get my teeth cleaned?",
+   "a": "For many people, a checkup and cleaning every six months is the usual advice, but some need it more or less often depending on their gums and cavity risk. Cleanings remove hardened tartar that brushing can't. Your dentist can tell you your right schedule. Go sooner if your gums bleed often, a tooth hurts, or something feels off."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_079.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "🩺",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

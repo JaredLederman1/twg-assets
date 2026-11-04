@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_052.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things nobody tells you about getting older",
+   "emoji": "⏳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_031.jpg",
+   "n": 1,
+   "q": "Why do I like vegetables now that I hated as a kid?",
+   "a": "Kids tend to be more sensitive to bitter flavors, which is why broccoli or Brussels sprouts can taste awful when you're young. As you get older that sensitivity often fades, and years of trying foods help too. Your taste really can change. Plus, roasting brings out a sweetness that plain boiled veggies from childhood never had."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_087.jpg",
+   "n": 2,
+   "q": "Why am I getting allergies as an adult?",
+   "a": "Allergies can show up at any age, even to things you never reacted to before, like pollen, pets, or certain foods. Moving somewhere new, new exposures, and changes in your immune system may play a role, though experts don't fully know why. Worth seeing a doctor to get tested, and get emergency help for swelling or trouble breathing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_043.jpg",
+   "n": 3,
+   "q": "Why are my toenails getting thicker?",
+   "a": "As you age, nails grow more slowly, so layers build up and toenails can get thicker and harder to trim. Tight shoes and old injuries can add to it. Soaking your feet first makes trimming easier. Worth seeing a doctor if a nail turns yellow, crumbly, or painful, since fungal infections are common and treatable."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_006.jpg",
+   "n": 4,
+   "q": "Why is my skin getting so dry as I get older?",
+   "a": "With age, your skin makes less oil and holds onto water less well, so it dries out more easily, especially in winter. Shorter, lukewarm showers and a fragrance-free moisturizer right afterward help lock in moisture, and a humidifier can help too. Worth seeing a doctor if the itching is intense, your skin cracks, or it keeps you up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_047.jpg",
+   "n": 5,
+   "q": "Why do I care less about what people think now?",
+   "a": "Lots of people notice this with age. Research suggests that as we get older, we focus more on meaningful relationships and less on impressing everyone. Experience also teaches you that most people are busy thinking about themselves, not you. It's a pretty great upgrade. Lean into it, while staying kind and open to feedback from people you trust."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_070.jpg",
+   "title": "Which one hit you this year?",
+   "emoji": "⏳",
+   "sub": "comment the number. we're all getting older"
+  }
+ ]
+}

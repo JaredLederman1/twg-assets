@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_049.jpg",
+   "kicker": "asking for a friend",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_007.jpg",
+   "n": 1,
+   "q": "Is it okay to leave a job off my resume?",
+   "a": "Usually, yes. A resume is a highlight reel, not a full history, so you can leave out short or unrelated jobs. The one exception: if an application or background check asks for your complete work history, list everything honestly there. Leaving something off is fine. Making something up is what gets people in trouble."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_036.jpg",
+   "n": 2,
+   "q": "How do I explain a gap on my resume?",
+   "a": "Keep it short and honest. Gaps are really common, whether from caregiving, health, layoffs or just needing a break. Something like \"I took time off to care for a family member and I'm excited to get back to work\" is plenty. Then steer toward what you learned and why you're a good fit now."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_045.jpg",
+   "n": 3,
+   "q": "How do I turn down a job offer politely?",
+   "a": "Do it promptly, ideally by phone or email within a day or two of deciding. Thank them for their time, say you've decided to go another direction, and keep the reason short or skip it. Something like \"I'd love to stay in touch\" leaves the door open. People decline offers all the time, so it won't be weird."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_010.jpg",
+   "n": 4,
+   "q": "How do I tell a coworker their fly is down?",
+   "a": "Quickly, quietly and casually. Catch them alone and say something like \"hey, quick heads up, your zipper's down.\" Then move right on so it doesn't become a thing. Most people would much rather hear it from you than realize after a big meeting. If you're not comfortable, a quick private message works too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_049.jpg",
+   "n": 5,
+   "q": "Do I have to tell my job I have a side hustle?",
+   "a": "In many cases you don't have to, but check your employment contract and handbook first. Some jobs have rules about outside work, conflicts of interest, or who owns what you create. Avoid using work time or equipment for it. If the side gig is close to what your company does, asking HR is the safest move."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_019.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "😅",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

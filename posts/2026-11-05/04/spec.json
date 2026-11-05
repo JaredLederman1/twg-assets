@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_058.jpg",
+   "kicker": "be honest…",
+   "title": "Hygiene questions you're too scared to Google",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_086.jpg",
+   "n": 1,
+   "q": "Is hand sanitizer as good as washing my hands?",
+   "a": "Not quite, but it's a solid backup. Sanitizer with at least 60% alcohol kills many germs when you can't get to a sink. It doesn't work well on hands that are visibly dirty or greasy, and it's weaker against some bugs, like the stomach virus norovirus. Soap and water for 20 seconds is still the gold standard."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_004.jpg",
+   "n": 2,
+   "q": "Should I shave with the grain or against it?",
+   "a": "Shaving with the grain, the direction your hair grows, is gentler and causes fewer razor bumps and ingrown hairs. Going against it gives a closer shave but irritates skin more. A sharp blade, warm water and a shaving gel help either way. If you get bumps a lot, try going with the grain for a while and see."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_047.jpg",
+   "n": 3,
+   "q": "Is it gross to share earbuds?",
+   "a": "It's not dangerous, but it's not super clean. Earbuds pick up earwax, sweat and bacteria, and sharing them passes that back and forth. For a quick song with a friend, the risk is low. Just wipe them with an alcohol wipe afterward, and skip sharing if either of you has an ear infection or irritated ears."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_083.jpg",
+   "n": 4,
+   "q": "Is it bad to pick my nose?",
+   "a": "Pretty much everyone does it, so you're not alone. The downsides: fingernails can scratch the delicate lining inside your nose, causing nosebleeds or sores, and your hands can spread germs in and out. Blowing your nose into a tissue is gentler. A humidifier helps if dry, crusty boogers are what's making you pick."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_056.jpg",
+   "n": 5,
+   "q": "How often should I wash my shower curtain liner?",
+   "a": "About once a month is a good habit. That pink slime that shows up is usually a bacteria called Serratia marcescens, and black spots are often mildew. Many liners can go in the washing machine with a couple of towels. Leave the curtain spread out after showering so it dries, and replace it if mildew won't come off."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_084.jpg",
+   "title": "Which one were you guilty of?",
+   "emoji": "🙈",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

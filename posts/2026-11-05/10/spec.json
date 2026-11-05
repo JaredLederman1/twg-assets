@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_025.jpg",
+   "kicker": "no judgement",
+   "title": "Therapy questions you're too nervous to ask",
+   "emoji": "🛋️"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_064.jpg",
+   "n": 1,
+   "q": "Is it okay to go to therapy for small stuff?",
+   "a": "Absolutely. You don't need a crisis to see a therapist. Plenty of people go for stress at work, relationship stuff, big life changes, or just feeling stuck. Working on smaller things early can keep them from snowballing. Think of it like going to the gym for your mind. Wanting support is reason enough."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_044.jpg",
+   "n": 2,
+   "q": "How do I find a therapist I can afford?",
+   "a": "Start with your insurance's provider list, which can lower costs a lot. Many therapists offer sliding scale fees based on income. Community mental health centers and university training clinics are often cheaper too. Check if your job has an employee assistance program, which sometimes covers a few free sessions."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_012.jpg",
+   "n": 3,
+   "q": "Is it normal to be nervous before my first therapy session?",
+   "a": "Very normal. Most first sessions are mostly getting to know you: what brought you in, a bit of background, and what you'd like to work on. The therapist usually leads. You can share at your own pace, and it's completely fine to say \"I'm nervous\" out loud. Therapists hear that all the time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_016.jpg",
+   "n": 4,
+   "q": "How do I know if my therapist is a good fit?",
+   "a": "Pay attention to how you feel with them. Research shows the relationship between you and your therapist is one of the biggest predictors of whether therapy helps. You should feel listened to, respected and not judged. Give it a few sessions, but if it still feels off, switching is totally normal and okay."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_045.jpg",
+   "n": 5,
+   "q": "Why do I yawn when I'm nervous?",
+   "a": "Yawning isn't just about being tired. People often yawn before stressful moments, and athletes and performers do it before big events. Scientists think yawning may help regulate alertness or even cool the brain a bit. So a nervous yawn is just your body trying to reset, not a sign that you're bored."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_039.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "💛",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

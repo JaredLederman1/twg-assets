@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_098.jpg",
+   "kicker": "no judgement",
+   "title": "Money questions you're scared to ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_028.jpg",
+   "n": 1,
+   "q": "What's a Roth 401(k)?",
+   "a": "It's a version of a work retirement account where you pay tax on the money now, and qualified withdrawals in retirement come out tax-free. A traditional 401(k) is the reverse: it lowers your taxes now, but you pay tax when you take money out later. Some workplaces offer both. A money pro can help you pick."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_035.jpg",
+   "n": 2,
+   "q": "What's an FSA?",
+   "a": "A flexible spending account is a work benefit that lets you set aside money before taxes to pay for things like copays, prescriptions and glasses. That saves you money on medical costs you already expect. The catch: many plans are use it or lose it, though some allow a small carryover or a grace period. Check your plan's rules."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_032.jpg",
+   "n": 3,
+   "q": "What does 'pre-approved' on a credit card offer mean?",
+   "a": "Not as much as it sounds. It means the company checked limited info about your credit and thinks you might qualify. You still have to apply, which usually means a hard credit check, and you can still be turned down. Those offers aren't a guarantee or a sign you should open a new card."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_002.jpg",
+   "n": 4,
+   "q": "Can I ask my credit card company to waive a late fee?",
+   "a": "Yes, and it often works. Call the number on your card, explain what happened, and politely ask if they can waive the fee. Many companies will do it as a courtesy, especially if you usually pay on time. It's not guaranteed, but it costs you nothing to ask. Setting up autopay helps it not happen again."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_085.jpg",
+   "n": 5,
+   "q": "What does 'net 30' mean on an invoice?",
+   "a": "It means payment is due within 30 days, usually counted from the invoice date. Net 15 or net 60 work the same way with different deadlines. If you freelance, put the due date and terms right on your invoice so there's no confusion, and it's completely fine to send a friendly reminder once that date passes."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_073.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💰",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_041.jpg",
+   "kicker": "asking for a friend",
+   "title": "Family questions you'd never ask at dinner",
+   "emoji": "🍽️"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_050.jpg",
+   "n": 1,
+   "q": "How do I set boundaries with my in-laws?",
+   "a": "Start with your partner, not the in-laws. Agree on the boundary together, then let each of you handle your own family, since it usually lands better coming from their own kid. Keep it kind and specific, like \"please call before you come over.\" Being a united front matters more than finding the perfect wording."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_068.jpg",
+   "n": 2,
+   "q": "How do I tell my family I don't want a big wedding?",
+   "a": "Tell them early, together with your partner if you have one, so it's clearly a shared decision. Keep the reason short, like \"we want something small that feels like us.\" Expect some disappointment and let them feel it. Offering another way to celebrate, like a family dinner, helps them feel included."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_023.jpg",
+   "n": 3,
+   "q": "How do I ask my parents if they're okay for retirement?",
+   "a": "Come at it with care, not worry. Try \"I want to be ready to help if you ever need it, can we talk about your plans?\" Ask whether they have savings, a will, and someone named to make decisions if they can't. Expect it to take a few conversations. Some parents feel relieved someone finally asked."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_051.jpg",
+   "n": 4,
+   "q": "How do I tell my friend I don't want to be roommates anymore?",
+   "a": "Tell them well before the lease renewal so they have time to plan. Do it in person, be honest but kind, and focus on your needs rather than their flaws, like \"I've realized I want to live on my own.\" Offer to help with the logistics. Ending a living situation doesn't have to end the friendship."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_081.jpg",
+   "n": 5,
+   "q": "Is it rude to bring a plus-one without asking?",
+   "a": "Usually, yes. Hosts plan food, space and costs around a headcount, so an extra guest can throw things off, especially at weddings or dinners. The invite tells you who's included. If it's unclear, just ask the host, like \"is it okay if I bring someone?\" Most hosts appreciate the heads up either way."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_081.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "😬",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

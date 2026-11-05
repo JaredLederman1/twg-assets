@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_057.jpg",
+   "kicker": "no judgement",
+   "title": "Period questions you'd never ask out loud",
+   "emoji": "🫢"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_023.jpg",
+   "n": 1,
+   "q": "Is it normal for my period blood to be dark brown?",
+   "a": "Yes, very common. Brown blood is usually just older blood that took longer to leave your body and darkened as it met oxygen. You'll often see it at the very start or end of your period. Worth seeing a doctor if it comes with a strong smell, itching, pain, or shows up often between periods."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_053.jpg",
+   "n": 2,
+   "q": "Is it normal to pass clots on my period?",
+   "a": "Small clots are common, especially on heavier days. Your body releases substances that help blood flow, and when it's coming out fast, some of it clumps together. Usually nothing to worry about. Worth seeing a doctor if clots are bigger than a quarter, or you're soaking through a pad or tampon every hour for a few hours."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_074.jpg",
+   "n": 3,
+   "q": "Why do my period cramps hurt in my lower back?",
+   "a": "Cramps come from your uterus contracting, triggered by chemicals called prostaglandins, and that pain can spread to your lower back and thighs. It's really common. A heating pad on your back or belly helps a lot of people. Worth seeing a doctor if the pain stops you from doing normal things or gets worse over time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_047.jpg",
+   "n": 4,
+   "q": "Why do my boobs hurt right before my period?",
+   "a": "Hormone shifts before your period can make breast tissue swell and feel tender, heavy or sore. It usually eases once your period starts. A supportive bra and a warm or cool compress can help. Worth seeing a doctor if you feel a new lump, have pain in one spot that doesn't follow your cycle, or notice nipple discharge."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_058.jpg",
+   "n": 5,
+   "q": "Why do I break out right before my period?",
+   "a": "In the days before your period, hormone changes can make your skin produce more oil, and that extra oil can clog pores and lead to pimples, often along your chin and jaw. It's super common and usually calms down after your period starts. Worth seeing a doctor or dermatologist if breakouts are painful, deep, or leaving scars."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_040.jpg",
+   "title": "Which one have you wondered?",
+   "emoji": "🩷",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

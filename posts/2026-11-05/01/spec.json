@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_077.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_018.jpg",
+   "n": 1,
+   "q": "Why do I see spots after looking at a bright light?",
+   "a": "Those spots are called afterimages. A bright light briefly overworks the light-sensing cells in your retina, so they keep sending a signal for a few seconds after you look away. It's harmless and fades quickly. Never stare at the sun, though. Worth seeing an eye doctor if spots linger for minutes or show up out of nowhere."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_095.jpg",
+   "n": 2,
+   "q": "Why is my leg hair thinner where my jeans rub?",
+   "a": "Constant friction from tight jeans, boots or socks can wear down and break off leg hair over time, leaving smoother patches. It usually grows back once the rubbing stops. Worth seeing a doctor if the hair loss comes with cold feet, color changes in your skin, or leg pain when you walk, since that can point to circulation issues."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_034.jpg",
+   "n": 3,
+   "q": "Why does my voice sound deeper in the morning?",
+   "a": "Your vocal cords rest all night and can be a little swollen and dry when you wake up, plus mucus collects in your throat. Slightly thicker vocal cords vibrate more slowly, so your voice comes out lower and raspier. It usually evens out once you drink some water and start talking. Worth seeing a doctor if hoarseness lasts weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_003.jpg",
+   "n": 4,
+   "q": "Why do my eyes water when I laugh really hard?",
+   "a": "When you laugh hard, the muscles around your eyes squeeze tight and press on your tear glands, pushing tears out. Strong emotions of any kind can also trigger tears, even happy ones. So crying from laughing is just your face doing a full-body reaction to something funny. It's completely normal and actually pretty wholesome."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_055.jpg",
+   "n": 5,
+   "q": "Why does food taste so bland when I have a cold?",
+   "a": "Most of what you think of as flavor actually comes from smell. Your tongue only picks up basics like sweet, salty, sour, bitter and savory. When your nose is blocked, aromas can't reach your smell receptors, so food tastes flat. It comes back as the cold clears. Worth seeing a doctor if your smell hasn't returned after a few weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_017.jpg",
+   "title": "Which one have you wondered?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

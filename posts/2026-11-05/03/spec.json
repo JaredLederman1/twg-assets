@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_014.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_053.jpg",
+   "n": 1,
+   "q": "Is it bad to sleep with my phone next to my pillow?",
+   "a": "Research so far hasn't shown that phone signals near your head at night harm your health. The bigger issues are buzzing notifications and screen light waking you up. Never charge it under your pillow, since phones can overheat. Putting it face down, on do not disturb, or across the room is an easy win for better sleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_031.jpg",
+   "n": 2,
+   "q": "Is it bad to let my pet sleep in my bed?",
+   "a": "For most healthy people it's fine, and plenty of people find it comforting. The tradeoffs: pets can wake you up by moving around, and fur and dander can bother allergies or asthma. Keeping their flea and worm treatments up to date matters more when they share your bed. If you're sleeping badly, try giving them their own spot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_021.jpg",
+   "n": 3,
+   "q": "Is it bad to sleep in a bra?",
+   "a": "There's no good evidence that sleeping in a bra causes health problems, including the old myth about breast cancer. It mostly comes down to comfort. A soft, wire-free bra is usually nicer overnight, and anything too tight can dig in or irritate your skin. Some people with larger chests just feel more supported wearing one."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_074.jpg",
+   "n": 4,
+   "q": "Why does light hurt my eyes when I first wake up?",
+   "a": "In the dark, your pupils open wide and your eyes adjust to low light. When you suddenly flip on a light, a flood of light pours in before your pupils have time to shrink, which can feel almost painful. It settles within seconds. Worth seeing a doctor if light sensitivity sticks around or comes with eye pain or headaches."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_037.jpg",
+   "n": 5,
+   "q": "Why do I get sleepy when someone plays with my hair?",
+   "a": "Your skin has special nerve fibers that respond best to slow, gentle stroking, like someone playing with your hair. Research links that kind of touch to feeling calm and safe, and it can help your body shift out of alert mode. So getting drowsy is a pretty normal reaction. It's basically a built-in relaxation button."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_079.jpg",
+   "title": "Which one is you at night?",
+   "emoji": "😴",
+   "sub": "comment the number. we're all awake too"
+  }
+ ]
+}

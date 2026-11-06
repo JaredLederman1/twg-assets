@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_056.jpg",
+   "kicker": "asking for a friend",
+   "title": "Dating questions you'd never ask out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_048.jpg",
+   "n": 1,
+   "q": "Is it weird to ask for a second date right away?",
+   "a": "Not weird at all if you had a good time. Saying so at the end of the date or the next day comes across as confident and clear. Keep it light, like \"I had fun, want to do this again?\" If they're not feeling it, you'll find out fast, which is honestly better than guessing for a week."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_060.jpg",
+   "n": 2,
+   "q": "Should I follow my date on social media?",
+   "a": "There's no rule, but many people wait a few dates so they get to know the real person before the highlight reel. Following early is fine if it feels mutual. Just try not to deep-scroll years back, because old posts give you a weird, incomplete picture and make the next date feel strangely one-sided."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_071.jpg",
+   "n": 3,
+   "q": "Is it a red flag if they're still on the dating apps?",
+   "a": "Not by itself. Early on, before you've talked about being exclusive, it's normal for both people to still be on the apps. If you want to be exclusive, that's a conversation to have out loud. It's only a real concern if they're still active after you've both agreed to stop."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_090.jpg",
+   "n": 4,
+   "q": "What if I'm not attracted to them right away?",
+   "a": "That's really common. For a lot of people, attraction grows as they get to know someone's humor, kindness and the way they treat them. If you enjoy their company, giving it a few more dates is reasonable. But if you still feel no pull after several dates, it's okay to move on kindly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_005.jpg",
+   "n": 5,
+   "q": "How do I flirt over text without being cringe?",
+   "a": "Keep it playful and specific. Bring up something from your last conversation, tease lightly, ask real questions and give compliments about things they chose, not just their looks. Try to match their energy and message length. And don't overthink it. A little bit of cringe is just part of being a human who likes someone."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_062.jpg",
+   "title": "Which one is so you?",
+   "emoji": "💘",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

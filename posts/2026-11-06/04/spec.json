@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_025.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_054.jpg",
+   "n": 1,
+   "q": "Is it normal for one testicle to hang lower than the other?",
+   "a": "Totally normal. For most people one side, usually the left, hangs a little lower, and one may be slightly bigger too. It's just how the anatomy works. What matters is change. Worth seeing a doctor if you notice a lump, swelling or heaviness, and get care right away for sudden, severe pain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_094.jpg",
+   "n": 2,
+   "q": "Why do I feel like I always need to clear my throat?",
+   "a": "Usually it's mucus dripping down the back of your throat from allergies or a cold, known as postnasal drip. Acid reflux, dry air and simple habit are other common causes, and constant clearing can irritate your throat even more. Sipping water and swallowing instead often helps. Worth seeing a doctor if it lasts more than a few weeks."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_066.jpg",
+   "n": 3,
+   "q": "Should I worry if one of my moles looks different?",
+   "a": "Changes are worth paying attention to. Doctors use ABCDE: Asymmetry, uneven Borders, more than one Color, a Diameter bigger than a pencil eraser, and Evolving, meaning it's changing. Most changes turn out to be harmless, but a quick skin check is easy. Worth seeing a doctor or dermatologist for any mole that's changing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_012.jpg",
+   "n": 4,
+   "q": "Why is there a little blood when I wipe after pooping?",
+   "a": "Bright red blood on the paper is often from a hemorrhoid or a small tear, usually caused by straining or constipation. That's common and very treatable. Still, it's always worth mentioning to a doctor, especially if it keeps happening, looks dark, is mixed into your poop, or comes with tiredness or weight loss."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_033.jpg",
+   "n": 5,
+   "q": "Is it normal for sex to hurt sometimes?",
+   "a": "It's common, but it's not something you should just push through. Pain can come from not enough arousal or lubrication, tension, dryness from hormones or medications, infections, or conditions like endometriosis. Slowing down and using lube helps a lot of people. Worth seeing a doctor or gynecologist if it hurts regularly."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_073.jpg",
+   "title": "Which one were you too shy to ask?",
+   "emoji": "🩺",
+   "sub": "comment the number. your secret's safe"
+  }
+ ]
+}

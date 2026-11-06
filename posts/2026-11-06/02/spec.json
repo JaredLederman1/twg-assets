@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_057.jpg",
+   "kicker": "no judgement",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_069.jpg",
+   "n": 1,
+   "q": "Why do I have to do a huge stretch the second I wake up?",
+   "a": "That full-body morning stretch even has a name: pandiculation. After hours of lying still, your muscles feel tight and your blood flow is sluggish. A big stretch gets blood moving, loosens you up and helps your nervous system switch into awake mode. Cats and dogs do it too. It's a completely normal, healthy reflex."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_072.jpg",
+   "n": 2,
+   "q": "Why do I randomly think about someone I haven't seen in years?",
+   "a": "Memories get triggered by tiny cues you don't always notice, like a smell, a song, a phrase or a place that looks familiar. At night, with fewer distractions, your mind wanders more and old connections pop up. It doesn't have to mean anything big. It's just your brain flipping through its archive while things are quiet."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_057.jpg",
+   "n": 3,
+   "q": "Why does my body feel so heavy right before I fall asleep?",
+   "a": "As you drift off, your muscles relax, your breathing and heart rate slow down, and your brain pays less attention to where your body is. That combination creates the heavy, sinking feeling, like you're melting into the mattress. It's a good sign, honestly. It means your body is doing exactly what it should to fall asleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_048.jpg",
+   "n": 4,
+   "q": "Why do I still feel like I'm on a boat when I get in bed?",
+   "a": "After time on a boat, your brain adjusts to the constant rocking. Back on land, it keeps expecting motion, so you feel swaying, especially lying still in bed. People call it land sickness, and it usually fades within hours to a day or two. Worth seeing a doctor if it lasts more than a few days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_068.jpg",
+   "n": 5,
+   "q": "Is it weird that I sleep curled up in a ball?",
+   "a": "Not at all. Side sleeping with your knees pulled up is one of the most common sleep positions. It keeps you warm, can feel safe and cozy, and takes pressure off your lower back for a lot of people. If you wake up stiff or sore, try loosening the curl a bit or sleeping with a pillow between your knees."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_037.jpg",
+   "title": "Which one is you tonight?",
+   "emoji": "🌙",
+   "sub": "comment the number. we're up too"
+  }
+ ]
+}

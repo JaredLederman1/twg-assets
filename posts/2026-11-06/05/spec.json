@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_074.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions you're too scared to Google",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_012.jpg",
+   "n": 1,
+   "q": "What's the actual difference between a credit union and a bank?",
+   "a": "A credit union is a nonprofit owned by its members, while most banks are businesses owned by shareholders. Because of that, credit unions often have lower fees and slightly better rates. Your money is protected either way: banks are insured by the FDIC and credit unions by the NCUA, usually up to $250,000."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_004.jpg",
+   "n": 2,
+   "q": "What does it actually mean to refinance a loan?",
+   "a": "Refinancing means replacing your current loan with a new one, ideally with a lower interest rate or better terms, and using it to pay off the old one. It can lower your monthly payment or total cost. Watch out for fees, and know that stretching the loan out longer can mean paying more interest overall."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_019.jpg",
+   "n": 3,
+   "q": "What does it mean when a stock pays a dividend?",
+   "a": "A dividend is when a company shares part of its profits with people who own its stock, usually paid every quarter as a set amount per share. You can take it as cash or reinvest it to buy more shares. Dividends aren't guaranteed, though. Companies can lower or cut them anytime."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_095.jpg",
+   "n": 4,
+   "q": "Why do some charges say pending on my bank account?",
+   "a": "Pending means the purchase has been approved but hasn't fully gone through yet. The amount can still change, like when a restaurant adds your tip or a gas station places a temporary hold. Most pending charges settle within a few days. If one sticks around much longer or looks wrong, call your bank."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_005.jpg",
+   "n": 5,
+   "q": "How do I ask for a refund without it being awkward?",
+   "a": "Businesses handle refunds all the time, so you're not being difficult. Check the return policy, then be polite and specific: what you bought, what went wrong and what you'd like. Having your receipt or order number helps. If a company won't fix a real problem, your card issuer may let you dispute the charge."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_073.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💸",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

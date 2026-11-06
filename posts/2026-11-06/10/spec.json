@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_051.jpg",
+   "kicker": "no judgement",
+   "title": "Family questions you'd never say over turkey",
+   "emoji": "🦃"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_018.jpg",
+   "n": 1,
+   "q": "Is it bad that I'm closer to my friends than my family?",
+   "a": "Not at all. Lots of people feel more connected to friends, sometimes called chosen family, because you picked them based on shared values and interests. It doesn't mean you love your family less or that something's wrong with you. Relationships shift over a lifetime, and both kinds can matter."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_036.jpg",
+   "n": 2,
+   "q": "How do I get my parents to stop comparing me to my sibling?",
+   "a": "Comparisons sting, even when they're meant to motivate. You can calmly set a boundary: \"I know you mean well, but comparing us makes me feel bad.\" Remind yourself you're on different paths with different timelines. Often comparisons say more about a parent's worries than about your worth."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_001.jpg",
+   "n": 3,
+   "q": "Should I tell my parents I'm in therapy?",
+   "a": "You don't have to. It's your choice. If you want to share, keep it simple: \"I'm seeing someone to help me handle stress, and it's been really helpful.\" Some parents worry it's about them, so a little reassurance goes a long way. Older generations may see therapy differently, and that's okay."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_028.jpg",
+   "n": 4,
+   "q": "How do I ask my parents to stop posting about me online?",
+   "a": "Ask directly, kindly and in private. Something like \"I love that you're proud of me, but can you check with me before posting photos?\" Be specific about what's off-limits, like your kids, your relationship or your job. Most parents mean well and are happy to adjust once they actually know."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_077.jpg",
+   "n": 5,
+   "q": "Why is it so sad that my parents are selling my childhood home?",
+   "a": "A childhood home holds years of memories and a big piece of who you are, so grieving a place is real. It's normal to feel sad even if you haven't lived there in years. Do a last walk-through, take photos and keep a small keepsake. The feelings soften with time, and the memories go with you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_023.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "🦃",
+   "sub": "comment the number. pass the pie"
+  }
+ ]
+}

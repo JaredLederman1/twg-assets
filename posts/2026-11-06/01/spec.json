@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_011.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_084.jpg",
+   "n": 1,
+   "q": "Why does my mouth get so dry when I'm nervous?",
+   "a": "When you're nervous, your body flips into fight-or-flight mode, and one side effect is that your salivary glands slow down. Less spit means that cotton-mouth feeling right before a big talk or a date. Sipping water helps a lot. Worth seeing a doctor if your mouth feels dry all the time, even when you're calm."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_070.jpg",
+   "n": 2,
+   "q": "Why does a vein pop out on my forehead when I laugh?",
+   "a": "Laughing hard, straining, lifting something heavy or bending over all raise the pressure in the veins of your head, so they fill up and become more visible. Thin skin or lower body fat makes them easier to see. It's harmless and goes down when you relax. Worth seeing a doctor if it comes with headaches or pain."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_029.jpg",
+   "n": 3,
+   "q": "Is it weird that my second toe is longer than my big toe?",
+   "a": "Not weird at all. It's a common inherited foot shape, sometimes called Morton's toe or a Greek foot, and plenty of people have it. For most it causes zero problems. Some get calluses or soreness under that toe, and roomier shoes usually help. Worth seeing a podiatrist if it hurts when you walk or run."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_078.jpg",
+   "n": 4,
+   "q": "Why do my eyes look like a different color in different light?",
+   "a": "Your iris color comes from pigment plus the way light scatters through it, so lighting, clothing, makeup and even pupil size can change how your eyes look from day to day. The actual pigment in adult eyes rarely changes. Worth seeing an eye doctor if one eye's color truly changes over time, though."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_083.jpg",
+   "n": 5,
+   "q": "Why does everything taste bitter days after I ate pine nuts?",
+   "a": "That's a real thing called pine mouth. A day or two after eating certain pine nuts, some people get a bitter or metallic taste that can last days or a couple of weeks. Nobody knows exactly why, but it isn't dangerous and goes away on its own. Worth seeing a doctor if taste changes come with no clear cause."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_064.jpg",
+   "title": "Which one was you?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

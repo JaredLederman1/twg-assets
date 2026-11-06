@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_027.jpg",
+   "kicker": "be honest…",
+   "title": "Hygiene questions you'd never admit to",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_034.jpg",
+   "n": 1,
+   "q": "Do I really need to wash my gym clothes after every workout?",
+   "a": "Pretty much, yes. Sweat plus the bacteria on your skin is what makes workout clothes smell, and rewearing them can lead to irritation or breakouts. Leggings, sports bras and shirts should get washed after each sweaty session. Don't leave them balled up in your gym bag, either. Wash them soon or let them air out first."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_021.jpg",
+   "n": 2,
+   "q": "How often should I wash my comforter?",
+   "a": "If you use a duvet cover or a top sheet, washing the comforter itself a few times a year is usually plenty. If you sleep directly under it, aim for more often, like every month or two. Check the care label first, since big comforters sometimes need a large machine at the laundromat."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_099.jpg",
+   "n": 3,
+   "q": "Should I wash my face with hot or cold water?",
+   "a": "Lukewarm is the sweet spot. Hot water can strip your skin's natural oils and leave it dry or irritated, especially in winter. Cold water is gentle but isn't great at breaking down oil and sunscreen. Wash with lukewarm, and finish with a cool splash if you like how it feels. Pat dry instead of rubbing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_061.jpg",
+   "n": 4,
+   "q": "Is it actually gross to wear shoes in the house?",
+   "a": "Shoe soles pick up bacteria, dirt and whatever is on the sidewalk, and they track it onto your floors. That's why a lot of people leave them at the door. It matters most if you have babies crawling around or pets on the floor. Keeping a pair of indoor-only slippers is an easy middle ground."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_006.jpg",
+   "n": 5,
+   "q": "Is it bad to use dry shampoo instead of washing my hair?",
+   "a": "Using it for a day or two between washes is fine. Dry shampoo soaks up oil, but it doesn't actually clean your scalp. Leaning on it for too long can leave buildup that makes your scalp itchy or flaky. Use it as a bridge, not a replacement, and give your scalp a real wash regularly."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_048.jpg",
+   "title": "Which one were you guilty of?",
+   "emoji": "🧼",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

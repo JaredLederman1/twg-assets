@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_059.jpg",
+   "kicker": "no judgement",
+   "title": "Work questions you're too scared to Google",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_091.jpg",
+   "n": 1,
+   "q": "Is it weird to ask my coworkers how much they make?",
+   "a": "It's becoming a lot more normal. In the US, federal law protects most private-sector employees' right to talk about pay, even if a company discourages it. Ask privately, and offer your own number first so it feels fair. Knowing what others earn is one of the easiest ways to spot if you're underpaid."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_054.jpg",
+   "n": 2,
+   "q": "How do I ask my boss if I can work from home more?",
+   "a": "Make it about results. Show that you're getting your work done, then suggest something specific, like two remote days a week, and explain how you'll stay reachable. Offering a trial period makes it much easier for them to say yes. Bring it up in a one-on-one instead of springing it on them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_007.jpg",
+   "n": 3,
+   "q": "What am I supposed to say in my performance review?",
+   "a": "Come prepared with a short list of your wins, ideally with numbers, plus what you've learned and where you want to grow. Ask what it would take to reach the next level. If feedback stings, say thanks, ask for examples and respond later once you've thought it through. It's a conversation, not a verdict."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_076.jpg",
+   "n": 4,
+   "q": "How do I get better at small talk with coworkers?",
+   "a": "Keep a few easy questions ready: how was your weekend, any plans coming up, what are you working on. Then remember small details and follow up later, like asking how their kid's game went. Nobody expects deep conversation by the coffee machine. Being curious matters way more than being funny."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_062.jpg",
+   "n": 5,
+   "q": "Is it okay to say no to a work trip?",
+   "a": "Often, yes, depending on your role. If travel isn't really part of your job, you can decline politely, share a reason if you want to and offer an alternative like joining virtually. If travel is a core part of the job, it's worth a bigger conversation with your manager about what works for you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_077.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "💼",
+   "sub": "comment the number. HR isn't watching"
+  }
+ ]
+}

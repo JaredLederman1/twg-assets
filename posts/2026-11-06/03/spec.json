@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_033.jpg",
+   "kicker": "asking for a friend",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_082.jpg",
+   "n": 1,
+   "q": "Why do I only remember the good parts now that it's over?",
+   "a": "Your brain is doing something called euphoric recall. It replays the highs and quietly edits out the lows, especially when you're lonely. Try writing down the real reasons it ended and reread the list when the nostalgia hits. Missing the good parts is normal. It doesn't mean the relationship should have kept going."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_076.jpg",
+   "n": 2,
+   "q": "Why are the holidays so much harder after a breakup?",
+   "a": "The first holidays after a breakup are rough. Old traditions, family asking where they are, and couples everywhere all poke the bruise. Planning ahead helps: decide who you'll spend time with, have a short answer ready for awkward questions, and start one small new tradition. It really does get easier each year."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_090.jpg",
+   "n": 3,
+   "q": "How do I know if I'm actually over them?",
+   "a": "A few signs: you think about them less, you can hear their name without spiraling, you stop checking their socials, and you feel curious about your own future again. Healing isn't a straight line, so a random bad day doesn't erase your progress. If you're asking, you're probably closer than you think."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_020.jpg",
+   "n": 4,
+   "q": "Is it okay to cry over someone I only dated for a month?",
+   "a": "Yes. Short relationships can still hurt a lot, because you're grieving the hope of what it could have become, not just the time you had. Early dating also comes with intense feelings that make the drop feel sharp. How long it lasted doesn't decide how much it's allowed to hurt. Let yourself feel it. It usually passes faster."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_081.jpg",
+   "n": 5,
+   "q": "Is it weird to write a letter to my ex I'll never send?",
+   "a": "Not weird at all. Therapists actually suggest it. Writing about your feelings can help you process them and say everything you never got to say, without reopening contact or starting a new fight. When you're done, you can keep it, delete it or tear it up. The point is getting it out of your head, not getting a reply."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_056.jpg",
+   "title": "Which one are you in right now?",
+   "emoji": "💔",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

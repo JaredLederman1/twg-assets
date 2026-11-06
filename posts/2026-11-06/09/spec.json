@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_028.jpg",
+   "kicker": "asking for a friend",
+   "title": "Friendship questions nobody asks out loud",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_047.jpg",
+   "n": 1,
+   "q": "Is it weird to use an app to make friends?",
+   "a": "Not weird at all. Making friends as an adult is hard, and lots of people use friend-finding apps, clubs and meetup groups to do it. Treat it a bit like dating: chat for a little, then meet up somewhere public for coffee or a walk. Some connections fizzle and that's normal. You only need a few to stick."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_085.jpg",
+   "n": 2,
+   "q": "What do I do about a friend who always bails on plans?",
+   "a": "Talk to them once, kindly. Something like \"I miss you, and I get bummed when plans fall through.\" They might be overwhelmed, broke or burnt out. Try low-effort plans, or let them pick the time. If it keeps happening, it's okay to put more of your energy into the people who show up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_048.jpg",
+   "n": 3,
+   "q": "How do I tell a friend I'm not doing okay?",
+   "a": "You don't need perfect words. \"Hey, I've been having a really hard time lately, can we talk?\" is enough. Good friends usually want to know. It helps to say what you need, whether that's advice, distraction or just someone to listen. And if it feels like too much to carry, a therapist can help too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_011.jpg",
+   "n": 4,
+   "q": "How do I ask a friend for a favor without feeling bad?",
+   "a": "Most people actually like helping their friends, and it can even bring you closer. Be direct and specific about what you need, and give them an easy out, like \"totally fine if you can't.\" Then say a real thank you and return the favor when you can. That's how friendships work."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_035.jpg",
+   "n": 5,
+   "q": "How do I tell my friend I'm moving away?",
+   "a": "Tell them yourself, early, and before they hear it from someone else, ideally in person or on a call. It's okay to admit it's sad for both of you. Then make concrete plans to stay in touch, like a standing call or a visit on the calendar. Distance changes friendships, but good ones survive it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_022.jpg",
+   "title": "Which friend are you?",
+   "emoji": "🫂",
+   "sub": "comment the number. tag your person"
+  }
+ ]
+}

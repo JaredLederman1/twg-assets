@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_010.jpg",
+   "kicker": "asking for a friend",
+   "title": "Friendship questions you'd never ask the group chat",
+   "emoji": "🫂"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_066.jpg",
+   "n": 1,
+   "q": "What do I do about a friend who only calls when they need something?",
+   "a": "First, notice whether it's a rough patch or a pattern. If it's a pattern, it's fair to say something like 'I love helping, but I miss just hanging out.' You can also start saying no to some favors. A good friend will hear it. If nothing changes, it's okay to put less energy into that friendship."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_014.jpg",
+   "n": 2,
+   "q": "How do I say no when a friend tries to sell me something?",
+   "a": "Keep it kind, short and clear. Something like 'I'm proud of you for doing this, but it's not for me right now' works. You don't need a detailed reason, because reasons invite counteroffers. If they keep pushing, it's okay to repeat yourself. Supporting a friend doesn't mean you have to buy what they're selling."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_058.jpg",
+   "n": 3,
+   "q": "How do I handle a friend who gives backhanded compliments?",
+   "a": "Comments like 'you look great for once' sting because they come wrapped in something nice. Some people do it out of insecurity without realizing. Try calling it out lightly in the moment, like 'that sounded kind of harsh, did you mean it that way?' If it keeps happening, you can bring it up more directly or see them less."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_024.jpg",
+   "n": 4,
+   "q": "Is it normal to have a friend crush?",
+   "a": "Totally normal. A friend crush is when you meet someone and really want to be their friend, so you get a little nervous, overthink your texts and hope they like you back. It isn't romantic, it's just excitement about a new connection. The best move is the same as with any crush: invite them to something specific."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_096.jpg",
+   "n": 5,
+   "q": "How do I apologize to a friend I ghosted?",
+   "a": "Reach out simply and own it. Something like 'I'm sorry I disappeared. I was going through a lot, and you didn't deserve that.' Skip the long excuses and don't pressure them to reply right away. Some friends will be glad to hear from you, and others may need time. Either way, the apology still matters."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_012.jpg",
+   "title": "Which friend are you?",
+   "emoji": "🫂",
+   "sub": "comment the number. tag them if you dare"
+  }
+ ]
+}

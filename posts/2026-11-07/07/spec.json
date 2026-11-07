@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_010.jpg",
+   "kicker": "be honest…",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_072.jpg",
+   "n": 1,
+   "q": "What do I do if a coworker keeps eating my lunch?",
+   "a": "Annoying, and more common than you'd think. Start by labeling your food with your name and the date, since some people really think it's shared. If it keeps happening, mention it to the person if you know who it is, or ask whoever manages the kitchen to send a reminder. A small lunch bag at your desk works too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_059.jpg",
+   "n": 2,
+   "q": "Is it okay to put skills I'm still learning on my resume?",
+   "a": "Yes, as long as you're honest about the level. You can list them as 'familiar with' or 'currently learning,' or mention a course you're taking. What gets people in trouble is claiming to be an expert, then struggling when it comes up in the interview. Be ready to talk about what you actually know and how you're improving."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_024.jpg",
+   "n": 3,
+   "q": "How do I deal with a boss who's younger than me?",
+   "a": "It can feel awkward at first, but age matters less than how you work together. Treat them like any manager: ask what they expect, share your experience as help instead of correction, and give them a fair shot. Plenty of younger managers worry about it too. Respect usually comes back fast when they see you're on their side."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_100.jpg",
+   "n": 4,
+   "q": "Is it okay to set my status to busy so people leave me alone?",
+   "a": "Yes, protecting focus time is a real part of doing good work. Just be open about it rather than sneaky. Block time on your calendar, let your team know when you're heads down, and check messages at set times so nothing urgent waits too long. Most managers would rather you get deep work done than reply instantly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_021.jpg",
+   "n": 5,
+   "q": "Is it bad to ask for a lot of help in my first week?",
+   "a": "Not at all, it's expected. Nobody knows the systems, people or unwritten rules on day one, and asking early saves everyone time later. Try saving smaller questions in a list and asking them in batches. Taking notes on the answers shows you're paying attention. Most teams worry more about new hires who never ask anything."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_003.jpg",
+   "title": "Which one is your 9 to 5?",
+   "emoji": "💼",
+   "sub": "comment the number. we won't cc your boss"
+  }
+ ]
+}

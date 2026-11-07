@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_008.jpg",
+   "kicker": "be honest…",
+   "title": "Money questions you're too shy to ask",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_039.jpg",
+   "n": 1,
+   "q": "Is a high-yield savings account actually worth it?",
+   "a": "For most people, yes. It's a savings account, often at an online bank, that pays a much higher interest rate than a typical big-bank savings account. Your money stays easy to get to, and if the bank is FDIC insured, deposits are protected up to the limit. It's a simple home for an emergency fund."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_009.jpg",
+   "n": 2,
+   "q": "What's the actual difference between a stock and a bond?",
+   "a": "A stock is a tiny piece of ownership in a company, so its value rises and falls with how the company does. A bond is basically a loan you give to a company or government, and they pay you interest. Stocks usually grow more over time but swing more. Bonds are steadier but tend to grow slower."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_030.jpg",
+   "n": 3,
+   "q": "What is FICA on my paycheck?",
+   "a": "FICA is the federal tax that funds Social Security and Medicare. Most employees pay 6.2% for Social Security and 1.45% for Medicare, and your employer pays a matching amount. It comes out of every paycheck automatically, which is a big part of why your take-home pay is less than your salary. Self-employed people pay both halves."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_042.jpg",
+   "n": 4,
+   "q": "What does it mean to diversify my money?",
+   "a": "Diversifying means not putting all your eggs in one basket. Instead of betting on one company, you spread money across lots of investments, so if one does badly it doesn't sink everything. Index funds are a common way to do this, because one fund can hold hundreds of companies. It lowers risk, though it never removes it completely."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_079.jpg",
+   "n": 5,
+   "q": "What's the difference between my statement balance and current balance?",
+   "a": "Your statement balance is what you owed when your last billing cycle closed. Your current balance adds anything you've charged since then. If you pay the full statement balance by the due date, you typically won't owe interest on those purchases. Paying only the minimum is what lets interest pile up, so the statement balance is your target."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_001.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💸",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_009.jpg",
+   "kicker": "no judgement",
+   "title": "Things nobody tells you about getting older",
+   "emoji": "⏳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_077.jpg",
+   "n": 1,
+   "q": "Why are my lips getting thinner as I get older?",
+   "a": "Over time your body makes less collagen, and the fat in your face slowly shifts and shrinks. Lips are one of the places that shows, and their edges can get less defined too. It happens to everyone gradually and is a normal part of aging. Wearing lip balm with sunscreen and not smoking help protect them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_024.jpg",
+   "n": 2,
+   "q": "Why do I have fewer friends than I did in college?",
+   "a": "Research suggests most people's social circles peak around their mid-20s and then shrink. School makes friendship easy because you see the same people constantly. After that, jobs, moves and partners eat up time. Fewer friends isn't a failure, and many people end up with a smaller but closer group that they treasure even more."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_011.jpg",
+   "n": 3,
+   "q": "Why do I love staying home so much more now?",
+   "a": "As life gets busier, home becomes the place you finally get to recharge. Many people also get clearer about what they enjoy and feel less pressure to say yes to everything. Wanting cozy nights in is completely normal. Worth checking in with yourself or a doctor, though, if you're avoiding everything you used to love."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_014.jpg",
+   "n": 4,
+   "q": "Why do my feet hurt more as I get older?",
+   "a": "Over the years, the natural fat pads that cushion your heels and the balls of your feet slowly thin out, and your arches can flatten a bit. That means less shock absorption with every step. Supportive shoes with good cushioning make a big difference. Worth seeing a doctor or podiatrist if pain keeps you from walking comfortably."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_009.jpg",
+   "n": 5,
+   "q": "Why does the music from my teens hit harder than new music?",
+   "a": "Researchers have found that the songs we hear in our teens and early 20s tend to stick with us the most. That's when your brain was shaping your identity and making big memories, so those songs got tied to strong emotions. New music isn't worse, it just hasn't had time to soak into your life the same way."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_098.jpg",
+   "title": "Which one hit you this year?",
+   "emoji": "⏳",
+   "sub": "comment the number. aging is a group project"
+  }
+ ]
+}

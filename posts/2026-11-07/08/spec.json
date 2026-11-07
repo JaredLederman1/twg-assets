@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_016.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions you'd never admit to",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_046.jpg",
+   "n": 1,
+   "q": "Do I really need to clean my tongue?",
+   "a": "It helps more than most people think. Bacteria and bits of food build up on your tongue, especially toward the back, and that's a big source of bad breath. Gently brushing your tongue or using a tongue scraper when you brush takes about ten seconds. Worth seeing a dentist if bad breath sticks around no matter what you do."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_066.jpg",
+   "n": 2,
+   "q": "How often should I actually clean my toilet?",
+   "a": "For most homes, about once a week is a good rhythm, with a quick wipe of the seat and handle in between, since those are the spots hands touch most. If someone in the house is sick, clean more often. Wear gloves, and never mix bleach with other cleaners, because the fumes can be dangerous."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_071.jpg",
+   "n": 3,
+   "q": "How often should I wash my hats?",
+   "a": "Hats soak up sweat, oil and hair products right at your forehead, which can cause smells and even breakouts. If you wear one a lot, washing it every couple of weeks is a good idea, more often in summer or after workouts. Check the label first, since many caps do best with a gentle hand wash and air drying."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_006.jpg",
+   "n": 4,
+   "q": "Is it bad to wash my face with regular bar soap?",
+   "a": "It depends on the soap. Many regular bar soaps are harsher than face cleansers and can leave your skin tight and dry, and some people react with irritation or extra oil. If your face feels squeaky after washing, that's a sign it's too strong. A gentle cleanser made for faces is usually the better pick, especially for sensitive skin."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_080.jpg",
+   "n": 5,
+   "q": "How often should I clean my cutting board?",
+   "a": "After every single use, especially after raw meat, chicken or fish. Wash it with hot soapy water, rinse it and let it dry fully. Using one board for raw meat and another for veggies and bread helps keep germs from spreading. Once a board gets deep grooves that are hard to clean, it's time to replace it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_067.jpg",
+   "title": "Which one were you guilty of?",
+   "emoji": "🧼",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

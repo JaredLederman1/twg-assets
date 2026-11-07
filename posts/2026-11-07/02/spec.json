@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_016.jpg",
+   "kicker": "no judgement",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_026.jpg",
+   "n": 1,
+   "q": "Why does my house make creepy noises at night?",
+   "a": "Most of those creaks and pops are your house cooling down. Wood, pipes and ducts shrink a tiny bit as the temperature drops, and the heat or AC kicking on adds clicks and bangs. Nights are also way quieter, so you notice sounds you'd never hear during the day. Annoying, but almost always totally normal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_063.jpg",
+   "n": 2,
+   "q": "Why can't I stop scrolling even when I'm bored?",
+   "a": "Feeds are built to be unpredictable. Every swipe might bring something funny or interesting, and that 'maybe the next one' feeling keeps your brain hooked even when most of it is boring. Being tired makes it even harder to stop. Putting your phone across the room or setting a timer helps more than willpower alone."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_070.jpg",
+   "n": 3,
+   "q": "Why do I forget simple words I use every day?",
+   "a": "That 'it's on the tip of my tongue' moment happens to everyone. Your brain knows the meaning but briefly can't pull up the sound of the word, especially when you're tired, stressed or distracted. It usually pops back a minute later. Worth seeing a doctor if it's happening a lot more than usual or comes with other changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_001.jpg",
+   "n": 4,
+   "q": "Why do I feel sad when I finish a good show?",
+   "a": "You spent hours with those characters, so finishing it can feel like a small goodbye. Your brain gets attached to stories and routines, and suddenly that nightly thing you looked forward to is gone. It's a real feeling and it fades fast. Rewatching favorite episodes or starting something new usually fills the gap within a few days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_067.jpg",
+   "n": 5,
+   "q": "Why do I grab my phone the second I wake up?",
+   "a": "It's mostly habit. If your phone is your alarm, your hand is already on it, and checking messages gives your brain a quick hit of something new before you're fully awake. Doing it every morning makes the loop automatic. Leaving your phone across the room or using a real alarm clock can make mornings feel a lot calmer."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_002.jpg",
+   "title": "Which one is you right now?",
+   "emoji": "🌙",
+   "sub": "comment the number. we're awake too"
+  }
+ ]
+}

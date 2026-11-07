@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_035.jpg",
+   "kicker": "asking for a friend",
+   "title": "Dating questions you'd never ask your friends",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_014.jpg",
+   "n": 1,
+   "q": "Is it weird to admit I'm nervous on a first date?",
+   "a": "Not weird at all, and it can actually help. Saying 'I'm a little nervous' usually makes the other person relax, because they probably are too. It's honest, a bit vulnerable and kind of charming. Just say it once and move on to asking about them. Most people find that more attractive than pretending to be totally cool."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_010.jpg",
+   "n": 2,
+   "q": "How do I leave a date that's going badly?",
+   "a": "You don't need a fake emergency. Wait for a natural pause and say something kind but clear, like 'Thanks for meeting up, I'm going to head out.' Offer to pay your share and go. You don't owe anyone a big explanation. And if you ever feel unsafe, leave right away and ask the staff for help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_089.jpg",
+   "n": 3,
+   "q": "Is it a red flag if they never ask me questions?",
+   "a": "It's worth paying attention to. Some people talk a lot when they're nervous, so one awkward date isn't proof of anything. But if it keeps happening, it can mean they're not that curious about you. Notice how you feel after hanging out. Feeling seen matters, and you deserve someone who actually wants to know you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_098.jpg",
+   "n": 4,
+   "q": "Why do dating apps make me feel so burnt out?",
+   "a": "Endless swiping, small talk that goes nowhere and getting ghosted can wear anyone down. Apps can make dating feel like a second job. It's okay to take a break, delete them for a few weeks or set limits, like only checking once a day. Coming back with fresh energy usually goes a lot better than forcing it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_075.jpg",
+   "n": 5,
+   "q": "Am I too picky when it comes to dating?",
+   "a": "Having standards is good, especially around kindness, respect and wanting the same things. Pickiness is usually about small stuff, like height, a job title or one awkward joke on a first date. Try sorting your list into must-haves and nice-to-haves. Holding firm on the first group and loosening up on the second opens a lot of doors."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_038.jpg",
+   "title": "Which one is so you?",
+   "emoji": "💘",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

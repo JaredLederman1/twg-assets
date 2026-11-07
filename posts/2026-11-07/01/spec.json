@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_020.jpg",
+   "kicker": "asking for a friend",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_033.jpg",
+   "n": 1,
+   "q": "What's the white half-moon at the bottom of my nails?",
+   "a": "That's called the lunula, and it's the visible edge of the nail matrix, the area your nail actually grows from. It looks white because the cells there are thicker and the blood vessels underneath show through less. Some people have big ones, some barely see them. Worth seeing a doctor if your nails suddenly change color."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_005.jpg",
+   "n": 2,
+   "q": "Why does biting foil hurt my teeth?",
+   "a": "If you have metal fillings or crowns, foil touching them creates a tiny electric current, basically a mini battery in your mouth. That current can zap the nerve in the tooth and cause a sharp jolt. It's brief and not harmful, just very unpleasant. Worth seeing a dentist if your teeth hurt without anything touching them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_016.jpg",
+   "n": 3,
+   "q": "Why does my stomach drop on roller coasters?",
+   "a": "When a ride drops, you're briefly close to free fall. Your organs are a little loose inside you, so they shift for a split second, and your inner ear and nerves sense that sudden change in gravity. Your brain reads it as that floaty, flipping feeling. Totally normal, and some people love it while others hate it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_050.jpg",
+   "n": 4,
+   "q": "Why can some people wiggle their ears and I can't?",
+   "a": "Everyone has small muscles around the ears, but for most people they're leftovers from ancestors who moved their ears toward sounds. Some people still have enough control over them to wiggle on purpose. It isn't a sign of anything, good or bad. A few people can even learn it with practice in front of a mirror."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_041.jpg",
+   "n": 5,
+   "q": "Why does my mouth feel weird for days after hot pizza?",
+   "a": "That's an actual burn on the roof of your mouth or tongue from hot cheese or sauce. Your mouth heals faster than most skin, so it usually feels normal within a week. Cool drinks and soft foods help while it heals. Worth seeing a doctor if it blisters badly or isn't healing after two weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_043.jpg",
+   "title": "Which one did you secretly wonder?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

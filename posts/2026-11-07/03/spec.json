@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_032.jpg",
+   "kicker": "asking for a friend",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_034.jpg",
+   "n": 1,
+   "q": "Why am I jealous even though I don't want them back?",
+   "a": "Jealousy after a breakup usually isn't about wanting the person back. It's about seeing someone else get the version of them you once had, or feeling like they moved on faster than you did. That stings even when you know it was over. Let the feeling pass without acting on it, and it shrinks a lot faster."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_011.jpg",
+   "n": 2,
+   "q": "Why do I feel like I have to 'win' the breakup?",
+   "a": "After a breakup your pride takes a hit, so it's natural to want proof you're doing better, like looking amazing or moving on first. But there's no scoreboard, and the effort can keep you focused on them. The real win is the day you stop checking how they're doing because you just don't care anymore."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_029.jpg",
+   "n": 3,
+   "q": "How do I deal with my ex dating someone new so fast?",
+   "a": "It can feel like a punch, like the relationship meant nothing. But how quickly someone starts dating says more about how they cope than about what you had. Some people jump in to avoid feeling the loss. Mute or unfollow so you don't keep seeing it, and lean on friends on the days it really hurts."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_067.jpg",
+   "n": 4,
+   "q": "How do I get through our anniversary after we broke up?",
+   "a": "Dates like that can hit hard, even months later, so plan ahead instead of hoping it slides by. Make plans with a friend, get out of the house, or start a new tradition just for you. Expect a wave of feelings and let it come without reading too much into it. The next one gets easier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_013.jpg",
+   "n": 5,
+   "q": "How do I stop thinking 'what if' after it ended?",
+   "a": "Your brain replays the what ifs because it's trying to make sense of the loss and find something you could have controlled. Try writing down the real reasons it ended and reread them when the questions start. Over time they get quieter. If the thoughts take over your days, a therapist can really help."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_036.jpg",
+   "title": "Which one are you living right now?",
+   "emoji": "💔",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

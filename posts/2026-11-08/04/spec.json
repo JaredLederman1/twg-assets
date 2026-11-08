@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_039.jpg",
+   "kicker": "be honest…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_098.jpg",
+   "n": 1,
+   "q": "Why do I sleepwalk?",
+   "a": "Sleepwalking usually happens during deep sleep, when part of your brain is awake enough to move but not enough to be aware. It's more common in kids, and in adults it's often triggered by sleep loss, stress or alcohol. Keep your space safe by locking doors and clearing floors. See a doctor if it happens often or you get hurt."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_030.jpg",
+   "n": 2,
+   "q": "Why does my mind race when I try to meditate?",
+   "a": "Because that's what minds do. Quiet moments just make the usual stream of thoughts more noticeable. Meditation isn't about having zero thoughts, it's noticing you drifted and gently coming back to your breath. Every time you do that counts as practice. Starting with just a few minutes a day makes it way less frustrating."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_072.jpg",
+   "n": 3,
+   "q": "Why do I feel like crying for no reason?",
+   "a": "Sometimes the reason is just hidden: stress that's been building, poor sleep, hormones, or feelings you haven't had time to process. Crying can be your body's way of releasing that pressure, and it often helps. Be gentle with yourself. Worth talking to a doctor if it happens most days for two weeks or more, or you feel hopeless."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_001.jpg",
+   "n": 4,
+   "q": "Why do I get anxious before parties I actually want to go to?",
+   "a": "Wanting to go and feeling nervous can exist at the same time. Your brain sees a social event as a bit unpredictable, so it revs up a stress response before you even arrive. For most people, the nerves fade once they're there and talking. Having a plan, like a friend to meet or a time to leave, helps a lot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_002.jpg",
+   "n": 5,
+   "q": "Why do I feel so awake after a cold shower?",
+   "a": "Cold water on your skin triggers a jolt: you gasp, your heart rate jumps, and your body releases stress hormones like noradrenaline that make you feel alert. It's a short burst, not a replacement for sleep. Ease in if you're not used to it, and check with a doctor before trying ice-cold plunges if you have a heart condition."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_075.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "👀",
+   "sub": "comment the number. we're awake too"
+  }
+ ]
+}

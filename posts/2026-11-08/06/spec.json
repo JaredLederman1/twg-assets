@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_028.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_011.jpg",
+   "n": 1,
+   "q": "Why does garlic breath last until the next day?",
+   "a": "Garlic contains sulfur compounds, and some get absorbed into your blood and breathed out through your lungs. That's why brushing freshens your mouth but doesn't fully fix it, and the smell can linger for a day or so. One study found raw apple, lettuce or mint may help cut the smell a bit."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_030.jpg",
+   "n": 2,
+   "q": "Why are my gums pulling back from my teeth?",
+   "a": "That's gum recession. Common causes include brushing too hard, gum disease, grinding your teeth, and genetics. It can make teeth look longer and feel sensitive. A soft-bristled brush with gentle pressure helps protect your gums. Worth seeing a dentist, because receded gums don't grow back on their own and early care can stop it getting worse."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_016.jpg",
+   "n": 3,
+   "q": "Why do my eyes feel drier as I get older?",
+   "a": "Tear production often drops with age, and hormone changes, especially after menopause, can make it worse. Screens add to it because we blink less while staring. Taking breaks, blinking on purpose and using lubricating eye drops can help. Worth seeing an eye doctor if your eyes are painful, very red, or your vision changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_005.jpg",
+   "n": 4,
+   "q": "Why am I getting more hair in my ears and nose?",
+   "a": "As you age, hormones can make some hair follicles grow thicker, longer hair, especially in the ears, nose and eyebrows. It's more common in men, but plenty of women notice it too. It's normal and harmless. A small rounded trimmer is safer than plucking nose hairs, which can irritate the skin inside."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_035.jpg",
+   "n": 5,
+   "q": "Why do I have a gap between my front teeth?",
+   "a": "That gap is called a diastema, and it's really common. It can come from genetics, teeth that are small for your jaw, or a thick band of tissue between your upper lip and gums. Lots of people love theirs. Worth seeing a dentist if a new gap appears as an adult, since that can signal gum problems."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_009.jpg",
+   "title": "Which one were you wondering about?",
+   "emoji": "👀",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

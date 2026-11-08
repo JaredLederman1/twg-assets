@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_043.jpg",
+   "kicker": "no judgement",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "🤫"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_028.jpg",
+   "n": 1,
+   "q": "Why do I get so nervous giving presentations?",
+   "a": "Public speaking is one of the most common fears out there. Your brain treats a room full of eyes like a threat, so you get a racing heart, shaky voice and dry mouth. Practicing out loud, slowing your breathing, and remembering the audience wants you to do well all help. The nerves usually ease after the first minute."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_051.jpg",
+   "n": 2,
+   "q": "How much notice should I give when I quit?",
+   "a": "In the US, two weeks is the usual standard, though for most jobs it isn't legally required. Check your contract or handbook, since some roles ask for more. Giving proper notice and helping with a handover keeps your reputation and references strong. If the job is unsafe or abusive, protecting yourself comes first."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_009.jpg",
+   "n": 3,
+   "q": "Is it okay to text my boss that I'm sick instead of calling?",
+   "a": "At many workplaces, yes. Texting is normal now, especially if that's how your team usually communicates. Check your sick policy, since some places require a call or a specific system. Keep it short: say you're sick, you won't be in, and who can cover anything urgent. You don't need to share medical details."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_029.jpg",
+   "n": 4,
+   "q": "Is it okay to quit without another job lined up?",
+   "a": "It can be, especially if the job is wearing down your health. Just plan for it first. Many experts suggest having several months of expenses saved, and think about health insurance and how you'll explain the gap. A short, honest answer like 'I took time to reset' is usually fine in interviews."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_004.jpg",
+   "n": 5,
+   "q": "How do I stop feeling awkward at the gym?",
+   "a": "Almost everyone feels this at first, and most people are too focused on their own workout to notice yours. Go in with a plan so you're not wandering, try quieter hours, and wear headphones if it helps. Starting with machines or a beginner class makes it easier. Each visit gets a little more comfortable."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_056.jpg",
+   "title": "Which one did you need today?",
+   "emoji": "👀",
+   "sub": "comment the number. your boss won't see"
+  }
+ ]
+}

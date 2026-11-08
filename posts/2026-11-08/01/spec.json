@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_061.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_078.jpg",
+   "n": 1,
+   "q": "Why do my hands get sweaty when I'm nervous?",
+   "a": "Your palms are packed with sweat glands that react to emotion, not just heat. When you're nervous, your fight-or-flight system switches them on, which is why your hands get clammy before a big moment. It's super common and harmless. Worth seeing a doctor if you sweat heavily all the time, even when you're calm and cool."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_076.jpg",
+   "n": 2,
+   "q": "Why do scratches on my skin turn into raised lines?",
+   "a": "That's likely dermatographia, sometimes called skin writing. In some people, light pressure makes the skin release histamine, so a scratch puffs up into a red welt that fades within about 30 minutes. It affects a few percent of people and is usually harmless. Worth seeing a doctor if it's very itchy, lasts longer, or comes with other hives."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_048.jpg",
+   "n": 3,
+   "q": "Why does my nose get oily so fast?",
+   "a": "Your nose has some of the highest concentration of oil glands on your body, which is why the T-zone shines first. Hormones, heat and humidity can turn them up even more. Scrubbing hard just leaves skin tight and irritated, so gentle cleansing and blotting papers usually work better. It's normal and doesn't mean you're dirty."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_004.jpg",
+   "n": 4,
+   "q": "Why are my eyelashes falling out?",
+   "a": "Losing a few lashes a day is normal. Each lash grows, rests, then sheds, and a new one replaces it over a few months. Rubbing your eyes or pulling off mascara roughly can make more come out. Worth seeing a doctor if you're losing lots at once, notice bald patches, or your lids are red, itchy or swollen."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_004.jpg",
+   "n": 5,
+   "q": "Why do my lips turn blue when I'm cold?",
+   "a": "When you're cold, blood vessels near your skin tighten to keep heat in your core. Less warm blood reaches your lips, and what's there looks darker and bluer through the thin skin. Warming up brings the color back. Get help right away if your lips turn blue when you're not cold, or you're short of breath."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_096.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_032.jpg",
+   "kicker": "be honest…",
+   "title": "Things we all wonder but never ask",
+   "emoji": "🤔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_053.jpg",
+   "n": 1,
+   "q": "Is it weird to travel alone?",
+   "a": "Not at all, solo travel is really popular. You get to choose everything, from what you eat to when you wake up, and it's often easier to meet people when you're on your own. Start with a short trip somewhere easy to get around, share your plans with someone at home, and trust your gut about safety."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_032.jpg",
+   "n": 2,
+   "q": "Why do I have a widow's peak?",
+   "a": "A widow's peak is a V-shaped point in the middle of your hairline, and it mostly comes down to genetics. It's just how your hair follicles are arranged along your forehead. It's totally harmless and not a sign of anything. Some people notice it more as their hairline shifts with age, which is normal too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_034.jpg",
+   "n": 3,
+   "q": "How do I tell my partner I'm insecure about my body?",
+   "a": "Pick a calm moment and keep it honest: 'I've been feeling self-conscious about my body lately, and I wanted you to know.' Tell them what helps, like reassurance or just listening. A good partner will be kind about it. If those feelings are taking over your daily life, talking to a therapist can help too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_017.jpg",
+   "n": 4,
+   "q": "How do I handle my partner's bad mood without taking it personally?",
+   "a": "Remind yourself that their mood is about their day, not automatically about you. Ask once, kindly, 'Rough day? Want to talk or want space?' and then respect the answer. You don't have to fix it or absorb it. If they're taking it out on you regularly, that's a separate conversation worth having."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_049.jpg",
+   "n": 5,
+   "q": "Can I negotiate my internet bill?",
+   "a": "Often, yes. Look up what new customers are being offered, then call and ask the retention or loyalty team whether they can match it or lower your rate. Being polite and willing to switch providers gives you leverage. If they say no, ask again in a few months, since promotions change all the time."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_025.jpg",
+   "title": "Which one have you wondered?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

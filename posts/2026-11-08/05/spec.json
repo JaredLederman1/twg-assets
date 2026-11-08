@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_008.jpg",
+   "kicker": "no judgement",
+   "title": "Dating questions you'd never ask out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_018.jpg",
+   "n": 1,
+   "q": "How do I ask someone new if they want kids?",
+   "a": "You don't need to bring it up on date one, but once things feel serious, it's fair to ask. Keep it light and curious, like 'Do you see kids in your future?' Share your own answer too, so it's a conversation, not an interview. It's much kinder to learn you want different things early than years in."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_023.jpg",
+   "n": 2,
+   "q": "Is it a red flag if they're rude to waiters?",
+   "a": "It's worth paying attention to. How someone treats people who can't do anything for them, like servers or drivers, often shows how they'll treat you once the charm wears off. One grumpy moment isn't a verdict, but a pattern of rudeness, snapping or entitlement usually is. Trust what you see, not just what they say."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_043.jpg",
+   "n": 3,
+   "q": "Is it a red flag if they haven't introduced me to their friends?",
+   "a": "Not automatically. Some people take their time, and early on there may just not have been a good moment. If it's been months, you've asked, and they keep dodging, that's worth a calm conversation. Ask directly how they see things going. Someone serious about you usually wants you in their life, not hidden from it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_029.jpg",
+   "n": 4,
+   "q": "How do I tell someone casual I want something more?",
+   "a": "Be honest and simple: 'I've really liked what we have, and I've realized I want something more. How do you feel?' Say it in person or on a call if you can. Go in ready for either answer. If they don't want the same thing, that hurts, but it frees you to find someone who does."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_094.jpg",
+   "n": 5,
+   "q": "Is it okay to cry in front of my partner?",
+   "a": "Yes. Crying is a normal human reaction, and letting someone see it is a sign of trust, not weakness. A caring partner will want to support you, not judge you. If you're worried, say what you need, like 'I don't need fixing, I just need a hug.' Being seen at your messiest is part of real closeness."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_013.jpg",
+   "title": "Which one are you scared to ask?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

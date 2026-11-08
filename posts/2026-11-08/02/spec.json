@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_054.jpg",
+   "kicker": "no judgement",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_047.jpg",
+   "n": 1,
+   "q": "How do I break up with someone without being cruel?",
+   "a": "If it's been more than a few dates, do it in person or on a call, and keep it clear and short. Use 'I' statements like 'I'm not feeling this anymore' instead of listing their flaws. Don't leave false hope with 'maybe someday.' Being kind and honest is the respectful part, even though it still hurts."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_002.jpg",
+   "n": 2,
+   "q": "Is it okay to break up over text?",
+   "a": "If you've only been on a few dates, a kind, clear text is usually fine and often preferred. After months together, a text can feel dismissive, so a call or face-to-face talk is better. The big exception is safety: if you feel unsafe, text, block, and lean on friends. You never owe anyone a risky conversation."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_061.jpg",
+   "n": 3,
+   "q": "Is it normal to not want to see any couples after a breakup?",
+   "a": "Totally. Seeing happy couples can poke right at the loss, so your brain wants to avoid the reminder. It's not bitterness, it's grief doing its thing. Muting a few accounts or skipping a couples dinner for a while is fine. The sting usually softens with time, and you'll enjoy those people again."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_029.jpg",
+   "n": 4,
+   "q": "Is it weird to miss my ex's pet?",
+   "a": "Not weird at all. Pets are part of your daily routine and your heart, so losing one is a real loss on top of the breakup. It's okay to grieve that too. If you split on good terms, asking for an occasional visit can work, but only if it won't keep reopening the wound."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_097.jpg",
+   "n": 5,
+   "q": "How do I get my confidence back after being dumped?",
+   "a": "Start small. Do things that make you feel capable, like a workout, a project, or a skill you've been putting off. Spend time with people who like you as you are. Being dumped means it wasn't the right fit, not that you're unlovable. Confidence usually comes back through action, not by waiting to feel ready."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_077.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "👀",
+   "sub": "drop the number. we've all been there"
+  }
+ ]
+}

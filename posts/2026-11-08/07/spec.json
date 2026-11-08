@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_054.jpg",
+   "kicker": "be honest…",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_013.jpg",
+   "n": 1,
+   "q": "Is it okay to stay in a hotel when visiting family?",
+   "a": "Yes, and lots of people do it. Having your own space can mean better sleep, fewer tense moments, and more energy for the time you do spend together. Frame it warmly, like 'We'll have more fun if we're rested,' rather than as an escape. Most families adjust quickly once they see you're still showing up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_015.jpg",
+   "n": 2,
+   "q": "How do I tell my roommate their partner is over too much?",
+   "a": "Bring it up early, privately and calmly, before resentment builds. Focus on the impact, like 'It's hard with the bathroom and bills when there's a third person most nights.' Then suggest something specific, like a few nights a week or chipping in on utilities. Most roommates don't realize it's a problem until someone says it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_051.jpg",
+   "n": 3,
+   "q": "How do I ask my parents about our family health history?",
+   "a": "Keep it practical: 'My doctor asked about family health, can you help me fill in the blanks?' Ask about things like heart disease, diabetes and cancer, and roughly what age they started. Write it down and share it with your doctor. It's a useful conversation, and many parents are glad you asked."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_062.jpg",
+   "n": 4,
+   "q": "How do I stop fighting with my mom every time we talk?",
+   "a": "Notice the topics that always spark it and agree to skip them, or change the subject early. Shorter, more frequent calls can feel easier than long marathons. Try 'I hear you' before disagreeing. You can't control how she reacts, but you can step away kindly with 'Let's pick this up later' when it heats up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_064.jpg",
+   "n": 5,
+   "q": "How do I tell my parents I'm dating someone?",
+   "a": "Keep it simple and casual, like 'I've been seeing someone and I'm really happy.' Share a few basics, like how you met and what you like about them, and leave room for questions. If you expect pushback, decide ahead of time what you'll share and what's off limits. It's your relationship, and you set the pace."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_008.jpg",
+   "title": "Which one is your family?",
+   "emoji": "👀",
+   "sub": "comment the number. every family is a lot"
+  }
+ ]
+}

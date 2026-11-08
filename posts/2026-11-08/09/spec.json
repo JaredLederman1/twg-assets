@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_073.jpg",
+   "kicker": "asking for a friend",
+   "title": "Gross questions we all secretly wonder",
+   "emoji": "🫢"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_028.jpg",
+   "n": 1,
+   "q": "Is blowing out birthday candles actually gross?",
+   "a": "Kind of, yes. One study found that blowing out candles raised the bacteria on cake frosting by roughly 15 times on average. That sounds alarming, but for healthy people the risk is low, since we share germs constantly. If someone's sick, or guests are vulnerable, a separate cupcake for the candle is an easy fix."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_027.jpg",
+   "n": 2,
+   "q": "How often should I clean my washing machine?",
+   "a": "About once a month is a good habit. Run an empty hot cycle with a washer cleaner, or the cleaning setting if it has one. Wipe the rubber door seal and the detergent drawer, where gunk and mildew love to hide. Leaving the door open between loads, especially on front-loaders, helps stop that musty smell."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_005.jpg",
+   "n": 3,
+   "q": "How often should I clean my fridge?",
+   "a": "Wipe up spills as they happen and toss old leftovers every week. Then do a deeper clean every few months: take everything out, wash the shelves and drawers with warm soapy water, and dry them well. Check expiration dates while you're in there. An open box of baking soda can help with lingering smells."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_047.jpg",
+   "n": 4,
+   "q": "Does sunscreen actually expire?",
+   "a": "Yes. In the US, sunscreen is required to stay effective for three years unless it has a shorter expiration date printed on it. Heat and sun can break it down faster, so a bottle left in a hot car may not protect you as well. If it's expired, or the texture or smell has changed, replace it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_021.jpg",
+   "n": 5,
+   "q": "How often should I rotate my mattress?",
+   "a": "Many mattresses benefit from being rotated head-to-foot every three to six months, which helps them wear more evenly. Lots of modern mattresses are one-sided, so check the label before flipping one over. A washable mattress protector keeps sweat and spills off it. If it's sagging or you wake up achy, it may be time to replace it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_016.jpg",
+   "title": "Which one grossed you out most?",
+   "emoji": "👀",
+   "sub": "comment the number. we're all guilty"
+  }
+ ]
+}

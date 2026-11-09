@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_017.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_063.jpg",
+   "n": 1,
+   "q": "Why am I sore after a massage?",
+   "a": "Deep pressure on tight muscles can leave them a little tender, a lot like the day after a workout. It usually fades within a day or two. A warm shower and some gentle stretching can help. Worth seeing a doctor if the pain is sharp, swollen, or lasts longer than a few days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_052.jpg",
+   "n": 2,
+   "q": "Why does my skin get so itchy at night?",
+   "a": "Your skin warms up and loses more moisture in the evening, and your body makes less of the hormones that calm inflammation. With no distractions, you notice every itch. A cooler room, unscented moisturizer and soft pajamas help a lot. Worth seeing a doctor if the itch keeps you up for weeks or comes with a rash."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_034.jpg",
+   "n": 3,
+   "q": "Why do my eyes stay red after crying?",
+   "a": "Crying sends extra blood to your eyes and the skin around them, and rubbing them makes the redness worse. The tiny blood vessels on the whites of your eyes widen, so they look pink. It usually settles within an hour or so. A cool cloth over your eyes and some water help it fade faster."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_055.jpg",
+   "n": 4,
+   "q": "Why is my nose always cold?",
+   "a": "Your nose sticks out, has very little fat to insulate it, and loses heat fast. When you're chilly, your body also narrows the blood vessels there to keep warmth in your core. So a cold nose is totally normal. Worth seeing a doctor if your fingers and toes also turn white or blue in the cold."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_018.jpg",
+   "n": 5,
+   "q": "Why do I lose my voice after a concert?",
+   "a": "Yelling and singing along makes your vocal cords slam together over and over, so they swell and can't vibrate smoothly. That's the raspy, croaky voice the next day. Resting your voice, sipping water and breathing steamy air help it bounce back in a few days. Worth seeing a doctor if you're still hoarse after three weeks."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_017.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

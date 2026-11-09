@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_014.jpg",
+   "kicker": "no judgement, just ask",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_086.jpg",
+   "n": 1,
+   "q": "How long is a cold supposed to last?",
+   "a": "Most colds clear up in about 7 to 10 days, though a cough can hang around for a couple of weeks after. Rest and fluids are your best friends. Worth seeing a doctor if symptoms last more than 10 days, you have a high fever, trouble breathing, or you start feeling better and then suddenly worse."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_033.jpg",
+   "n": 2,
+   "q": "Do I need antibiotics for a cold?",
+   "a": "No. Colds are caused by viruses, and antibiotics only work on bacteria, so they won't help you get better faster. Taking them when you don't need them can cause side effects and helps germs become resistant. Rest, fluids and time do the work. Worth seeing a doctor if you're getting worse instead of better."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_076.jpg",
+   "n": 3,
+   "q": "Why does my arm hurt for days after a shot?",
+   "a": "Many vaccines go into your arm muscle, and your immune system rushes to that spot, which causes soreness and a little swelling. It usually fades in a day or two. Gently moving your arm actually helps. Get help right away if you have trouble breathing or your face or throat swells after a shot."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_083.jpg",
+   "n": 4,
+   "q": "How do I know if a cut needs stitches?",
+   "a": "Get it checked if the edges gape open, it's deep, it won't stop bleeding after about 10 minutes of firm pressure, or it's on your face or a joint. Cuts from bites or dirty objects should be seen too. Don't wait it out, stitches work best when you go within a few hours."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_001.jpg",
+   "n": 5,
+   "q": "Is it bad to pick off a scab?",
+   "a": "Yes, try not to. A scab is your body's natural bandage, protecting new skin while it heals. Picking reopens the wound, slows healing and raises the chance of infection and scarring. Keeping it clean and covered with a little petroleum jelly helps. Worth seeing a doctor if it turns red, warm, swollen or oozes pus."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cafes_004.jpg",
+   "title": "Which one did you need to hear?",
+   "emoji": "💬",
+   "sub": "comment the number. we've all wondered"
+  }
+ ]
+}

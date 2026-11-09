@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cafes_010.jpg",
+   "kicker": "it's 2am and i'm wondering…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_016.jpg",
+   "n": 1,
+   "q": "Why do I kick off the covers and then get cold?",
+   "a": "To fall asleep and stay asleep, your body needs to drop its core temperature, and it dumps heat through your hands and feet. So you kick the covers off when you overheat, then cool down and pull them back. Sticking one foot out is a legit trick. Lighter, breathable bedding makes the cycle easier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_036.jpg",
+   "n": 2,
+   "q": "Why do I wake up every time my partner moves?",
+   "a": "You cycle through lighter stages of sleep several times a night, and in those stages a shift of the mattress or a tug on the blanket can wake you. Some people are just lighter sleepers. Separate blankets, a bigger bed or a mattress that doesn't transfer motion can make a real difference for both of you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_026.jpg",
+   "n": 3,
+   "q": "Why can't I sleep after a long flight?",
+   "a": "Your internal body clock is still running on your old time zone, so it tells you to be awake at the wrong times. That's jet lag, and it can take a few days to reset. Getting daylight in the morning and staying up until local bedtime help your clock catch up faster. Short naps only."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_086.jpg",
+   "n": 4,
+   "q": "Why do I laugh in my sleep?",
+   "a": "Sleep laughing usually happens while you're dreaming, when your brain is busy and something in the dream is funny. Sometimes it happens in lighter sleep too. It's usually harmless and pretty common. Worth seeing a doctor if you also act out dreams by kicking or punching, or if it comes with other strange movements."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_007.jpg",
+   "n": 5,
+   "q": "Why can I never sleep on planes?",
+   "a": "You're sitting upright, the cabin is noisy and dry, and your body can't fully relax into deep sleep, so you keep waking up. Some people also feel on alert in unfamiliar spaces. A window seat to lean on, a neck pillow, an eye mask and earplugs help. It's not just you, most people struggle."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_092.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "😴",
+   "sub": "comment the number before you sleep"
+  }
+ ]
+}

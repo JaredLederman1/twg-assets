@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_021.jpg",
+   "kicker": "nobody warned me…",
+   "title": "Things nobody tells you about getting older",
+   "emoji": "⏳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_026.jpg",
+   "n": 1,
+   "q": "Why do I get cold more easily as I get older?",
+   "a": "With age, the fat layer under your skin gets thinner, your metabolism slows and circulation can be less efficient, so you lose heat faster. That's why you suddenly want a sweater when nobody else does. Layers help a lot. Worth seeing a doctor if you're always cold, since thyroid issues or low iron can cause it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_052.jpg",
+   "n": 2,
+   "q": "Why do my hands look older than my face?",
+   "a": "The skin on your hands is thin, has little fat underneath, and gets tons of sun and washing, while many people only put sunscreen on their face. Over time that shows up as wrinkles, spots and visible veins. Hand cream and sunscreen on the backs of your hands really do help. Totally normal."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_071.jpg",
+   "n": 3,
+   "q": "Why does my gray hair feel so wiry?",
+   "a": "As you get older, your scalp tends to make less oil, so hair can feel drier and coarser, and gray strands often stand out because they catch the light differently. Many people notice their gray hairs have a different texture. A good conditioner, less heat styling and a hair oil can help them feel softer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_088.jpg",
+   "n": 4,
+   "q": "Why do I still feel 20 inside?",
+   "a": "You're not alone. Research shows most adults feel younger than their actual age, often by years. Your sense of who you are stays pretty steady, while your body and calendar keep moving. It's one of the most human things there is. Bonus: feeling young at heart is linked with being happier and healthier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_051.jpg",
+   "n": 5,
+   "q": "Why do I have less patience for drama now?",
+   "a": "As we get older, we tend to focus more on what really matters to us and on relationships that feel good. Psychologists have found people get pickier about where they spend their time and energy. So skipping the drama isn't you being boring. It's you knowing what's worth it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_032.jpg",
+   "title": "Which one made you feel seen?",
+   "emoji": "🫶",
+   "sub": "comment the number. we're all aging together"
+  }
+ ]
+}

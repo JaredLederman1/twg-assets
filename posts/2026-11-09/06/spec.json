@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_057.jpg",
+   "kicker": "asking for a friend",
+   "title": "Money questions I'd never ask out loud",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_026.jpg",
+   "n": 1,
+   "q": "Is a credit card annual fee ever worth it?",
+   "a": "An annual fee is what you pay each year just to have the card. It's only worth it if the rewards and perks you actually use add up to more than the fee. Plenty of good cards have no fee at all. If yours stopped paying off, you can often ask to switch to a no-fee version."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_032.jpg",
+   "n": 2,
+   "q": "Why is my bank charging me a monthly fee?",
+   "a": "Many banks charge a monthly maintenance fee unless you keep a minimum balance or set up direct deposit. It's sneaky but common. Call and ask what it takes to waive it, they often will. Lots of online banks and credit unions don't charge monthly fees at all, so it's worth shopping around."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_042.jpg",
+   "n": 3,
+   "q": "What does it mean when a debt goes to collections?",
+   "a": "If a bill goes unpaid for months, the company may hand or sell it to a collection agency. You still owe it, and it can hurt your credit score for up to seven years. Ask for the details in writing, then you can often set up a payment plan. Collectors aren't allowed to harass you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_058.jpg",
+   "n": 4,
+   "q": "What does tax deductible actually mean?",
+   "a": "A deduction lowers the income you're taxed on, not your tax bill dollar for dollar. So if you're in the 22% bracket, a $100 deduction saves you about $22. Many deductions only matter if you itemize instead of taking the standard deduction, which most people take. A tax pro can tell you what applies to you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_040.jpg",
+   "n": 5,
+   "q": "What is an ETF?",
+   "a": "An ETF, or exchange-traded fund, is a basket of many stocks or bonds that you can buy in a single share, and it trades like a stock. Many follow an index, like the S&P 500, and charge low fees. It spreads out your risk, but the value can still go down. Learn how it works before you buy."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_005.jpg",
+   "title": "Which one did you need?",
+   "emoji": "💰",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

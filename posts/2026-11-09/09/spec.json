@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_099.jpg",
+   "kicker": "no judgement",
+   "title": "Hygiene questions you're too shy to ask",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_019.jpg",
+   "n": 1,
+   "q": "Is it bad to shave without shaving cream?",
+   "a": "Shaving dry makes the blade drag across your skin, which leads to more razor burn, nicks and ingrown hairs. Wetting your skin with warm water and using shaving cream or gel helps the razor glide. In a pinch, even soap or conditioner beats nothing. Electric razors made for dry shaving are the exception."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_001.jpg",
+   "n": 2,
+   "q": "Can I just use mouthwash instead of brushing?",
+   "a": "Mouthwash can freshen your breath and help a little, but it can't scrub off the sticky plaque on your teeth. Only brushing and flossing do that. Think of it as a bonus, not a replacement. Brushing twice a day for two minutes with fluoride toothpaste is still the move. Your dentist will thank you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_024.jpg",
+   "n": 3,
+   "q": "How often should I wash my kitchen towels?",
+   "a": "More often than you think. Damp kitchen towels are a cozy home for bacteria, especially if they wipe up raw meat juices or spills. Swapping them every few days is a good rule, and right away if they touch raw meat. Hang them to dry between uses, and keep one for hands and one for dishes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_092.jpg",
+   "n": 4,
+   "q": "Is it gross to reuse the same washcloth?",
+   "a": "A washcloth that stays damp can grow bacteria and mildew quickly, especially in a steamy bathroom. Using it once or twice and then tossing it in the wash is a good habit. Always hang it open so it dries fully between uses. If it smells musty, it's definitely time for a fresh one."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_044.jpg",
+   "n": 5,
+   "q": "How often should I clean my microwave?",
+   "a": "Wipe up spills when they happen, and give it a proper clean about once a week if you use it a lot. Easy trick: heat a microwave-safe bowl of water with a splash of vinegar for a few minutes, let it sit, then carefully take it out and wipe. The steam loosens the gunk."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_013.jpg",
+   "title": "Which one are you guilty of?",
+   "emoji": "🫧",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

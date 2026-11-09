@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_093.jpg",
+   "kicker": "we've all typed it",
+   "title": "Things you've typed and deleted",
+   "emoji": "⌨️"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_092.jpg",
+   "n": 1,
+   "q": "How do I tell my friend to stop bringing their partner everywhere?",
+   "a": "Keep it about missing them, not about their partner. Something like: I love that you're happy, and I miss some one-on-one time with you. Can we plan a friend day just us? Most people don't realize they're doing it, so a warm, specific ask usually lands much better than hinting."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_093.jpg",
+   "n": 2,
+   "q": "Is it okay to say no when a friend wants to borrow my car?",
+   "a": "Yes. Your car is a big responsibility, and if something happens, insurance and costs can land on you. A kind, simple answer works: I'm not comfortable lending my car, but I'm happy to help you figure out another way. A good friend will respect that, even if they're a little disappointed."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_065.jpg",
+   "n": 3,
+   "q": "How do I tell a coworker they have body odor?",
+   "a": "Do it privately, kindly and quickly. Something like: this is awkward, but I'd want someone to tell me, I've noticed a bit of an odor lately. Keep it short, don't involve others, and then move on. It could be a health issue or stress, so kindness matters. If you're not close, ask HR to help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_028.jpg",
+   "n": 4,
+   "q": "Is it embarrassing to still live with my parents?",
+   "a": "Not at all. Rent is expensive, and lots of adults live at home to save money, care for family or get on their feet. It's very common. What matters is contributing where you can, respecting each other's space and having a rough plan for your goals. There's no single right timeline for moving out."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_063.jpg",
+   "n": 5,
+   "q": "How do I tell my sibling I need some space?",
+   "a": "Be honest and gentle. Something like: I love you, and I need a little space right now to focus on myself. It's not about anything you did. Give them a rough idea of what that looks like, like fewer calls for a while. Clear words feel much better than going quiet and hoping they notice."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_013.jpg",
+   "title": "Which one did you almost send?",
+   "emoji": "🫢",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

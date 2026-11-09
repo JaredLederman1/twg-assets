@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_056.jpg",
+   "kicker": "no judgement",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_100.jpg",
+   "n": 1,
+   "q": "Is it normal to have hair growing out of a mole?",
+   "a": "Yes, it's really common. Moles sit in skin that still has hair follicles, so a hair or two can grow right through, and hairy moles are usually harmless. Trimming the hair is fine, but avoid picking or irritating the mole. Worth seeing a doctor if a mole changes size, shape or color, itches, or bleeds."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_017.jpg",
+   "n": 2,
+   "q": "Why do I sweat so much under my boobs?",
+   "a": "That fold of skin traps heat and moisture with nowhere to go, so sweat builds up fast, especially in summer or during workouts. It happens to tons of people. Breathable cotton, a well-fitted bra and drying the area well after showers all help. Worth seeing a doctor if you get a red, itchy rash that won't clear up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_003.jpg",
+   "n": 3,
+   "q": "Why do my thighs chafe so badly?",
+   "a": "When your inner thighs rub together, friction plus sweat irritates the skin, and heat makes it worse. It happens to people of every body type, and runners deal with it constantly. Anti-chafe balm, bike shorts under dresses and moisture-wicking fabric make a huge difference. Worth seeing a doctor if the skin gets raw, oozy or infected."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_006.jpg",
+   "n": 4,
+   "q": "Why does my breath smell when I'm hungry?",
+   "a": "When you go a while without eating, your mouth makes less saliva, so odor-causing bacteria have a party. If it's been a long time, your body also starts burning fat, which can give breath a slightly odd smell. Eating something and drinking water usually fixes it fast. Brushing your tongue helps too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_084.jpg",
+   "n": 5,
+   "q": "Is it normal for my ears to be different sizes?",
+   "a": "Totally normal. Almost nobody's face is perfectly symmetrical, and ears are often slightly different in size, shape or height. You probably notice it more because you see yourself in the mirror every day. Other people almost never pick up on it. If one ear suddenly looks different or swollen, that's worth getting checked."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_038.jpg",
+   "title": "Be honest, which one was you?",
+   "emoji": "🙈",
+   "sub": "drop the number in the comments"
+  }
+ ]
+}

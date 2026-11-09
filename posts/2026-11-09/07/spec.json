@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_095.jpg",
+   "kicker": "be honest…",
+   "title": "Dating questions you'd never ask your friends",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_021.jpg",
+   "n": 1,
+   "q": "How many dates before it's normal to be exclusive?",
+   "a": "There's no magic number. Some couples talk about it after a few dates, others take a couple of months. What matters is that you're both on the same page. If you only want to see them, it's okay to say so and ask how they feel. A calm, honest chat beats guessing and spiraling."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_070.jpg",
+   "n": 2,
+   "q": "What should I wear on a first date?",
+   "a": "Wear something that feels like you, but slightly dressed up, and that suits where you're going. Comfort matters more than you think, because fidgeting with tight shoes or a scratchy top is distracting. If you're unsure, ask your date about the vibe of the spot. Confidence reads better than any outfit."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_036.jpg",
+   "n": 3,
+   "q": "Is it okay to talk about politics on a date?",
+   "a": "It can be. Values matter, and finding out early if you see the world very differently can save you time. The key is curiosity, not debate. Ask what matters to them and why, and share your own views calmly. If it turns into a fight on a first date, that tells you something too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_008.jpg",
+   "n": 4,
+   "q": "Is it a bad idea to date a coworker?",
+   "a": "It can work, and lots of couples meet at work. Check your company's policy first, especially if one of you manages the other, which usually isn't allowed. Keep it private and professional during work hours. And before you start, think about how you'd handle seeing them every day if it ended."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_069.jpg",
+   "n": 5,
+   "q": "Is it okay to date someone who lives far away?",
+   "a": "Yes, plenty of long-distance relationships work. What helps most is clear communication, regular calls or video chats, and a real plan for when you'll see each other and eventually close the distance. If you both stay committed and honest about what you need, the miles matter a lot less."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_037.jpg",
+   "title": "Which one have you wondered?",
+   "emoji": "😏",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

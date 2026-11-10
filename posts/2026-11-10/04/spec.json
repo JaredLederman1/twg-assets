@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_015.jpg",
+   "kicker": "be honest…",
+   "title": "Questions you're too scared to Google",
+   "emoji": "😬"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_046.jpg",
+   "n": 1,
+   "q": "Why do I cry when someone is nice to me?",
+   "a": "When you've been holding things together, kindness can lower your guard all at once. Your body finally feels safe enough to release the stress it was carrying, and tears come out. It can also happen when you're not used to being cared for. It's not weakness. It usually means you've needed some support for a while."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_088.jpg",
+   "n": 2,
+   "q": "Why do I hate it when people sing happy birthday to me?",
+   "a": "You're suddenly the center of attention, with no clear job except to sit there and smile. Not knowing where to look or what to do with your face makes it worse. Lots of people feel this, even outgoing ones. It's completely normal. Smile, look at the cake and say thank you. It's over in about 30 seconds."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_075.jpg",
+   "n": 3,
+   "q": "Why do I panic when I'm running a few minutes late?",
+   "a": "Your brain treats being late like a social threat, worried people will think you're rude or unreliable. That sets off an adrenaline rush that makes a few minutes feel huge. In reality, most people barely notice a short delay. A quick heads-up text calms you down, and leaving ten minutes earlier gives you a buffer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_020.jpg",
+   "n": 4,
+   "q": "Why do I feel worse after scrolling social media?",
+   "a": "You're seeing everyone's highlight reel, and your brain compares it to your everyday life without you noticing. Mindless scrolling also eats time with nothing to show for it, which can leave you feeling flat. Studies have linked cutting back to feeling less lonely. Try a daily timer, or unfollow accounts that leave you feeling bad."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_004.jpg",
+   "n": 5,
+   "q": "Why am I a different person around different friends?",
+   "a": "It's normal to adjust how you act depending on who you're with. You might be the funny one with some friends and the calm listener with others. Psychologists see this as a social skill, not being fake. Your core values stay the same. Different people just bring out different sides of you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_029.jpg",
+   "title": "Which one felt way too personal?",
+   "emoji": "😬",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

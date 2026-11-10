@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_008.jpg",
+   "kicker": "asking for a friend",
+   "title": "Relationship questions you'd never ask out loud",
+   "emoji": "🫶"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_015.jpg",
+   "n": 1,
+   "q": "Is it normal to feel bored in a long relationship?",
+   "a": "Yes. Early on, everything is new and exciting. Over time that settles into comfort, which can feel like boredom. Research shows that doing new things together, like a trip or a class, can bring back some of that spark. Boredom doesn't mean the love is gone. It often just means it's time to mix things up."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_022.jpg",
+   "n": 2,
+   "q": "How do I bring up couples therapy?",
+   "a": "Frame it as a way to get closer, not as proof something is broken. You could say: 'I want us to be good at handling hard stuff, and I think a therapist could help.' Plenty of couples go before problems get big. Pick a calm moment, not mid-argument, and offer to look for someone together."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_023.jpg",
+   "n": 3,
+   "q": "Is it okay to vent about my partner to my friends?",
+   "a": "A little venting is normal and can help you sort out your feelings. The problem is when friends only ever hear the bad stuff, so they end up disliking your partner. Keep private details private, and make sure you also bring the issue to your partner directly. Friends can support you, but they can't fix it for you."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_024.jpg",
+   "n": 4,
+   "q": "Why do I pick fights when I'm stressed?",
+   "a": "Stress makes you more irritable and less patient, so small things feel huge. And the safest person to snap at is often the one you're closest to. Noticing the pattern is the first step. Try saying: 'I'm stressed and cranky, it's not about you.' A walk or a bit of space before you talk helps too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_025.jpg",
+   "n": 5,
+   "q": "How do I tell my partner I don't like a gift?",
+   "a": "You don't always have to. For small things, thanking them for the thought is enough. If it's big, expensive or something they'll expect to see you use, be gentle and honest: 'I love that you thought of me, but it's not quite my style. Could we swap it?' Most people would rather know than waste money."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_021.jpg",
+   "title": "Which one hit too close to home?",
+   "emoji": "🫶",
+   "sub": "comment the number. no names needed"
+  }
+ ]
+}

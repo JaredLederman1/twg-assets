@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_027.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_022.jpg",
+   "n": 1,
+   "q": "Why do I always get sick after a stressful week?",
+   "a": "Long stretches of stress keep cortisol high, which can dampen parts of your immune system. Add short sleep and skipped meals, and a cold that was going around finally gets its chance. That's why people often get sick right as a big deadline ends. Sleep, real meals and a slower few days help you bounce back."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_027.jpg",
+   "n": 2,
+   "q": "Why does my whole body ache when I have a fever?",
+   "a": "When you're fighting an infection, your immune system releases chemical messengers that ramp up inflammation, and that makes your muscles and joints ache. Annoying, but it means your body is working. Rest and fluids help. Worth seeing a doctor if the fever is very high, lasts more than three days or comes with a stiff neck."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_088.jpg",
+   "n": 3,
+   "q": "Why do I get a headache when I skip my coffee?",
+   "a": "Caffeine narrows the blood vessels in your head. If you have it daily and suddenly skip it, those vessels widen and your brain notices, causing a pounding headache, tiredness and grumpiness. It usually peaks a day or two in and fades within about a week. Cutting back slowly instead of stopping all at once helps."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_011.jpg",
+   "n": 4,
+   "q": "Why do I break out in hives when I'm stressed?",
+   "a": "Stress can make certain immune cells in your skin release histamine, the same chemical behind allergic reactions. That causes itchy, raised welts that come and go within hours. It's more common than people think. Cool compresses and loose clothes help. See a doctor if hives keep coming back, and get help right away if your lips or throat swell."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_022.jpg",
+   "n": 5,
+   "q": "Why does my stomach hurt when I'm hungry?",
+   "a": "When your stomach has been empty for a while, its muscles squeeze in strong waves to sweep it clean. That can feel like gnawing pangs, often with loud rumbling. Stomach acid can also feel harsher with no food to buffer it. Regular meals help. Worth seeing a doctor if the pain burns or wakes you up at night."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_072.jpg",
+   "title": "Which one have you been wondering about?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_095.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_027.jpg",
+   "n": 1,
+   "q": "Why doesn't coffee keep me awake anymore?",
+   "a": "If you drink caffeine every day, your brain adapts by making more receptors for adenosine, the chemical that builds up and makes you sleepy. So the same cup does less. Cutting back for a week or two can reset your sensitivity. And if you're truly short on sleep, no amount of coffee can fully cover it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_068.jpg",
+   "n": 2,
+   "q": "How late in the day can I have coffee?",
+   "a": "Caffeine lingers. It takes around five hours for your body to clear half of it, and one study found a strong dose six hours before bed still cut sleep by about an hour. So a good rule is to stop by early afternoon. Some people are more sensitive than others, so notice how you sleep and adjust."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_081.jpg",
+   "n": 3,
+   "q": "Why do I sleep better with white noise?",
+   "a": "Steady sound like a fan or white noise masks sudden noises, like a door slamming or a car outside. It's usually not the noise itself that wakes you, it's the sudden change. Smoothing that out helps some people fall asleep faster and wake up less. Keep the volume low and the speaker away from your head."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_028.jpg",
+   "n": 4,
+   "q": "Why do I sleep so well at my parents' house?",
+   "a": "Studies show part of your brain stays more alert the first night you sleep somewhere new, like a night watch. A place you know deeply doesn't trigger that. Add fewer responsibilities, home cooking and someone else handling the bills, and your body finally switches off. That deep rest is real, not just in your head."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_020.jpg",
+   "n": 5,
+   "q": "Does counting sheep actually work?",
+   "a": "Not really. In one Oxford study, people told to count sheep didn't fall asleep any faster. People who pictured a calm, detailed scene, like a beach or a waterfall, fell asleep about 20 minutes sooner. Counting is too boring to hold your attention, so worries creep back in. A vivid, relaxing picture keeps them out."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_008.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "🌙",
+   "sub": "comment the number. we're all awake"
+  }
+ ]
+}

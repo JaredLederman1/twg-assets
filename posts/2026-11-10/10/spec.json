@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_018.jpg",
+   "kicker": "be honest…",
+   "title": "Hygiene questions you'd never ask out loud",
+   "emoji": "🧼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_028.jpg",
+   "n": 1,
+   "q": "Does washing my hands in hot water kill more germs?",
+   "a": "Not really. Water hot enough to kill germs would burn your skin. What matters is soap and scrubbing for about 20 seconds, including between your fingers and under your nails, then drying well. Warm or cold water works just as well, so use whatever's comfortable. Very hot water can actually dry out your hands more."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_050.jpg",
+   "n": 2,
+   "q": "How long can I leave wet clothes in the washer?",
+   "a": "Try to move them within a few hours. Damp, warm fabric in a closed drum is perfect for mildew, and after about half a day it can start to smell musty. If you forget overnight, give the load a sniff. If it smells off, run it through another quick wash before drying."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_061.jpg",
+   "n": 3,
+   "q": "Should I keep my toothbrush away from the toilet?",
+   "a": "It's a good idea. Flushing can spray tiny droplets into the air, sometimes called a toilet plume. Close the lid before you flush, and store your toothbrush upright and as far from the toilet as you can. Let it air-dry between uses, and skip closed covers that trap moisture and help bacteria grow."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_011.jpg",
+   "n": 4,
+   "q": "Do I need to wash my hair after swimming in a pool?",
+   "a": "At least rinse it. Chlorine strips your hair's natural oils, leaving it dry and frizzy, and light hair can even turn a little green from copper in the water. Rinse right after swimming and use a gentle shampoo and conditioner. Wetting your hair before you get in helps it soak up less pool water."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_012.jpg",
+   "n": 5,
+   "q": "Is it gross to drink from the same glass all day?",
+   "a": "If it's just you and just water, it's fine for a day. The bacteria on the rim are your own. Rinse it if you've had anything sugary or milky, since that feeds bacteria fast. Wash it properly at the end of the day, and don't share it with anyone when you're sick."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_078.jpg",
+   "title": "Which one made you go wait, really?",
+   "emoji": "🧼",
+   "sub": "comment the number. no shame here"
+  }
+ ]
+}

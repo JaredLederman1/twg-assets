@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_083.jpg",
+   "kicker": "asking for a friend",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_052.jpg",
+   "n": 1,
+   "q": "Should I tell coworkers I'm interviewing somewhere else?",
+   "a": "Usually it's best to keep it to yourself until you've accepted an offer. Even close work friends can slip up, and word can reach your boss before you're ready. Schedule interviews around lunch or before or after work. Once you've signed the new offer, tell your manager first, then your coworkers."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_025.jpg",
+   "n": 2,
+   "q": "Should I accept a counteroffer to stay?",
+   "a": "Think hard first. A raise fixes the money, but not always the reasons you started looking, like your boss, your workload or your growth. Some managers also start seeing you as a flight risk. Ask yourself: would I have stayed if they'd offered this before I found a new job? If yes, it might be worth it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_018.jpg",
+   "n": 3,
+   "q": "What do I say when they ask my salary expectations?",
+   "a": "Research typical pay for the role in your area first. Then try to get them to share theirs: 'What's the budgeted range for this role?' If you have to name a number, give a range based on your research, with your ideal number near the bottom. Some places now require pay ranges in job posts, so check those too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_097.jpg",
+   "n": 4,
+   "q": "What should I do first if I get laid off?",
+   "a": "Take a breath, it happens to great people. Before signing anything, read your severance agreement and ask questions. Apply for unemployment benefits right away, since they don't start automatically. Check what happens to your health insurance, retirement account and unused vacation. Then ask for references while things are fresh."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_100.jpg",
+   "n": 5,
+   "q": "What should I do on my last day at work?",
+   "a": "Wrap up loose ends and leave clear notes for whoever takes over. Return equipment, save any personal files, and make sure they have your address for your final paycheck and tax forms. Send a short, warm goodbye with your email or LinkedIn. Leave on good terms, because people remember how you left."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_074.jpg",
+   "title": "Which one do you need right now?",
+   "emoji": "💼",
+   "sub": "comment the number. your boss won't see"
+  }
+ ]
+}

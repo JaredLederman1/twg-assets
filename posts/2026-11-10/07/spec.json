@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_006.jpg",
+   "kicker": "be honest…",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_033.jpg",
+   "n": 1,
+   "q": "Why do certain smells remind me of my ex?",
+   "a": "Smell is processed in parts of the brain closely linked to memory and emotion. That's why a perfume, detergent or food can instantly bring someone back, sometimes more strongly than a photo. It's not a sign you're stuck. Those links soften as new memories form, so it really does get easier with time."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_061.jpg",
+   "n": 2,
+   "q": "Why does my ex look totally fine online?",
+   "a": "Social media is a highlight reel. People post the fun night out, not the night they cried in bed. Some people even post more after a breakup to look okay. You're comparing your real feelings to their edited version. Muting or unfollowing them for a while isn't petty, it's protecting your healing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_031.jpg",
+   "n": 3,
+   "q": "Why do I still want to tell them everything?",
+   "a": "For months or years, they were the first person you'd text about good news, bad news and random stuff. That habit doesn't disappear overnight. It's your brain reaching for its usual connection. Try writing it in your notes app or texting a friend instead. Over time, the urge to reach for them fades."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_012.jpg",
+   "n": 4,
+   "q": "Why does losing our future plans hurt so much?",
+   "a": "A breakup isn't just losing a person, it's losing the trips, the home and the life you pictured together. Grieving that future is real, even if the relationship had problems. Let yourself feel it. Then start making small new plans that are just yours. Your future didn't disappear, it's just changing shape."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_059.jpg",
+   "n": 5,
+   "q": "Why can't I stop wearing their hoodie?",
+   "a": "Their things can feel like comfort, a way to stay close while you adjust. That's normal, especially early on. But if it keeps the wound open, it might be time to put it in a box for now. You don't have to throw it away today. Just give yourself a little space from it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_088.jpg",
+   "title": "Which one are you going through?",
+   "emoji": "💔",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

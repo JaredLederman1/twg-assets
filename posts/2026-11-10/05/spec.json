@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_053.jpg",
+   "kicker": "no judgement",
+   "title": "Dating questions you'd never say out loud",
+   "emoji": "💘"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_040.jpg",
+   "n": 1,
+   "q": "How long should a first date last?",
+   "a": "There's no rule, but an hour or two is a sweet spot. That's enough time to see if there's a spark without feeling stuck if there isn't. Coffee or a drink is easy to extend or wrap up. If it's going great, you can always add a walk or dinner. Leaving wanting more is a good thing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_019.jpg",
+   "n": 2,
+   "q": "Is it okay to unmatch without saying anything?",
+   "a": "If you've only swapped a few messages, yes. Lots of people unmatch quietly, and nobody expects a formal goodbye. Once you've chatted for a while or planned a date, a short, kind message is better, like: 'I've enjoyed talking, but I'm not feeling a connection. Wishing you the best.' Simple and respectful."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_089.jpg",
+   "n": 3,
+   "q": "Is it weird to ask for a video call before we meet?",
+   "a": "Not at all. A quick video call helps you check they're who they say they are and whether there's any chemistry. Lots of people do it now. Keep it light: 'Want to do a quick video chat before we meet?' If someone always has an excuse to avoid it, take that as a sign to slow down."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_001.jpg",
+   "n": 4,
+   "q": "Should I tell a friend where I'm going on a first date?",
+   "a": "Yes, it's a smart habit, not paranoia. Share the place, the time and your date's name or profile with someone you trust, and check in with them afterward. Meet somewhere public and get there on your own so you can leave whenever you want. Most dates are totally fine. This just gives you peace of mind."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_050.jpg",
+   "n": 5,
+   "q": "Am I in a situationship?",
+   "a": "If you act like a couple but have never talked about what you are, you might be. Signs include last-minute plans, not meeting each other's friends, and never knowing where you stand. That's fine if you both want casual. If you want more, it's okay to ask directly. The right person won't run from that conversation."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_042.jpg",
+   "title": "Which one are you guilty of?",
+   "emoji": "💘",
+   "sub": "comment the number. we won't tell"
+  }
+ ]
+}

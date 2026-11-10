@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_015.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_087.jpg",
+   "n": 1,
+   "q": "Why do I gag when I brush my tongue?",
+   "a": "The back of your tongue is packed with nerves that trigger your gag reflex, a built-in defense against choking. Some people are just more sensitive. Brushing gently from the middle toward the front, breathing slowly through your nose and humming can help. With regular practice, it often gets easier."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_059.jpg",
+   "n": 2,
+   "q": "Why are my teeth so sensitive after whitening?",
+   "a": "Whitening gel seeps through your enamel into the softer layer underneath, which has tiny channels leading to the nerve. That's why cold drinks suddenly zing. It's usually temporary and fades within a few days. Toothpaste for sensitive teeth and breaks between treatments help. Worth seeing a dentist if it lasts more than a week or two."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_014.jpg",
+   "n": 3,
+   "q": "Why do my knees ache after sitting for a long time?",
+   "a": "Sitting with bent knees keeps pressure on the cartilage behind your kneecap, and the joint stiffens when it barely moves. It's common enough to have a nickname: moviegoer's knee. Standing to stretch every half hour and strengthening your thigh muscles help. Worth seeing a doctor if your knee swells, locks or gives way."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_039.jpg",
+   "n": 4,
+   "q": "Why does my hip click when I lift my leg?",
+   "a": "Usually it's a tendon or muscle sliding over a bony bump around the hip, which makes a snap you can hear. It's called snapping hip, and it's common in dancers and runners. If it doesn't hurt, it's generally harmless, and gentle stretching can help. Worth seeing a doctor if it's painful or your hip feels like it catches."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_079.jpg",
+   "n": 5,
+   "q": "Why is my vision blurry when I first wake up?",
+   "a": "Overnight your eyes make fewer tears, so the surface dries out a little and a thin film of mucus can build up. Your first few blinks spread fresh tears and clear it, which is why things sharpen within a minute. Worth seeing a doctor if the blur lasts or comes with pain."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/streets_008.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

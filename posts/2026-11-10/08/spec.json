@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_031.jpg",
+   "kicker": "no judgement",
+   "title": "Money questions nobody taught us",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_074.jpg",
+   "n": 1,
+   "q": "What happens if I take money out of my 401(k) early?",
+   "a": "Before age 59½, you'll usually pay income tax on the withdrawal plus a 10% penalty, so you can lose a big chunk. You also lose the growth that money would have earned. There are some exceptions, so check with your plan first. If you're in a pinch, ask whether a 401(k) loan or another option makes more sense."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_002.jpg",
+   "n": 2,
+   "q": "Why did my credit score drop after I paid off a loan?",
+   "a": "It sounds unfair, but it's common. When you pay off a car or student loan, that account closes, which can change your mix of credit and leave you with fewer active accounts. The dip is usually small and temporary. Paying it off is still a win, and your score should recover with on-time payments."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_065.jpg",
+   "n": 3,
+   "q": "How do I dispute a charge on my card?",
+   "a": "First, contact the merchant and ask for a refund. If that doesn't work, call your card company or use its app to file a dispute, also called a chargeback. Have receipts, emails and dates ready. Act fast, since there are time limits, and some protections only cover disputes within 60 days of your statement."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_068.jpg",
+   "n": 4,
+   "q": "What happens to my points if I close a credit card?",
+   "a": "In most cases, you lose any points or miles still on the card. Before closing it, redeem them, or move them to a travel partner or another card from the same bank if that's allowed. Also, closing an old card can lower your credit score a little, since it reduces your total available credit."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_059.jpg",
+   "n": 5,
+   "q": "What's PMI on a mortgage?",
+   "a": "PMI is private mortgage insurance. Lenders usually require it on a conventional loan if your down payment is under 20%. It protects the lender, not you, and gets added to your monthly payment. The good news: you can ask to drop it once you owe 80% of the home's original value, and it usually ends automatically at 78%."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_017.jpg",
+   "title": "Which one did you actually need?",
+   "emoji": "💸",
+   "sub": "comment the number. we're all learning"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_008.jpg",
+   "kicker": "it's late and i'm wondering…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_056.jpg",
+   "n": 1,
+   "q": "How do I tell them I want to slow things down?",
+   "a": "It's completely okay to want to slow down, and saying so early is kinder than pulling away. Be clear and warm: tell them you like them and want this to work, you just need more time before the next step. Mention something specific, like seeing each other a little less often. Someone who's right for you will respect your pace."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_014.jpg",
+   "n": 2,
+   "q": "How do I tell my partner I want a prenup?",
+   "a": "Frame it as planning together, not a sign you don't trust them. A prenup is basically an agreement about how money and property would be handled, and lots of couples find the conversation useful. Bring it up early, well before the wedding, and explain why it matters to you. Usually each person should have their own lawyer review it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_002.jpg",
+   "n": 3,
+   "q": "Is it okay to want to keep my last name?",
+   "a": "Absolutely. In many places, changing your name after marriage is a choice, not a requirement, and lots of people keep theirs for their career, their family or just because it feels like them. Others hyphenate, or both partners pick something new. The best move is talking it through with your partner early, so neither of you is surprised."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_007.jpg",
+   "n": 4,
+   "q": "How do we decide whose family to see for the holidays?",
+   "a": "There's no single right answer, but many couples settle on alternating years, or splitting the day if your families live close together. Talk early, and figure out which traditions matter most to each of you. Then decide together and tell your families as a team, so neither of you ends up the bad guy."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_030.jpg",
+   "n": 5,
+   "q": "What do I do if my friends don't like my partner?",
+   "a": "First, ask your friends what specifically worries them, and really listen, because people who love you sometimes notice things you can't. It might just be a personality clash. But if they mention how your partner treats you, take that seriously. You don't have to pick sides right away. Spend time all together, and trust what you see over time."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_031.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "🌙",
+   "sub": "comment the number. this is a safe space"
+  }
+ ]
+}

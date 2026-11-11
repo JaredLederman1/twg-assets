@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/streets_007.jpg",
+   "kicker": "asking for a friend",
+   "title": "Food questions you'd never Google",
+   "emoji": "🍳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_033.jpg",
+   "n": 1,
+   "q": "Is it okay to eat cheese if I cut the mold off?",
+   "a": "It depends on the cheese. With hard cheeses like cheddar or parmesan, you can usually cut off at least an inch around and below the moldy spot and eat the rest, since mold can't spread far through them. Soft cheeses like ricotta or cream cheese, and anything shredded or sliced, should go in the trash, because mold spreads through them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_082.jpg",
+   "n": 2,
+   "q": "Is it safe to eat potatoes that have sprouted?",
+   "a": "Usually yes, as long as the potato is still firm. Cut out the sprouts and any green parts, because those can contain solanine, a natural compound that can upset your stomach in large amounts. If the potato is soft, wrinkly or covered in long sprouts, it's best to toss it. Storing potatoes somewhere cool and dark slows sprouting."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_036.jpg",
+   "n": 3,
+   "q": "Is it bad to refreeze meat that already thawed?",
+   "a": "It depends on how you thawed it. If it thawed in the fridge, you can refreeze it, though the texture might get a little mushier. If it thawed on the counter or sat out for more than two hours, don't refreeze or eat it, since bacteria can grow fast at room temperature. Cooking it first, then freezing it, also works."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_037.jpg",
+   "n": 4,
+   "q": "Is the stringy white thing in eggs safe to eat?",
+   "a": "That stringy white bit is called the chalaza, and it's totally safe to eat. Every egg has two of them. They're twisted strands of protein that act like little anchors, holding the yolk in the center of the egg. A really noticeable one is actually a sign the egg is fresh. You can cook it right along with everything else."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_024.jpg",
+   "n": 5,
+   "q": "Is it actually bad to eat raw cookie dough?",
+   "a": "Sadly, yes, it can make you sick. Raw eggs can carry salmonella, and raw flour can carry E. coli, since flour isn't treated to kill germs. Baking takes care of both. If you love eating it raw, look for edible cookie dough made to be eaten uncooked, or recipes that use heat-treated flour and no eggs."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_020.jpg",
+   "title": "Which one have you done anyway?",
+   "emoji": "😅",
+   "sub": "comment the number. no judgement here"
+  }
+ ]
+}

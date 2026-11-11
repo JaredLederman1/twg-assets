@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_024.jpg",
+   "kicker": "no judgement",
+   "title": "Questions you're too scared to Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_060.jpg",
+   "n": 1,
+   "q": "How often should I replace my running shoes?",
+   "a": "A common rule of thumb is every 300 to 500 miles, which works out to roughly every six months to a year for a lot of regular runners. The cushioning wears out before the shoe looks wrecked. Signs it's time include flattened soles, new aches after runs or shoes that feel less springy. Rotating two pairs can help them last."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_015.jpg",
+   "n": 2,
+   "q": "How often should I clean my humidifier?",
+   "a": "More often than most people think. Empty it and let it dry out daily if you can, and give it a proper clean every few days, following the manual. Standing water can grow mold and bacteria that then get misted into the air you breathe. Using distilled water also cuts down on the white dust and mineral buildup."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_064.jpg",
+   "n": 3,
+   "q": "Why does my hair get frizzy when it's humid?",
+   "a": "Humid air is full of water, and your hair soaks it up. That moisture makes the strands swell unevenly, so they bend and stick out instead of lying smooth. Curly, dry or damaged hair tends to absorb more, which is why it frizzes faster. Conditioner, a leave-in or a light oil helps seal your hair against humidity."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_079.jpg",
+   "n": 4,
+   "q": "Why does my partner fall asleep instantly and I can't?",
+   "a": "People really differ. Taking around 10 to 20 minutes to drift off is considered pretty normal. Falling asleep the second your head hits the pillow can actually be a sign someone isn't getting enough sleep. If it takes longer, try a steady bedtime, dimmer lights and less screen time. Worth seeing a doctor if you often lie awake much longer."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_059.jpg",
+   "n": 5,
+   "q": "How do I make friends with my neighbors?",
+   "a": "Start small and repeat it. A wave, saying hi by the mailbox or remembering their dog's name goes a long way. Familiarity builds friendship, so regular little moments matter more than one big gesture. Then make a simple offer, like extra cookies, help with a package or inviting a few neighbors for a drink outside. Someone has to go first."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/desks_091.jpg",
+   "title": "Which one surprised you most?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

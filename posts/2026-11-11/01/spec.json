@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_023.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_022.jpg",
+   "n": 1,
+   "q": "Why do my joints ache when it rains?",
+   "a": "Lots of people swear their joints predict the weather, and there may be something to it. One theory is that when air pressure drops before a storm, tissues around the joints swell slightly and press on nerves. Studies are mixed, but the aches are real. Warmth and gentle movement help. Worth seeing a doctor if joints swell or stay painful."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_033.jpg",
+   "n": 2,
+   "q": "What are the little bumps around my nipples?",
+   "a": "Those little bumps are called Montgomery glands, and almost everyone has them. They release an oily substance that protects and moisturizes the skin around the nipple. They can look more noticeable with hormone changes, like around your period or during pregnancy. Don't squeeze them. Worth seeing a doctor if one gets painful, swollen or leaks, or you feel a lump."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_053.jpg",
+   "n": 3,
+   "q": "Why do I always need to pee right when I get home?",
+   "a": "It even has a name: latchkey urgency. Your brain links a familiar cue, like keys in the door, with finally getting to use the bathroom, so the urge hits early. It's a learned habit, and it can be undone. Try pausing, breathing slowly and walking calmly instead of rushing. Worth seeing a doctor if you leak or it's getting worse."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_064.jpg",
+   "n": 4,
+   "q": "Why does my skin feel tight after washing my face?",
+   "a": "That squeaky, tight feeling usually means your cleanser stripped away the natural oils that keep your skin barrier comfortable. Foaming cleansers and hot water are common culprits. Try a gentle, non-foaming cleanser, use lukewarm water and put moisturizer on while your skin is still a little damp. Worth seeing a dermatologist if it stays red, flaky or stings."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_063.jpg",
+   "n": 5,
+   "q": "Why do my nails turn yellow from nail polish?",
+   "a": "Pigments in polish, especially dark reds and blues, can soak into the top layers of your nails and stain them. It's harmless and grows out over a few months. A base coat helps prevent it, and short breaks from polish let you see your natural nails. Worth seeing a doctor if your nails get thick, crumbly or start lifting."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_091.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

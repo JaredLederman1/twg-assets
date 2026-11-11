@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_013.jpg",
+   "kicker": "be honest…",
+   "title": "Relationship questions you'd never say out loud",
+   "emoji": "💭"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_025.jpg",
+   "n": 1,
+   "q": "Is it bad that we've never had a big fight?",
+   "a": "Not necessarily. Some couples just have a calm style and talk things through before they boil over. Research on couples suggests that how you handle disagreements matters more than how often you fight. The thing to watch for is avoidance. If you both stay quiet to keep the peace, small resentments can pile up. Little honest check-ins help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_037.jpg",
+   "n": 2,
+   "q": "Is it bad that I don't know my partner's love language?",
+   "a": "Not at all. The five love languages are a popular idea from a book, and while lots of people find them a fun starting point, research hasn't shown they make or break relationships. What actually matters is knowing what makes your partner feel cared for. You can skip the quiz and just ask them, then pay attention to what lands."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_049.jpg",
+   "n": 3,
+   "q": "Is it okay if I don't like PDA?",
+   "a": "Totally okay. Lots of people feel more comfortable keeping affection private, and it doesn't mean you love your partner any less. Comfort levels just differ. The key is talking about it so they don't read it as rejection. You could agree on what feels good to you in public, like holding hands, and save the rest for when you're alone."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_023.jpg",
+   "n": 4,
+   "q": "How do we stop fighting over the blankets?",
+   "a": "You're not alone, and there's a simple fix lots of couples swear by: separate blankets. It's common in parts of Scandinavia, where couples share a bed but each use their own duvet. Nobody gets left in the cold, you each pick your own warmth, and it can mean fewer sleep interruptions. Same bed, way fewer arguments."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_050.jpg",
+   "n": 5,
+   "q": "How do I stop bringing up old fights?",
+   "a": "Bringing up old fights usually means something still feels unresolved, not that you're a bad partner. Try noticing when you do it and asking yourself what's really bothering you right now. Then talk about that one thing. If an old issue keeps coming back, it may need its own calm conversation, separate from whatever today's argument is about."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_081.jpg",
+   "title": "Which one hit close to home?",
+   "emoji": "👀",
+   "sub": "comment the number. no names needed"
+  }
+ ]
+}

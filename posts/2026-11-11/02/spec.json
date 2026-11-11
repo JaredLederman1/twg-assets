@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/outdoors_097.jpg",
+   "kicker": "no judgement",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_011.jpg",
+   "n": 1,
+   "q": "Is it normal for my penis to curve a little?",
+   "a": "Yes, a slight curve is really common, and it can bend up, down or to one side. Most curves are just how someone's body is built and don't affect anything. What matters more is change. Worth seeing a doctor if a curve appears or gets worse, if there's pain or a hard lump, or if it makes sex difficult."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_043.jpg",
+   "n": 2,
+   "q": "Is it normal for my vagina to have a smell?",
+   "a": "Yes, a healthy vagina has a mild scent, and it can change through your cycle, after a workout or after sex. That's normal, and it doesn't need perfumed washes or douching, which can actually upset its natural balance. Warm water on the outside is plenty. Worth seeing a doctor if there's a strong fishy smell, itching, burning or unusual discharge."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_085.jpg",
+   "n": 3,
+   "q": "Why do I have little purple veins on my legs?",
+   "a": "Those are usually spider veins, tiny blood vessels close to the skin's surface that have widened. They're very common and often run in families. Standing for long periods, pregnancy, hormones and age can all play a role. They're usually harmless and just cosmetic. Worth seeing a doctor if your leg swells, aches or feels warm, or a vein bulges."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_001.jpg",
+   "n": 4,
+   "q": "Why does a growing-out beard itch so much?",
+   "a": "When you shave, each hair is left with a stiff, angled tip. As it grows back, that edge can poke and irritate your skin, and the skin under a new beard tends to get dry too. The itch usually eases within a few weeks. Gentle washing and beard oil help. Worth seeing a doctor if painful bumps appear."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cafes_005.jpg",
+   "n": 5,
+   "q": "Why do I feel so stiff every morning?",
+   "a": "When you lie still for hours, your joints barely move, so the fluid that helps them glide doesn't circulate as much and your muscles tighten up. That's why mornings feel creaky. Gentle stretching, a warm shower and moving around usually loosen things up. Worth seeing a doctor if stiffness lasts more than an hour or your joints look swollen."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/cars_043.jpg",
+   "title": "Which one were you wondering about?",
+   "emoji": "🤫",
+   "sub": "drop the number. we won't tell"
+  }
+ ]
+}

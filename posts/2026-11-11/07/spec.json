@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_044.jpg",
+   "kicker": "no judgement",
+   "title": "Family questions you're too scared to Google",
+   "emoji": "🏠"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_085.jpg",
+   "n": 1,
+   "q": "How do I deal with my parents divorcing as an adult?",
+   "a": "It can hit way harder than people expect, even when you're a grown adult. You might grieve the family you knew, rethink old memories or feel stuck in the middle. All of that is normal. Try not to become either parent's go-between or therapist, and it's okay to set boundaries. Talking to a therapist can really help you process it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_020.jpg",
+   "n": 2,
+   "q": "How do I talk to my parents about their will?",
+   "a": "Bring it up gently, and make it about respecting their wishes rather than their money. You could say something like, I want to make sure we know what you'd want if something happens. It helps to know whether they have a will, who has power of attorney and where important documents are kept. It may take a few conversations."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_042.jpg",
+   "n": 3,
+   "q": "What do I do if my sibling never helps with our parents?",
+   "a": "This is one of the most common family frustrations. Start by asking for something specific, like handling appointments or chipping in money, instead of a general 'you need to help more.' Siblings who live far away can still pay bills, make calls or schedule things. If talking keeps turning into fights, a family meeting or counselor can help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_052.jpg",
+   "n": 4,
+   "q": "How do I help my parents with tech without losing patience?",
+   "a": "Remember that they're learning a language you grew up speaking. Slow down, let them do the tapping themselves and explain why, not just where to click. Writing simple step-by-step notes they can keep helps a lot. And if you're losing patience, it's totally fine to pick a better time and come back to it later."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_012.jpg",
+   "n": 5,
+   "q": "How do I tell my family I stopped eating meat?",
+   "a": "Keep it simple and low pressure. Let them know before the next family meal, so it doesn't feel like a surprise at the table. Offer to bring a dish everyone can enjoy, and skip lecturing about why. If someone pushes back, a calm 'it's just what works for me' usually ends it. Most families adjust faster than you'd think."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_040.jpg",
+   "title": "Which one is your family right now?",
+   "emoji": "😬",
+   "sub": "comment the number. we get it"
+  }
+ ]
+}

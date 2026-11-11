@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_034.jpg",
+   "kicker": "asking for a friend",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_032.jpg",
+   "n": 1,
+   "q": "How do I answer \"what's your biggest weakness\"?",
+   "a": "Pick a real weakness that won't sink the job, then show what you're doing about it. Something like, I used to struggle with delegating, so now I set clear handoffs and check-ins. Skip fake answers like I'm a perfectionist, because interviewers hear them constantly. What they really want to see is self-awareness and that you're working on it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_076.jpg",
+   "n": 2,
+   "q": "What do I do if I keep getting left out of meetings?",
+   "a": "Don't assume it's personal. Sometimes it's an oversight or someone trying to keep meetings small. Ask your manager or the organizer directly but casually, like, I'd love to stay in the loop on this project, could I join those meetings? Explain how it helps your work. If it keeps happening after that, it's worth a bigger conversation."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_006.jpg",
+   "n": 3,
+   "q": "Is it bad to switch jobs every couple of years?",
+   "a": "Not really, especially early in your career. Switching every couple of years is common now, and it can lead to bigger raises than staying put. What matters is the story you can tell: what you learned and why each move made sense. Lots of very short stints in a row can raise questions, so be ready to explain them."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_017.jpg",
+   "n": 4,
+   "q": "How do I tell a coworker they keep getting my name wrong?",
+   "a": "Correct it early and lightly, because it only gets more awkward with time. A quick, friendly 'oh, it's actually Maya' with a smile works great. In writing, signing your emails with your name helps too. Most people are embarrassed and grateful to be corrected. If it keeps happening on purpose, that's worth mentioning to your manager."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_046.jpg",
+   "n": 5,
+   "q": "Is it okay to wear the same outfit twice in one week?",
+   "a": "Totally okay. Most coworkers barely notice what you wore yesterday, let alone three days ago. Psychologists call this the spotlight effect: we think people pay way more attention to us than they actually do. Lots of people even choose a simple work uniform to save time and decisions. As long as it's clean and fits your workplace, wear it."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_044.jpg",
+   "title": "Which one would you never ask?",
+   "emoji": "🤐",
+   "sub": "comment the number. your boss isn't here"
+  }
+ ]
+}

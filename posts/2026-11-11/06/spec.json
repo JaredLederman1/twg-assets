@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_022.jpg",
+   "kicker": "asking for a friend",
+   "title": "Breakup questions you'd never say out loud",
+   "emoji": "💔"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_073.jpg",
+   "n": 1,
+   "q": "Who keeps the pet after a breakup?",
+   "a": "Start with what's best for the pet. Who did most of the daily care, and who has the space and time for them now? In many places, pets are legally treated like property, so whoever adopted or paid for them may have a stronger claim. Some exes share custody. Try to settle it calmly and put the agreement in writing."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_035.jpg",
+   "n": 2,
+   "q": "How do I cancel a trip we booked together?",
+   "a": "Start by checking the cancellation policy for each booking: flights, hotel and anything else. Some offer refunds or credits, especially if you cancel early, and travel insurance may cover more than you think. Then agree with your ex on how to split any money you can't get back. Or keep the trip and take a friend instead."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_093.jpg",
+   "n": 3,
+   "q": "Is it normal to want to rearrange everything after they move out?",
+   "a": "Totally normal. Your home is full of reminders, and changing the space helps your brain see it as yours again. Moving furniture, swapping bedding or painting a wall gives you a sense of control when a lot feels out of your hands. It can be a healthy step. Just maybe hold off on big, expensive changes for a little while."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_027.jpg",
+   "n": 4,
+   "q": "How do I get my stuff back without seeing them?",
+   "a": "Keep it short and practical. Send one clear message listing what you'd like back, and suggest an easy option, like leaving it with a friend, by the door or sending it by mail. You don't have to see them in person. Let it go if a few small things never come back, since replacing them is sometimes worth the peace."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_026.jpg",
+   "n": 5,
+   "q": "How do I stop asking mutual friends about my ex?",
+   "a": "It's natural to want updates, but every answer tends to reopen the wound and puts your friends in an awkward spot. Try asking them kindly not to mention your ex unless you bring it up. When the urge hits, text someone else or write the question down instead. Over time, the need to know usually fades a lot."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_062.jpg",
+   "title": "Which one are you going through?",
+   "emoji": "🫶",
+   "sub": "comment the number. you're not alone"
+  }
+ ]
+}

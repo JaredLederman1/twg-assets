@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_058.jpg",
+   "kicker": "asking for a friend",
+   "title": "Work questions you'd never ask your boss",
+   "emoji": "💼"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_019.jpg",
+   "n": 1,
+   "q": "How do I get over a bad performance review?",
+   "a": "Give yourself a day to feel annoyed or hurt. Then reread it and separate fair points from things you disagree with. Ask your manager for specific examples and what success would look like going forward. Set a couple of clear goals. One tough review rarely defines a career, but how you respond can really stand out."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_017.jpg",
+   "n": 2,
+   "q": "What do I do if I don't get along with my manager?",
+   "a": "Try to figure out their style. Some managers want quick updates, others want detail. Ask directly, 'How do you like to get updates?' Keep things professional and put important agreements in writing. You don't have to be friends to work well together. If it becomes unfair or hostile, talk to HR or look at other teams."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_025.jpg",
+   "n": 3,
+   "q": "How do I stop crying when I get feedback?",
+   "a": "Tears during feedback are often just a stress response, not a sign of weakness. Slow breathing helps, and so does taking notes, which gives your brain a task. It's okay to say, 'Give me a second, I care about this.' Asking for feedback in writing first can also make live conversations feel a lot less intense."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_056.jpg",
+   "n": 4,
+   "q": "What do I do if I nodded off in a meeting?",
+   "a": "Own it lightly. A quick 'Sorry, I lost focus for a second, could you repeat that?' is usually enough. If your boss noticed, you can briefly mention you slept badly. Then look at the cause. Long virtual meetings, heavy lunches and short sleep make it easy to drift. Worth seeing a doctor if you're sleepy during the day often."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_087.jpg",
+   "n": 5,
+   "q": "How do I handle a boss who texts me on weekends?",
+   "a": "First, find out if they actually expect a reply. Many bosses just send messages when it suits them. You can ask, 'When you message on weekends, do you need an answer before Monday?' Turn off notifications outside work hours if you can, and reply during work time to non-urgent things. Clear expectations make boundaries much easier."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_038.jpg",
+   "title": "Which one is your work life right now?",
+   "emoji": "😩",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/cars_086.jpg",
+   "kicker": "be honest…",
+   "title": "5 things you'd never Google",
+   "emoji": "🫣"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_010.jpg",
+   "n": 1,
+   "q": "Why does my face get so red after a workout?",
+   "a": "When you exercise, your body heats up, so blood vessels near your skin widen to release that heat. That shows up as a red face, especially on fair skin. It's normal and usually fades within an hour. Cooling down and drinking water help. Worth seeing a doctor if it comes with dizziness, chest pain or hives."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_065.jpg",
+   "n": 2,
+   "q": "Why do I get pins and needles when I sit cross-legged?",
+   "a": "Sitting that way presses on nerves in your leg, especially one that runs near the outside of your knee, and squeezes blood flow a little. The nerve's signals get scrambled, so you feel tingling or numbness. It fades within minutes once you move. Shifting positions often helps. Worth seeing a doctor if numbness happens without pressure or doesn't go away."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_097.jpg",
+   "n": 3,
+   "q": "Why does my tongue have patches like a map?",
+   "a": "That's likely geographic tongue, a harmless condition where smooth red patches with pale borders appear and move around over days or weeks. It affects roughly 1 to 3 percent of people and isn't contagious. Spicy or acidic food can make it sting. Worth showing a dentist or doctor to confirm, especially if a patch hurts or never changes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_089.jpg",
+   "n": 4,
+   "q": "Why do I sneeze when I'm really full?",
+   "a": "It has a real name: snatiation, a mix of sneeze and satiation. Some people sneeze a few times after a big meal, and it seems to run in families. Researchers think a stretched stomach may set off the sneeze reflex through shared nerve pathways, but nobody knows for sure. It's harmless, just a quirky reflex you might share with relatives."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_060.jpg",
+   "n": 5,
+   "q": "Why do I startle so easily?",
+   "a": "Your startle reflex is a built-in safety response, and its strength varies a lot between people. Being tired, stressed, anxious or running on too much caffeine can turn it up, so you jump at every noise. Sleep, less caffeine and calming routines can help. Worth talking to a doctor if it comes with ongoing anxiety or follows a scary event."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/transit_048.jpg",
+   "title": "Which one did you secretly need?",
+   "emoji": "👀",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_082.jpg",
+   "kicker": "no judgement",
+   "title": "Skin questions you're too shy to ask",
+   "emoji": "🙈"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/streets_001.jpg",
+   "n": 1,
+   "q": "Why do I get acne on my back?",
+   "a": "Your back has lots of oil glands, and sweat, friction from backpacks or tight shirts, and hair products rinsing down can all clog pores there. Showering soon after workouts, wearing breathable fabrics and washing your back after conditioner can help. Body washes with benzoyl peroxide or salicylic acid are worth trying. See a dermatologist if it's painful, deep or scarring."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_083.jpg",
+   "n": 2,
+   "q": "Why do my heels crack?",
+   "a": "Heel skin is thick and has no oil glands, so when it dries out, standing pressure makes it split. Open-back shoes, hot showers and dry winter air make it worse. Moisturize daily with a thick cream, ideally one with urea, and wear socks after. Worth seeing a doctor if cracks bleed, get infected or you have diabetes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_003.jpg",
+   "n": 3,
+   "q": "Why does my hair get so staticky in winter?",
+   "a": "Cold winter air holds very little moisture, so electric charge builds up on your hair instead of draining away. Friction from hats, scarves and brushing adds even more. Dry hair gets staticky faster, so conditioner and a little leave-in product help. A humidifier, a metal comb or a dryer sheet smoothed over your hair can calm it down quickly."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_039.jpg",
+   "n": 4,
+   "q": "Can I get sunburned on a cloudy day?",
+   "a": "Yes. Clouds block some UV, but a lot still gets through, so you can burn on an overcast day, especially if you're outside for hours. Snow, water and sand also reflect UV back at you. That's why dermatologists suggest sunscreen whenever you'll be outdoors for a while, even when it's gray. Reapply about every two hours, and after swimming."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_009.jpg",
+   "n": 5,
+   "q": "Why do my eyes get bloodshot?",
+   "a": "Red eyes happen when tiny blood vessels on the surface of your eye widen. Common causes are being tired, dry air, long screen time, allergies, smoke and wearing contacts too long. Rest, blinking breaks and lubricating eye drops usually help. Worth seeing a doctor right away if red eyes come with pain, light sensitivity, blurry vision or thick discharge."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/bedrooms_065.jpg",
+   "title": "Which one is your skin's secret?",
+   "emoji": "👀",
+   "sub": "comment the number. we've all been there"
+  }
+ ]
+}

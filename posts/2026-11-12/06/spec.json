@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/kitchens_003.jpg",
+   "kicker": "asking for a friend",
+   "title": "Relationship questions you're too scared to Google",
+   "emoji": "😳"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_025.jpg",
+   "n": 1,
+   "q": "How do I tell my partner their cooking isn't great?",
+   "a": "Lead with appreciation, because they cooked for you. Then make it about preferences, not their skills: 'I love that you cook for me. Could we try a little less salt next time?' Offer to cook together or try a new recipe as a team. Specific, gentle suggestions land far better than general criticism, and it can become a fun ritual."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_015.jpg",
+   "n": 2,
+   "q": "How do we handle having different spending habits?",
+   "a": "Pick a calm time, not right after a big purchase. Share how you each grew up with money, since that shapes habits a lot. Then agree on shared goals and an amount either of you can spend without checking in. Plenty of couples use a mix of joint and separate accounts. The goal is teamwork, not proving who's right."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_063.jpg",
+   "n": 3,
+   "q": "What do I do if my friend's partner flirts with me?",
+   "a": "First, don't flirt back, and keep things clearly friendly. If it's subtle, keeping some distance and avoiding one-on-one time may be enough. If it keeps happening or crosses a line, tell your friend what happened and stick to specific facts. It's an awkward conversation, but most friends would want to know. Save any messages if there are some."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_005.jpg",
+   "n": 4,
+   "q": "Should I tell my friend I think their partner is cheating?",
+   "a": "First, be sure what you know versus what you suspect. If you have real evidence, talk to your friend privately, share only the facts and skip your opinions about their partner. Be ready for any reaction, including anger at you. Then let them decide what to do next. Your job is to be honest and supportive, not to fix it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_081.jpg",
+   "n": 5,
+   "q": "How do I handle my best friend getting engaged when I'm single?",
+   "a": "It's normal to feel happy for them and a little sad for yourself at the same time. Both can be true. Let yourself feel it privately, then show up for them in ways that feel real to you. Your timeline isn't behind, it's just yours. If the feeling sticks around, talking it through with another friend can really help."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_006.jpg",
+   "title": "Which one are you going through?",
+   "emoji": "💬",
+   "sub": "comment the number. this is a safe space"
+  }
+ ]
+}

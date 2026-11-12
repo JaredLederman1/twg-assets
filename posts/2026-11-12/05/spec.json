@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/transit_020.jpg",
+   "kicker": "no judgement",
+   "title": "Dating questions you'd never say out loud",
+   "emoji": "🤫"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_063.jpg",
+   "n": 1,
+   "q": "How do I tell someone I'm not interested after one date?",
+   "a": "Keep it short, kind and clear. Something like, 'I really enjoyed meeting you, but I didn't feel a romantic connection. Wishing you the best.' You don't owe a long explanation, and a clear no is kinder than ghosting or sending mixed signals. Try to send it within a day or two so they're not left wondering what happened."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_007.jpg",
+   "n": 2,
+   "q": "How do I ask my partner about their past relationships?",
+   "a": "Pick a relaxed moment, not right after a fight, and lead with curiosity. Try, 'What did your past relationships teach you about what you want?' Share your own history too, so it feels balanced. Focus on lessons and patterns rather than details you'll compare yourself to. If something they share stings, it's okay to say so gently."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_024.jpg",
+   "n": 3,
+   "q": "What do I do if my ex texts me on my birthday?",
+   "a": "You don't have to respond at all. If you want to keep things friendly, a short 'thanks' is enough. If it stirs up feelings you're trying to move past, it's okay to leave it unanswered or mute the chat. A birthday text doesn't automatically mean they want you back. Ask yourself what you need right now, then do that."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/desks_041.jpg",
+   "n": 4,
+   "q": "How do I stop waiting for my ex to text?",
+   "a": "Waiting keeps hope alive, so your brain keeps checking for that little hit of relief. Make checking harder: mute or archive the chat, turn off notifications and move the app off your home screen. Fill those empty moments with plans and people. The urge fades with time, and one day you'll notice you checked less without even trying."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_069.jpg",
+   "n": 5,
+   "q": "What do I do about a crush on a coworker?",
+   "a": "Work crushes are really common, since you spend so much time together. Feeling it is fine. Before acting, check your company's policy, and avoid anyone you manage or who manages you. If you want to see if it's mutual, a low-key invite like coffee works, and treat any hesitation as a no. Keep it professional either way."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/livingrooms_054.jpg",
+   "title": "Which one hit too close?",
+   "emoji": "👀",
+   "sub": "comment the number. we won't judge"
+  }
+ ]
+}

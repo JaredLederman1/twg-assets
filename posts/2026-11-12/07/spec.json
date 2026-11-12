@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/windows_007.jpg",
+   "kicker": "be honest…",
+   "title": "Questions you'd only ask your best friend",
+   "emoji": "😬"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_055.jpg",
+   "n": 1,
+   "q": "How do I stop oversharing?",
+   "a": "Oversharing often happens when you're nervous or trying to fill a silence. Before sharing something personal, pause and ask yourself, 'Would I be okay if this got repeated?' Asking the other person questions takes the pressure off. If you do overshare, don't spiral. A quick 'anyway, enough about me' works, and most people forget it way faster than you do."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_091.jpg",
+   "n": 2,
+   "q": "What do I do if I forget someone's name mid-conversation?",
+   "a": "It happens to everyone. You can just say, 'I'm so sorry, remind me of your name again?' People usually don't mind. If you'd rather dodge it, introduce them to someone else and let them say their name, or ask for their number and have them type it in. Next time, repeat a name out loud right after you hear it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_030.jpg",
+   "n": 3,
+   "q": "How do I deal with a friend who only talks about themselves?",
+   "a": "Sometimes people ramble when they're stressed or nervous, so it's not always selfishness. Try gently steering things: 'Can I share something that happened to me?' If it's a pattern, kindly tell them you'd love more back-and-forth. A good friend will want to know. If nothing changes, it's okay to invest a little less energy there."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_042.jpg",
+   "n": 4,
+   "q": "How do I stop feeling left out of the group chat?",
+   "a": "A quiet chat doesn't always mean a hidden one. Side chats often form around one plan. If you feel left out, try being the one who starts a plan or asks a question. You can also tell a friend you trust, 'I've been feeling a little out of the loop lately.' Usually it's an oversight, not a rejection."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_017.jpg",
+   "n": 5,
+   "q": "How do I share good news without sounding like I'm bragging?",
+   "a": "Share it simply and with feeling, like 'I got the job and I'm so excited!' Bragging comes from comparing or repeating it, not from sharing. Know your audience. If a friend is struggling in that same area, a lighter touch helps. Then turn the conversation back to them. The people who love you want to celebrate with you."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_096.jpg",
+   "title": "Which one is so you?",
+   "emoji": "😅",
+   "sub": "comment the number. no judgement here"
+  }
+ ]
+}

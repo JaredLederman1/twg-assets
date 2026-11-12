@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_040.jpg",
+   "kicker": "be honest…",
+   "title": "Questions you're too scared to Google",
+   "emoji": "👀"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_026.jpg",
+   "n": 1,
+   "q": "How do I tell my roommate they're too loud?",
+   "a": "Pick a calm moment, not right when the noise is happening. Be specific: 'When music plays after 11 on weeknights, I can't sleep. Could we agree on quiet hours?' Offer something in return, like keeping your own noise down. Write the agreed hours down. A rug or a door sweep can also cut noise more than you'd expect."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_092.jpg",
+   "n": 2,
+   "q": "Should I tip on a takeout order?",
+   "a": "Tipping on takeout is optional in the US, and habits vary a lot. Many people leave around 10 percent or a few dollars, especially for big or complicated orders. Delivery is different, so a tip there is expected. If money's tight, there's no shame in skipping a tip on a simple pickup."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_048.jpg",
+   "n": 3,
+   "q": "How do I ask for help at work without looking incompetent?",
+   "a": "Show you've tried first. Something like, 'I've looked into X and tried Y, but I'm stuck on Z. Can you point me in the right direction?' That sounds proactive, not lost. Asking early usually beats struggling quietly and missing a deadline. Thank them afterward and share how it turned out. Most people like being asked for help."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_061.jpg",
+   "n": 4,
+   "q": "Why do I feel off when my routine changes?",
+   "a": "Routines help your brain and body run on autopilot. When they change, like with travel, a new job or daylight saving time, your sleep, meals and energy all shift. That can leave you tired, foggy or a bit irritable. Keep a few anchors steady, like your wake time, meals and a short walk, and you'll usually adjust within days."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/bedrooms_070.jpg",
+   "n": 5,
+   "q": "Is food still safe after the best-by date?",
+   "a": "Usually, yes. In the US, 'best by' dates are about quality, not safety, so food may just taste a little less fresh after. Look, smell and check for mold or bulging packaging. Infant formula is the exception and should always be used by its date. 'Use by' dates on fresh foods are worth taking more seriously."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/windows_021.jpg",
+   "title": "Which one were you too scared to Google?",
+   "emoji": "🫣",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}

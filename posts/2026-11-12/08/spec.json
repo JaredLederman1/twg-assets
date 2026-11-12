@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/livingrooms_008.jpg",
+   "kicker": "no judgement",
+   "title": "Money questions nobody asks out loud",
+   "emoji": "💸"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_004.jpg",
+   "n": 1,
+   "q": "What should I do with my first real paycheck?",
+   "a": "Start by covering your bills and essentials. Then try to build a small emergency fund. Even a few hundred dollars helps. If your job offers a retirement match, contributing enough to get it is basically free money. Pay more than the minimum on any high-interest debt. And yes, save a little to celebrate. You earned it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_003.jpg",
+   "n": 2,
+   "q": "How do I stop comparing my salary to my friends'?",
+   "a": "Pay varies by industry, city, company and plenty of luck, so comparing yours to a friend's rarely tells the full story. Use the comparison as information, not a verdict on your worth. Look up typical pay for your role, and if you're underpaid, that's useful leverage for a raise. Then focus on your own goals, not someone else's paycheck."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_087.jpg",
+   "n": 3,
+   "q": "How much should I spend on a wedding gift?",
+   "a": "There's no fixed rule. A common approach is to spend based on how close you are and what you can comfortably afford. Many people give somewhere around $50 to $150, more for close friends or family. If you're traveling far or in the wedding party, a smaller gift is usually totally fine. A heartfelt card always counts too."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_030.jpg",
+   "n": 4,
+   "q": "How do I get out of an expensive group gift?",
+   "a": "Be honest and quick. Try, 'That's a bit more than I can do right now, but I'd love to chip in $20,' or 'I'm going to get them something small on my own.' You don't owe anyone a detailed money explanation. Most people will understand, and someone else in the group is probably relieved you said it first."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_030.jpg",
+   "n": 5,
+   "q": "How do I stop spending so much on takeout?",
+   "a": "Takeout adds up fast because fees, tips and delivery markups make meals pricier than they look. Look back at a month of orders to see your real total. Keep easy backup meals at home for tired nights, like frozen dumplings or pasta. Picking up orders yourself skips delivery fees. You don't have to quit, just set a weekly limit."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_026.jpg",
+   "title": "Which one did you need today?",
+   "emoji": "💸",
+   "sub": "comment the number. we're all figuring it out"
+  }
+ ]
+}

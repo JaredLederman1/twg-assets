@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/desks_050.jpg",
+   "kicker": "asking for a friend",
+   "title": "Things your doctor wishes you'd just ask",
+   "emoji": "🩺"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_010.jpg",
+   "n": 1,
+   "q": "Why do I keep getting ingrown toenails?",
+   "a": "Usually it's how you trim them. Cutting nails too short or rounding the corners lets the edge grow into the skin. Tight shoes and naturally curved nails add to it. Cut straight across and leave the corners a little long. Soaking in warm water can ease soreness. Worth seeing a doctor if it's red, swollen, oozing or you have diabetes."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/transit_004.jpg",
+   "n": 2,
+   "q": "Why does my body ache right before I get sick?",
+   "a": "Those aches are your immune system gearing up. When it spots an infection, it releases signaling chemicals that cause inflammation, and that can make your muscles feel sore and heavy before other symptoms show up. Rest and fluids help. Worth seeing a doctor if aches are severe or come with a high fever."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_032.jpg",
+   "n": 3,
+   "q": "Why am I getting hairs on my chin?",
+   "a": "Totally normal. Hormone shifts, especially changes in androgens with age, stress or around menopause, can turn soft chin hairs darker and coarser. Genetics plays a big part too. Tweezing, waxing or threading is fine. Worth seeing a doctor if lots of hair shows up suddenly, or comes with irregular periods or acne, since that can point to PCOS."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_019.jpg",
+   "n": 4,
+   "q": "Why do I have more wrinkles on one side of my face?",
+   "a": "Often it's the side you sleep on. Pressing your face into a pillow night after night can create sleep lines that deepen over time. If you drive a lot, the side facing the window may also get more sun. Sleeping on your back and wearing sunscreen daily can help. It's harmless, just a habit showing up on your skin."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/kitchens_031.jpg",
+   "n": 5,
+   "q": "Why do I get muscle knots in my shoulders?",
+   "a": "Knots are tight, tender spots in a muscle that won't fully relax. Hours hunched over a phone or desk, stress and carrying bags on one shoulder are classic causes. Gentle stretching, heat, massage and moving around more often usually loosen them. Worth seeing a doctor if the pain is severe, spreads down your arm or comes with numbness."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/outdoors_060.jpg",
+   "title": "Which one have you been wondering about?",
+   "emoji": "🤔",
+   "sub": "tell me the number. no one's judging"
+  }
+ ]
+}

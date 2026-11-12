@@ -1,0 +1,53 @@
+{
+ "slides": [
+  {
+   "kind": "title",
+   "bg": "backgrounds/bedrooms_023.jpg",
+   "kicker": "be honest…",
+   "title": "Things I'd only ask at 2am",
+   "emoji": "🌙"
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/windows_010.jpg",
+   "n": 1,
+   "q": "Why do I get sleepy as soon as I start reading?",
+   "a": "Reading asks your eyes and brain to focus hard while your body stays still, often in a cozy spot at night. That combo, plus mental fatigue, makes it easy to drift off. If you're short on sleep, it's even faster. Try reading sitting up, in brighter light or earlier in the day. It's not a bad habit."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_100.jpg",
+   "n": 2,
+   "q": "Why do I get so sleepy after a hot shower?",
+   "a": "A warm shower brings blood to your skin, and afterward your body cools down quickly. That drop in temperature is one of the signals your brain uses to start sleep. Studies suggest a warm shower or bath one to two hours before bed can help people fall asleep faster. Worth a try if you struggle to fall asleep."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/cars_069.jpg",
+   "n": 3,
+   "q": "Why do I crave something sweet after dinner?",
+   "a": "A lot of it is habit. If dessert usually follows dinner, your brain learns to expect it. Being tired, stressed or not eating enough earlier in the day can also make sweets more tempting at night. Balanced meals with protein and fiber help. A small treat is totally fine. You don't need to feel guilty about it."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/outdoors_073.jpg",
+   "n": 4,
+   "q": "Why do I feel shaky after a workout?",
+   "a": "Shakiness after hard exercise usually means your muscles are tired. The nerves and muscle fibers get fatigued and can't hold perfectly steady. Low blood sugar, not drinking enough water and too much pre-workout caffeine can also play a role. Eat something and hydrate afterward. Worth seeing a doctor if you feel faint, have chest pain or it keeps happening."
+  },
+  {
+   "kind": "q",
+   "bg": "backgrounds/livingrooms_045.jpg",
+   "n": 5,
+   "q": "Why does my throat get sore on planes?",
+   "a": "Cabin air is extremely dry, often drier than most deserts, so the lining of your throat and nose dries out over a long flight. Breathing through your mouth while you nap makes it worse. Sip water, try a saline nasal spray and use lozenges. If it lingers for days with a fever, you may have caught a bug."
+  },
+  {
+   "kind": "end",
+   "bg": "backgrounds/kitchens_014.jpg",
+   "title": "Which one kept you up?",
+   "emoji": "🌙",
+   "sub": "comment the number. no one's judging"
+  }
+ ]
+}
